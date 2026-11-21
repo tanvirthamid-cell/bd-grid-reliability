@@ -1,0 +1,145 @@
+unit_id,cod_year,source,note
+amnura50mwppsinha,2011,wri_gppd,
+anwara300mwppunited,2019,bpdb_ar,Anowara Chattogram 300 MW PP
+ashuganj150mwppmidland,2018,bpdb_ar,
+ashuganj195mwppunited,2015,bpdb_ar,
+ashuganj225mwccpp,2015,bpdb_ar,SC GT unit Apr 2015
+ashuganj420mwccppeast,2022,bpdb_ar,
+ashuganj450mwccppnorth,2017,bpdb_ar,AR row labelled South (2017); North by elimination
+ashuganj450mwccppsouth,2016,bpdb_ar,
+ashuganj50mwpp,2011,bpdb_ar,
+ashuganjtsk50mwpp,2011,bpdb_ar,same plant as Ashuganj 50 MW (renamed 2025)
+ashuganj51mwppmidland,2013,bpdb_ar,
+ashuganj53mwppunited,2011,bpdb_ar,Ashuganj quick rental 53 MW
+ashuganj55mwppprecision,2010,bpdb_ar,Ashuganj Rental 55 MW
+ashuganjtppunit3,1986,web_verified,COD 17 Dec 1986 (APSCL via energytransitionbd)
+ashuganjtppunit4,1987,web_partial,"units 3-5 built 1986-89 (OPEC Fund, GEM); exact year for unit 4 not found"
+ashuganjtppunit5,1988,web_verified,GEM unit table ST5 1988
+aurahati100mwppaggreko,2018,bpdb_ar,
+baghabari100mwgtpp,2001,web_verified,COD 25 Nov 2001 (energytransitionbd; GEM)
+baghabari71mwgtpp,1991,web_verified,COD 4 Jun 1991 (energytransitionbd; GEM)
+baghabari200mwppparamount,2019,bpdb_ar,
+baghabari50mwpeakingpp,2011,bpdb_ar,
+barabkunda22mwppregent,2016,wri_gppd,
+barapukuria275mwtppunit3,2018,bpdb_ar,
+barapukuriatppunit1,2006,web_verified,Wikipedia; energytransitionbd
+barapukuriatppunit2,2006,web_verified,Wikipedia; energytransitionbd
+barapukuriatppunit12,2006,web_verified,Wikipedia; energytransitionbd
+barishal110mwppsummit,2016,bpdb_ar,
+barishal307mw,2023,bpdb_ar,
+barishalgtppunit12,1987,wri_gppd,
+bbariaaggreko85mw,2011,bpdb_ar,B Baria quick rental
+bera70mwpeakingpp,2011,bpdb_ar,
+bhairob545mw,2021,bpdb_ar,
+bheramara410mwccpp,2017,bpdb_ar,GT May 2017; ST Jan 2018
+bheramaragtppunit123,1976,wri_gppd,
+bheramaragtppunit3,1976,wri_gppd,
+bhola225mwccpp,2015,bpdb_ar,
+bholanutanbiddutbd,2021,bpdb_ar,Bhola 220 MW CCPP
+bibianaii341mwccppsummit,2015,web_verified,"SC COD 6 Jun 2015, CC 28 Dec 2015 (Summit)"
+bibiyanaiii400mwccpp,2018,web_verified,"open cycle 2018, CC 2019 (L&T-S&L; energytransitionbd)"
+bibiyanasouth400mw,2021,bpdb_ar,
+bogra22mwppgbb,2009,wri_gppd,
+bogura113mwppconfidence1,2019,bpdb_ar,
+bogura113mwppconfidence2,2019,bpdb_ar,
+confidencepowerboguraunit1113,2019,bpdb_ar,
+confidencepowerboguraunit1113mw,2019,bpdb_ar,
+bogura20mwppenergyprima,2011,bpdb_ar,
+bosila108mwppclc,2017,bpdb_ar,
+brahmangaon100mwppaggreko,2018,bpdb_ar,
+fenchuganjccppphase1,1995,web_conflicting,1994 (Wikipedia) vs 1995 (GEM); GEM used
+fenchuganjccppphase2,2011,bpdb_ar,Fenchuganj 90 MW CCPP
+ccppphase2,2011,bpdb_ar,Fenchuganj phase-2 under new name
+chandpur115doreen,2022,bpdb_ar,
+chandpur150mwccpp,2012,bpdb_ar,
+chandpur200mwdeshenergy,2018,bpdb_ar,
+chapainawabganj100mwpeakingpp,2017,bpdb_ar,
+chattogram108mwppecpv,2015,bpdb_ar,Potiya 108 MW
+chattogramtpp1,1993,web_verified,unit 1 commissioned 31 Jul 1993 (Wikipedia)
+chattogramtpp2,1997,web_verified,unit 2 in operation Sep 1997
+chowmuhani113mw,2019,bpdb_ar,
+daudkandi200mwppbtrac,2018,bpdb_ar,
+dohazarikalaish100mwpeaking,2011,bpdb_ar,
+energypacpowerventurethakurgaon,2022,bpdb_ar,Thakurgao 100 MW
+faridpur50mwpeakingpp,2011,bpdb_ar,
+fenilankapower,2019,bpdb_ar,Feni 114 MW
+gagnagar102mwppdigitalpower,2014,bpdb_ar,
+gazipur100mwpp,2019,bpdb_ar,
+gazipur52mwpp,2012,bpdb_ar,
+ghorasal108mwppregent,2014,bpdb_ar,
+ghorasal365mwccppunit7,2018,bpdb_ar,
+ghorasal785mwppmax,2011,bpdb_ar,Ghorashal quick rental 78 MW
+ghorasalrepoweredccppunit3,2021,bpdb_ar,Ghorasal 416 MW CCPP (repowered unit 3)
+ghorasalrepoweredccppunit3gt,2021,bpdb_ar,
+ghorasalrepoweredccppunit4,2018,web_verified,repowered GT simple cycle Oct 2018 (UNB; Power Technology); original ST 1989
+ghorasaltppunit12,1967,web_verified,units 1 and 2: 1967 and 1976 (Dhaka Tribune); older unit used for the combined row
+ghorasaltppunit5,1994,web_conflicting,recall 1994; GEM lists a 210 MW unit 1999 - unit numbering differs across sources
+gopalganj100mwpeakingpp,2011,bpdb_ar,
+haripur360mwccpphpl,2001,web_verified,COD Dec 2001
+haripur412mwccpp,2013,bpdb_ar,row reads Haripur 360 MW CCPP 412 MW EGCB Dec 2013
+haripurgtpp,,unknown,1987 recall not supported by any source found
+hathazari100mwpeakingpp,2011,bpdb_ar,
+jamalpur115mwppunited,2019,bpdb_ar,
+jamalpur95mwpppowerpac,2016,bpdb_ar,
+jangalia52mwpplakdanavi,2014,bpdb_ar,Cumilla (Jangalia) 50 MW
+juldah100mwunit1acorn,2012,bpdb_ar,Julda Chattogram PP
+juldah100mwppunit3acorn,2018,bpdb_ar,
+kamalaghat54mwppbancoenergy,2018,bpdb_ar,
+kanchanpurbachalpowergeneration,2021,bpdb_ar,
+katakhali50mwpeakingpp,2012,bpdb_ar,
+katpotti52mwppsinha,2015,bpdb_ar,
+keraniganj100mwpppowerpac,2012,bpdb_ar,
+keraniganj300mwppapr,2018,bpdb_ar,Pangaon Keraniganj 300 MW
+khulna115ppmwkpcl2,2011,bpdb_ar,
+khulna225mwccpp,2013,bpdb_ar,GT 2013; upgraded to CC 2016
+khulna330mwccpp,2023,bpdb_ar,
+khulna330mwccppoil,2023,bpdb_ar,
+kodda149mwppunit1summit,2018,bpdb_ar,
+kodda150mwpp,2015,bpdb_ar,
+kodda300mwppunit2summit,2018,bpdb_ar,
+kushiara163mwccppkp,2017,bpdb_ar,
+madanganj102ppsummit,2011,bpdb_ar,Modanganj quick rental
+madanganj55mwppsummit,2016,bpdb_ar,
+madhumati100mwpp,2019,bpdb_ar,
+manikganj162mwpp,2020,bpdb_ar,
+manikganj162mwppmpgl,2020,bpdb_ar,
+manikganj55mwppnorthern,2016,bpdb_ar,
+meghnaghat100mwiel,2011,bpdb_ar,Meghnaghat quick rental
+meghnaghat104mwppopcl,2020,bpdb_ar,
+meghnaghat450mwccppmpl,2002,web_verified,COD 26 Nov 2002 (ADB review)
+meghnaghatccppsummit,2015,web_verified,"SC 29 May 2014, CC 1 Jun 2015 (Summit)"
+mirsharai150mw,2023,bpdb_ar,
+mymensingh200mwppunited,2018,bpdb_ar,
+nababganj55mwppsouthernpower,2016,bpdb_ar,
+natore52mwpprajlanka,2014,bpdb_ar,
+noapara100mwppbanglatrac,2018,bpdb_ar,
+noapara40mwppkhanjahanali,2011,bpdb_ar,
+rangpur113mwppconfidence,2019,bpdb_ar,
+raozan25mwpp,2013,bpdb_ar,
+rupsha105mwpporionrupsha,2018,bpdb_ar,
+santahar50mwpeakingpp,2012,bpdb_ar,
+shahjahanulla25mwpp,2013,bpdb_ar,
+shahjibazar100mwgtpp,2021,bpdb_ar,
+siddhirganj100ppdutchbangla,2011,bpdb_ar,Siddhirganj quick rental 100
+siddhirganj210mwtpp,,unknown,2004 recall not supported; sources give 2012 or 2015
+210mwsiddhirganjtpp,,unknown,2004 recall not supported; sources give 2012 or 2015
+siddhirganj2120mwgtpp,2010,bpdb_ar,
+siddhirganj335mwccpp,2018,bpdb_ar,GT Apr 2018; ST Sep 2019
+sikalbaha105mwppbaraka,2019,bpdb_ar,
+sikalbaha105mwppbarakasikalbaha,2019,bpdb_ar,
+sikalbaha225mw,2017,bpdb_ar,
+sikalbaha225mwccpp,2017,bpdb_ar,
+sikalbahapeakinggt,2010,bpdb_ar,Shikalbaha 150 MW
+sirajganjunit1225mw,2012,bpdb_ar,Sirajganj 150 MW GTPP 2012 (CC later)
+sirajganj225mwccppunit1,2012,bpdb_ar,
+sirajganjunit2225mw,2018,bpdb_ar,
+sirajganj225mwccppunit2,2018,bpdb_ar,
+sirajganjunit3225mw,2018,bpdb_ar,
+sirajganj225mwccppunit3,2018,bpdb_ar,
+sirajganj400mwccppunit4,2018,bpdb_ar,
+sylhet150mwccpp,2012,bpdb_ar,
+tangailpallipowergen22mw,2020,bpdb_ar,
+titas50mwpeakingpp,2011,bpdb_ar,
+tongi80mwgtpp,2005,web_verified,inaugurated 3 Sep 2005 (Daily Star)
+ullapara11mwppsummit,2009,wri_gppd,
+unitedpayrapower,2021,bpdb_ar,Potuakhali 150 MW (United)

@@ -1,0 +1,47 @@
+{
+ "gas": {
+  "official_gwh": 78541,
+  "inferred_gwh": 78106,
+  "ratio": 0.994
+ },
+ "coal": {
+  "official_gwh": 62287,
+  "inferred_gwh": 62287,
+  "ratio": 1.0
+ },
+ "oil": {
+  "official_gwh": 19606,
+  "inferred_gwh": 19443,
+  "ratio": 0.992
+ },
+ "hydro": {
+  "official_gwh": 1804,
+  "inferred_gwh": 1804,
+  "ratio": 1.0
+ },
+ "solar": {
+  "official_gwh": 2472,
+  "inferred_gwh": 2472,
+  "ratio": 1.0
+ },
+ "import": {
+  "official_gwh": 31188,
+  "inferred_gwh": 31188,
+  "ratio": 1.0
+ },
+ "wind": {
+  "official_gwh": 157,
+  "inferred_gwh": 157,
+  "ratio": 1.0
+ },
+ "nuclear": {
+  "official_gwh": 2,
+  "inferred_gwh": 2,
+  "ratio": 0.999
+ },
+ "unknown": {
+  "inferred_gwh": 597
+ },
+ "days_parsed": 679,
+ "days_used": 650
+}

@@ -1,0 +1,5 @@
+tech,units,unit_years,running_pct,fuel_off_pct,forced_pct,maint_unspec_pct,planned_pct,reserve_pct,blank_pct,FOR_daily,trips_per_unit_year,capacity_factor
+ccgt,40,158.4,72.4,8.5,5.3,9.2,0.7,1.4,1.2,0.069,5.13,0.538
+gas_turbine,24,111.9,44.6,15.3,14.0,5.3,0.0,15.3,4.9,0.239,0.65,0.153
+steam,19,59.7,45.5,26.0,2.1,22.8,0.8,0.9,0.2,0.044,2.7,0.42
+recip_engine,96,379.1,83.4,4.6,0.9,0.2,0.0,8.5,0.1,0.01,0.41,0.333

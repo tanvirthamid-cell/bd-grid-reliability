@@ -1,0 +1,226 @@
+unit_id,name,n_names,producer,owner,tech,fuel,cfg,cap_max,first,last,n_days,entered_in_sample,energy_gwh,gas_remark_days,oil_remark_days,coal_remark_days,cod_year,cod_source,cod_match,town,lat,lon
+payra1320mw,Payra 1320 MW,2,BCPCL,public_jv,steam,coal,2*622,1244.0,2020-01-13,2026-11-18,2467,1,42153.4,0,0,33,2020,first_appearance,,payra,21.99,90.29
+bheramarahvdcimported,Bheramara (HVDC ) Imported,2,power,import,import,import,2*500,1000.0,2019-01-11,2024-12-30,1871,0,34303.7,0,0,0,,na_import,,bheramara,24.06,88.99
+sirajganj400mwccppunit4,Sirajgonj 400MW CCPP Unit-4,3,SNWPGCL,public,ccgt,gas,1*282+1*132,414.0,2019-01-11,2026-11-18,2551,0,20799.0,566,0,0,2018,bpdb_ar,,sirajganj,24.43,89.70
+rampal1320mwbifpcl,Rampal 1320 MW (BIFPCL),1,NTPC&BPDB,public_jv,steam,coal,660*2,1234.2,2022-08-13,2026-11-18,1532,1,20327.9,0,0,319,2022,first_appearance,,rampal,22.59,89.55
+sspower,SS Power,3,IPP,private,steam,coal,2*660,1320.0,2023-05-25,2026-11-18,1252,1,19975.0,0,4,258,2023,first_appearance,,sspower,21.98,91.92
+adanipowerjharkhanda,Adani Power Jharkhanda Ltd,1,Import,import,import,import,2*673,1496.0,2022-12-01,2026-11-18,936,1,19189.5,0,0,74,,na_import,,,,
+haripur412mwccpp,Haripur 412MW CCPP,1,EGCB,public,ccgt,gas,1*273+1*139,412.0,2019-01-11,2026-11-18,2551,0,18517.0,701,0,0,2013,bpdb_ar,row reads Haripur 360 MW CCPP 412 MW EGCB Dec 2013,haripur,23.66,90.53
+bibiyanaiii400mwccpp,Bibiyana-III 400MW CCPP,1,PDB,public,ccgt,gas,285*1+134*1,400.0,2019-01-11,2026-11-18,2551,0,17190.8,167,0,0,2018,web_verified,"open cycle 2018, CC 2019 (L&T-S&L; energytransitionbd)",bibiyana,24.62,91.66
+bibianaii341mwccppsummit,Bibiana-II 341MW CCPP (Summit),1,IPP,private,ccgt,gas,1*222+1*119,341.0,2019-01-11,2026-11-18,2551,0,16492.3,78,0,0,2015,web_verified,"SC COD 6 Jun 2015, CC 28 Dec 2015 (Summit)",bibiyana,24.62,91.66
+meghnaghat450mwccppmpl,Meghnaghat 450MW CCPP(MPL),2,IPP,private,ccgt,gas,2*150+1*150,450.0,2019-01-11,2026-11-18,2551,0,16036.0,1168,0,0,2002,web_verified,COD 26 Nov 2002 (ADB review),meghnaghat,23.61,90.60
+ashuganj450mwccppnorth,Ashuganj 450MW CCPP(North),1,APSCL,public,ccgt,gas,1*360,360.0,2019-01-11,2026-11-18,2551,0,15846.2,675,0,0,2017,bpdb_ar,AR row labelled South (2017); North by elimination,ashuganj,24.04,91.02
+matarbari2600mwcpgcbl,Matarbari 2*600MW (CPGCBL),2,CPGCL,public,steam,coal,2*600,1200.0,2023-07-29,2026-11-18,1188,1,14866.0,0,0,132,2023,first_appearance,,matarbari,21.71,91.88
+bheramarahvdc,Bheramara (HVDC ),1,Import,import,import,import,2X500,1000.0,2024-12-31,2026-11-18,681,1,14099.6,0,0,0,,na_import,,bheramara,24.06,88.99
+bibiyanasouth400mw,Bibiyana South 400MW,1,PDB,public,ccgt,gas,400MW,383.0,2020-06-04,2026-11-18,2330,1,13227.5,94,0,0,2021,bpdb_ar,,bibiyana,24.62,91.66
+ashuganj450mwccppsouth,Ashuganj 450MW CCPP(South),1,APSCL,public,ccgt,gas,1*360,360.0,2019-01-11,2026-11-18,2551,0,13145.7,653,0,0,2016,bpdb_ar,,ashuganj,24.04,91.02
+bheramara410mwccpp,Bheramara 410MW CCPP,3,NWPGCL,public,ccgt,gas,1*278+1*132,410.0,2019-01-11,2026-11-18,2551,0,12071.7,1876,1,0,2017,bpdb_ar,GT May 2017; ST Jan 2018,bheramara,24.06,88.99
+siddhirganj335mwccpp,Siddhirganj 335MW CCPP,1,EGCB,public,ccgt,gas,1*217+118,335.0,2019-01-11,2026-11-18,2551,0,11580.6,902,1,0,2018,bpdb_ar,GT Apr 2018; ST Sep 2019,siddhirganj,23.68,90.51
+adanipowerjharkhandaimported,Adani Power Jharkhanda Ltd Imported,1,power,import,import,import,748*2,1496.0,2023-08-19,2024-12-30,487,1,10884.6,0,0,19,,na_import,,,,
+ashuganj225mwccpp,Ashuganj 225MW CCPP,2,APSCL,public,ccgt,gas,1*142+1*75,221.43,2019-01-11,2026-11-18,2551,0,10712.5,433,0,0,2015,bpdb_ar,SC GT unit Apr 2015,ashuganj,24.04,91.02
+haripur360mwccpphpl,Haripur 360MW CCPP(HPL),2,IPP,private,ccgt,gas,1*235+1*125,360.0,2019-01-11,2026-11-18,2551,0,9370.5,882,0,0,2001,web_verified,COD Dec 2001,haripur,23.66,90.53
+barapukuria275mwtppunit3,Barapukuria 275MW TPP Unit-3,2,PDB,public,steam,coal,1*275,274.0,2019-01-11,2026-11-18,2551,0,9111.6,0,0,780,2018,bpdb_ar,,barapukuria,25.55,88.95
+sikalbaha225mw,Sikalbaha 225MW,2,PDB,public,ccgt,gas,1*150+1*75,225.0,2019-01-11,2026-11-18,2551,0,8865.8,166,0,0,2017,bpdb_ar,,sikalbaha,22.33,91.85
+bholanutanbiddutbd,Bhola Nutan Biddut BD LTD,2,IPP,private,ccgt,gas,220,220.0,2020-10-26,2026-11-18,2188,1,8864.0,7,0,0,2021,bpdb_ar,Bhola 220 MW CCPP,bhola,22.65,90.65
+meghnaghatccppsummit,Meghnaghat CCPP(Summit),1,IPP,private,ccgt,gas,2*110+1*110,335.0,2019-01-11,2026-11-18,2551,0,8373.6,1291,1,0,2015,web_verified,"SC 29 May 2014, CC 1 Jun 2015 (Summit)",meghnaghat,23.61,90.60
+sylhet225mwccpp,Sylhet 225MW CCPP,1,PDB,public,ccgt,gas,1*142+1*89,231.0,2020-06-02,2026-11-18,2332,1,7835.6,122,0,0,2020,first_appearance,,sylhet,24.89,91.87
+kushiara163mwccppkp,Kushiara 163MW CCPP (KP),2,IPP,private,ccgt,gas,1*109+1*54,163.0,2019-01-11,2026-11-18,2551,0,6757.6,304,0,0,2017,bpdb_ar,,kushiara,24.70,91.94
+sirajganjunit3225mw,Sirajgonj Unit-3 225MW,3,NWPGCL,public,ccgt,gas,1*141,220.0,2019-01-11,2026-11-18,2551,0,6704.1,1557,0,0,2018,bpdb_ar,,sirajganj,24.43,89.70
+patuakhali1320mwrnpl,Patuakhali 1320 MW (RNPL),1,RNPL,public_jv,steam,coal,660*2,1320.0,2025-01-19,2026-11-18,637,1,6501.4,0,0,103,2025,first_appearance,,patuakhali,21.99,90.27
+ashuganj420mwccppeast,Ashuganj 420MW CCPP(East),1,APSCL,public,ccgt,gas,284*1+116*1,400.0,2022-06-20,2026-11-18,1586,1,6330.6,584,0,0,2022,bpdb_ar,,ashuganj,24.04,91.02
+barishal307mw,Barisal 307MW,1,BCPCL,private,steam,coal,307*1,307.0,2022-10-29,2026-11-18,1456,1,6223.6,0,0,351,2023,bpdb_ar,,barishal,22.70,90.37
+kodda300mwppunit2summit,Kodda 300MW PP Unit-2 (Summit),1,IPP,private,recip_engine,oil,18*17.076,300.0,2019-01-11,2026-11-18,2551,0,5947.9,0,508,0,2018,bpdb_ar,,kodda,24.00,90.37
+bhola225mwccpp,Bhola 225MW CCPP,2,PDB,public,ccgt,gas,2*63+1*68,194.0,2019-01-11,2026-11-18,2551,0,5887.1,263,0,0,2015,bpdb_ar,,bhola,22.65,90.65
+sirajganjunit1225mw,Sirajgonj Unit-1 225MW,3,NWPGCL,public,ccgt,gas,1*150+1*75,214.0,2019-01-11,2026-11-18,2551,0,5799.4,1837,0,0,2012,bpdb_ar,Sirajganj 150 MW GTPP 2012 (CC later),sirajganj,24.43,89.70
+anwara300mwppunited,Anwara 300MW PP (United),1,IPP,private,recip_engine,oil,17*17+24,300.0,2019-01-11,2026-11-18,2551,0,5282.3,0,632,0,2019,bpdb_ar,Anowara Chattogram 300 MW PP,anwara,22.21,91.87
+sirajganjunit2225mw,Sirajgonj Unit-2 225MW,3,NWPGCL,public,ccgt,gas,1*150+1*75,220.0,2019-01-11,2026-11-18,2551,0,5162.3,854,39,0,2018,bpdb_ar,,sirajganj,24.43,89.70
+ghorasal365mwccppunit7,Ghorasal 365MW CCPP Unit-7,1,PDB,public,ccgt,gas,1*243+1*122,365.0,2019-01-11,2026-11-18,2551,0,5143.4,765,0,0,2018,bpdb_ar,,ghorasal,23.98,90.63
+210mwccpp,RPCL 210MW CCPP,2,IPP,public,ccgt,gas,4*35+1*70,210.0,2019-01-11,2026-11-18,2551,0,5103.8,2358,0,0,,unknown,,mymensingh,24.75,90.41
+mymensingh200mwppunited,Mymensingh 200MW PP (United),1,IPP,private,recip_engine,oil,9.78*21,200.0,2019-01-11,2026-11-18,2551,0,4898.2,0,1053,0,2018,bpdb_ar,,mymensingh,24.75,90.41
+impoprttripuraimported,Impoprt (Tripura) Imported,1,power,import,import,import,0,160.0,2019-01-11,2024-12-30,1870,0,4815.9,0,0,0,,na_import,,,,
+uniquemeghnaghatpowerumpl,Unique Meghnaghat Power Limited (UMPL),3,IPP,private,ccgt,gas,0,584.0,2023-09-03,2026-11-18,1153,1,4470.0,375,0,0,2023,first_appearance,,meghnaghat,23.61,90.60
+shajibazar330mwccpp,Shajibazar 330MW CCPP,1,PDB,public,ccgt,gas,3*110,330.0,2019-01-11,2026-11-18,2408,0,4206.0,206,0,0,,unknown,,shajibazar,24.24,91.49
+kodda149mwppunit1summit,Kodda 149MW PP Unit-1 (Summit),1,IPP,private,recip_engine,oil,8*18.45+8.97,150.0,2019-01-11,2026-11-18,2551,0,4091.9,0,498,0,2018,bpdb_ar,,kodda,24.00,90.37
+meghnaghatccppsummit2,Meghnaghat CCPP(Summit)-2,2,IPP,private,ccgt,gas,1*409+1*202,583.0,2023-09-11,2026-11-18,1145,1,3864.9,308,0,0,2023,first_appearance,,meghnaghat,23.61,90.60
+kaptaihydrounit12345,"Kaptai Hydro: Unit-1,2,3,4, 5",1,PDB,public,hydro,hydro,2*40+3*50,230.0,2019-01-11,2024-12-30,1870,0,3846.1,0,0,0,,unknown,,kaptai,22.50,92.22
+chandpur200mwdeshenergy,Chandpur 200MW (Desh energy),1,IPP,private,recip_engine,oil,12*18.4,200.0,2019-01-11,2026-11-18,2551,0,3750.3,1,656,0,2018,bpdb_ar,,chandpur,23.23,90.67
+ghorasaltppunit5,Ghorasal TPP Unit-5,1,PDB,public,steam,gas,1*210,190.0,2019-01-11,2026-11-18,2551,0,3722.2,1098,0,0,1994,web_conflicting,recall 1994; GEM lists a 210 MW unit 1999 - unit numbering differs across sources,ghorasal,23.98,90.63
+chandpur150mwccpp,Chandpur 150MW CCPP,1,PDB,public,ccgt,gas,1*106+1*57,163.0,2019-01-11,2026-11-18,2551,0,3488.6,259,1,0,2012,bpdb_ar,,chandpur,23.23,90.67
+shahjibazar86mwppshahjibazar,Shahjibazar 86MW PP (Shahjibazar),1,RPP,private,recip_engine,gas,32*2.90,86.0,2019-01-11,2026-11-18,2551,0,3476.2,346,0,0,,unknown,,shajibazar,24.24,91.49
+jamalpur115mwppunited,Jamalpur 115MW PP (United),2,IPP,private,recip_engine,oil,9.78*12,115.0,2019-01-11,2026-11-18,2551,0,3276.0,0,926,0,2019,bpdb_ar,,jamalpur,24.92,89.94
+manikganj162mwppmpgl,Manikgonj 162MW PP(MPGL),2,IPP,private,recip_engine,oil,9*18,162.0,2020-11-05,2026-11-18,2178,1,3150.7,0,519,0,2020,bpdb_ar,,manikganj,23.86,90.00
+ashuganj150mwppmidland,Ashuganj 150MW PP (Midland),1,IPP,private,recip_engine,oil,23*7.015,150.0,2019-01-11,2026-11-18,2551,0,2906.8,2,514,0,2018,bpdb_ar,,ashuganj,24.04,91.02
+ghorasalrepoweredccppunit4,Ghorasal Repowered CCPP Unit-4,1,PDB,public,ccgt,gas,1*210,240.0,2019-01-11,2026-11-18,2551,0,2890.0,967,0,0,2018,web_verified,repowered GT simple cycle Oct 2018 (UNB; Power Technology); original ST 1989,ghorasal,23.98,90.63
+rangpur113mwppconfidence,Rangpur 113MW PP (Confidence),3,IPP,private,recip_engine,oil,9*6.984+7*7.015+3.15*2,113.0,2019-01-11,2026-11-18,2551,0,2762.4,0,509,0,2019,bpdb_ar,,rangpur,25.74,89.25
+kodda150mwpp,Kodda 150MW PP,3,BPDB-RPCL,public,recip_engine,oil,9*17.06,149.36,2019-01-11,2026-11-18,2551,0,2680.8,1,405,0,2015,bpdb_ar,,kodda,24.00,90.37
+gazipur100mwpp,Gazipur 100MW PP,1,RPCL,public,recip_engine,oil,6*17.5,105.0,2019-01-11,2026-11-18,2551,0,2561.4,0,529,0,2019,bpdb_ar,,gazipur,24.00,90.42
+shahjibazargtppunit89,Shahjibazar GTPP Unit- 8&9,2,PDB,public,gas_turbine,gas,2*35,66.57,2019-01-11,2026-11-18,2551,0,2498.2,209,0,0,,unknown,,shajibazar,24.24,91.49
+ashuganj51mwppmidland,Ashuganj 51MW PP (Midland),1,IPP,private,recip_engine,gas,6*9.34,51.0,2019-01-11,2026-11-18,2551,0,2435.6,119,0,0,2013,bpdb_ar,,ashuganj,24.04,91.02
+ashuganj195mwppunited,Ashuganj 195MW PP (APSCL-United),2,IPP,public,recip_engine,gas,20*9.73+1*16,195.0,2019-01-11,2026-11-18,2551,0,2373.5,2071,0,0,2015,bpdb_ar,,ashuganj,24.04,91.02
+bogura113mwppconfidence2,Bagura 113MW PP (Confidence)-2,2,IPP,private,recip_engine,oil,6*18.55+7.2,113.0,2019-01-11,2026-11-18,2537,0,2329.3,0,569,0,2019,bpdb_ar,,bogura,24.85,89.37
+juldah100mwppunit3acorn,Juldah 100MW PP Unit-3 (Acorn),1,IPP,private,recip_engine,oil,8*13.5,100.0,2019-01-11,2026-11-18,2551,0,2258.6,0,1024,0,2018,bpdb_ar,,juldah,22.28,91.84
+anlimaenergy,Anlima Energy Ltd.,1,IPP,private,recip_engine,oil,6*21.2,116.0,2020-11-23,2026-11-18,2160,1,2245.9,0,556,0,2020,first_appearance,,anlima,22.70,90.37
+juldahunit2acorn,Juldah unit-2 (Acorn),2,IPP,private,recip_engine,oil,8*13.6,100.0,2020-03-15,2026-11-18,2409,1,2226.6,0,933,0,2020,first_appearance,,juldah,22.28,91.84
+karnaphulipower,Karnaphuli Power Ltd.,1,IPP,private,recip_engine,oil,18.415*6+6.5,110.0,2019-01-11,2026-11-18,2551,0,2225.3,0,629,0,,unknown,,karnaphuli,22.27,91.82
+fenchuganjccppphase1,Fenchugonj CCPP Phase-1,3,PDB,public,ccgt,gas,2*32+1*33,90.0,2019-01-11,2026-11-18,2551,0,2199.3,128,0,0,1995,web_conflicting,1994 (Wikipedia) vs 1995 (GEM); GEM used,fenchuganj,24.70,91.94
+chattogramtpp1,Chattogram TPP-1,1,PDB,public,steam,gas,1*210,180.0,2019-01-11,2024-12-30,1870,0,2189.0,1426,0,0,1993,web_verified,unit 1 commissioned 31 Jul 1993 (Wikipedia),chattogram,22.43,91.98
+chowmuhani113mw,Chowmuhani 113MW,1,IPP,private,recip_engine,oil,12*9.78+2*3.1,113.0,2019-12-22,2026-11-18,2488,1,2181.8,0,1256,0,2019,bpdb_ar,,chowmuhani,22.95,91.10
+siddhirganj2120mwgtpp,Siddhirgonj 2*120MW GTPP,1,EGCB,public,gas_turbine,gas,2*105,210.0,2019-01-11,2026-11-18,2551,0,1948.1,2147,2,0,2010,bpdb_ar,,siddhirganj,23.68,90.51
+summitpowermadhabdiashulia,"Summit Power,(Madhabdi+Ashulia)",2,"SIPP,REB",private,recip_engine,gas,3*3.67+4*8.73,80.0,2019-01-11,2024-12-30,1870,0,1928.3,0,0,0,,unknown,,summit,23.92,90.72
+ghorasal108mwppregent,Ghorashal 108MW PP (Regent),1,IPP,private,recip_engine,gas,34*3.35,108.0,2019-01-11,2026-11-18,2551,0,1875.6,1638,0,0,2014,bpdb_ar,,ghorasal,23.98,90.63
+fenilankapower,Feni Lanka Power,1,IPP,private,recip_engine,oil,7*18.415+1*9.78,114.0,2019-01-11,2026-11-18,2526,0,1869.6,0,425,0,2019,bpdb_ar,Feni 114 MW,feni,23.01,91.40
+karnaphulihydroppunit12345,"Karnaphuli Hydro PP Unit-1,2,3,4, 5",1,PDB,public,hydro,hydro,2*40+3*50,230.0,2024-12-31,2026-11-18,681,1,1832.2,0,0,0,2024,first_appearance,,karnaphuli,22.27,91.82
+meghnaghat104mwppopcl,Meghnaghat 104MW PP (OPCL),2,IPP,private,recip_engine,oil,18.5*6,104.0,2020-07-02,2026-11-18,2303,1,1807.2,0,1409,0,2020,bpdb_ar,,meghnaghat,23.61,90.60
+fenchuganjccppphase2,Fenchugonj CCPP Phase-2,1,PDB,public,ccgt,gas,2*35+1*35,90.0,2019-01-11,2026-11-15,2385,0,1765.2,52,0,0,2011,bpdb_ar,Fenchuganj 90 MW CCPP,fenchuganj,24.70,91.94
+chandpur115doreen,Chandpur 115(Doreen),1,IPP,private,recip_engine,oil,4*18.5+2*22.5,115.0,2021-11-24,2026-11-18,1794,1,1756.8,0,716,0,2022,bpdb_ar,,chandpur,23.23,90.67
+jerameghnaghatpower,JERA Meghnaghat Power Limited,1,IPP,private,recip_engine,gas,250*2+268,733.79,2024-11-20,2026-11-18,722,1,1749.4,343,0,0,2024,first_appearance,,meghnaghat,23.61,90.60
+energypacpowerventurethakurgaon,Energypac Power Venture Thakurgaon Ltd.,2,IPP,private,recip_engine,oil,115,115.0,2021-12-21,2026-11-18,1767,1,1723.7,0,318,0,2022,bpdb_ar,Thakurgao 100 MW,energypac,26.03,88.47
+ashuganj50mwpp,Ashuganj 50MW PP,2,APSCL,public,recip_engine,gas,14*3.968,46.94,2019-01-11,2026-11-18,2551,0,1544.0,948,0,0,2011,bpdb_ar,,ashuganj,24.04,91.02
+rupsha105mwpporionrupsha,Rupsha 105MW PP (Orion rupsha),2,IPP,private,recip_engine,oil,6*18.445,105.0,2019-01-11,2026-11-18,2551,0,1531.1,0,1139,0,2018,bpdb_ar,,rupsha,22.80,89.58
+sikalbaha105mwppbarakasikalbaha,Sikalbaha 105MW PP (Baraka Sikalbaha),1,IPP,private,recip_engine,oil,6*17.5,105.0,2019-01-11,2026-11-18,2031,0,1506.4,0,613,0,2019,bpdb_ar,,sikalbaha,22.33,91.85
+gagnagar102mwppdigitalpower,Gagnagar 102MW PP (Digital Power),2,IPP,private,recip_engine,oil,12*8.924,102.0,2019-01-11,2026-11-18,2551,0,1480.2,0,1042,0,2014,bpdb_ar,,gagnagar,23.63,90.50
+fenchuganj51mwppbarakatullah,Fenchugonj 51MW PP (Barakatullah),2,RPP,private,recip_engine,gas,19*2.90,51.0,2019-01-11,2024-12-30,1870,0,1465.5,393,0,0,,unknown,,fenchuganj,24.70,91.94
+sikalbahapeakinggt,Sikalbaha Peaking GT,1,PDB,public,gas_turbine,gas,1*150,150.0,2019-01-11,2026-11-18,2551,0,1447.2,144,0,0,2010,bpdb_ar,Shikalbaha 150 MW,sikalbaha,22.33,91.85
+khulna225mwccpp,Khulna 225MW CCPP,2,NWPGCL,public,ccgt,oil,1*150+1*75,230.0,2019-01-11,2026-11-18,2551,0,1405.6,0,555,0,2013,bpdb_ar,GT 2013; upgraded to CC 2016,khulna,22.85,89.55
+teestasolar,Teesta Solar Limited,1,BCPCL,public_jv,solar,solar,16*12.5,200.0,2022-12-05,2026-11-18,1419,1,1389.5,0,0,0,2022,first_appearance,,,,
+kamalaghat54mwppbancoenergy,Kamalaghat 54MW PP(Banco Energy),2,IPP,private,recip_engine,oil,3*18,54.0,2019-01-11,2026-11-18,2551,0,1375.2,0,580,0,2018,bpdb_ar,,kamalaghat,23.54,90.43
+importtripura,Import (Tripura),1,Import,import,import,import,0,160.0,2024-12-31,2026-11-18,681,1,1359.4,0,0,0,,na_import,,,,
+confidencepowerboguraunit1113mw,Confidence Power Bogura Unit-1 113MW,1,IPP,private,recip_engine,oil,6*18.55,113.0,2019-01-11,2025-07-22,1562,0,1353.0,0,382,0,2019,bpdb_ar,,bogura,24.85,89.37
+chapainawabganj100mwpeakingpp,Chapainawabganj 100MW Peaking PP,3,PDB,public,gas_turbine,oil,12*8.924,104.0,2019-01-11,2026-11-18,2551,0,1314.9,0,351,0,2017,bpdb_ar,,chapainawabganj,24.60,88.27
+maona33mwppsummit,Maona 33MW PP(Summit),1,"SIPP,REB",private,recip_engine,gas,4*8.73,33.0,2019-01-11,2025-05-31,2021,0,1309.4,0,0,0,,unknown,,maona,24.20,90.35
+madanganj55mwppsummit,Madanganj-55MW PP(Summit),1,IPP,private,recip_engine,oil,3*17.08+1*11.3,55.0,2019-01-11,2026-11-18,2551,0,1305.6,0,447,0,2016,bpdb_ar,,madanganj,23.61,90.53
+manikganj55mwppnorthern,Manikganj 55MW PP (Northern),1,IPP,private,recip_engine,oil,3*19.3,55.0,2019-01-11,2026-11-18,2551,0,1299.7,0,624,0,2016,bpdb_ar,,manikganj,23.86,90.00
+ashuganj55mwppprecision,Ashuganj 55MW PP (Precision),1,QRPP,private,recip_engine,gas,15*4,55.0,2019-01-11,2026-11-18,2551,0,1293.2,1292,0,0,2010,bpdb_ar,Ashuganj Rental 55 MW,ashuganj,24.04,91.02
+malanchactgepzunited,"Malancha, Ctg. EPZ",2,(United),private,recip_engine,unknown,5*8.73+3*9.34,42.0,2019-01-11,2026-11-18,2551,0,1287.3,0,0,0,,unknown,,malancha,22.30,91.80
+rupganj33mwppsummit,Rupganj 33MW PP(Summit),1,"SIPP,REB",private,recip_engine,gas,4*8.73,33.0,2019-01-11,2025-06-01,2022,0,1251.5,29,0,0,,unknown,,rupganj,23.79,90.53
+dohazarikalaish100mwpeaking,Dohazari -Kalaish 100MW Peaking,1,PDB,public,gas_turbine,oil,6*17,102.0,2019-01-11,2026-11-18,2551,0,1231.8,2,845,0,2011,bpdb_ar,,dohazari,22.16,92.06
+barapukuriatppunit1,Barapukuria TPP Unit-1,2,PDB,public,steam,coal,1*125,85.0,2019-01-11,2024-12-30,1870,0,1206.9,0,0,294,2006,web_verified,Wikipedia; energytransitionbd,barapukuria,25.55,88.95
+nababganj55mwppsouthernpower,Nababganj 55MW PP (Southern power ),3,IPP,private,recip_engine,oil,3*19.3,55.0,2019-01-11,2026-11-18,2550,0,1178.7,0,664,0,2016,bpdb_ar,,nababganj,23.66,90.16
+jodiacpower,Jodiac Power,1,IPP,private,recip_engine,oil,3*18.55+1*3.6,54.363,2019-01-11,2026-11-18,2551,0,1140.0,0,679,0,,unknown,,jodiac,23.80,90.42
+chattogram108mwppecpv,Chattogram 108MW PP (ECPV),1,IPP,private,recip_engine,oil,16*7,108.0,2019-01-11,2026-11-18,2551,0,1137.9,0,1134,0,2015,bpdb_ar,Potiya 108 MW,chattogram,22.43,91.98
+jangalia33mwppsummit,"Jangalia 33MW PP (Summit) SIPP,",1,PDB,private,recip_engine,unknown,4*8.73,33.0,2019-01-11,2024-12-30,1870,0,1104.0,0,0,0,,unknown,,jangalia,23.46,91.18
+siddhirganj100ppdutchbangla,Siddhirganj 100 PP(Dutch Bangla),1,QRPP,private,recip_engine,oil,12*8.9,100.0,2019-01-11,2024-10-22,1802,0,1103.6,0,443,0,2011,bpdb_ar,Siddhirganj quick rental 100,siddhirganj,23.68,90.51
+patenga50mwppbaraka,Patenga 50MW PP (Baraka),1,IPP,private,recip_engine,oil,8*6.98,50.0,2019-01-11,2026-11-18,2551,0,1067.7,0,461,0,,unknown,,patenga,22.25,91.80
+sreepur150mwppbrpl,Sreepur 150MW PP BRPL,3,PDB-RPCL,public,recip_engine,oil,9*18,160.0,2024-10-04,2026-11-18,768,1,1066.0,0,322,0,2024,first_appearance,,sreepur,24.20,90.48
+fenchuganj44mwenergyprima,Fenchuganj 44MW (Energyprima),1,NENP,private,recip_engine,gas,12*3.3+5*2,50.0,2019-01-11,2025-06-05,2026,0,1053.7,508,0,0,,unknown,,fenchuganj,24.70,91.94
+madanganj102ppsummit,Madanganj 102 PP(Summit),1,QRPP,private,recip_engine,oil,6*17,102.0,2019-01-11,2024-12-30,1870,0,1052.7,0,181,0,2011,bpdb_ar,Modanganj quick rental,madanganj,23.61,90.53
+khulna115ppmwkpcl2,Khulna 115 PP MW (KPCL-2),1,QRPP,private,recip_engine,oil,7*17,115.0,2019-01-11,2024-12-30,1870,0,1035.6,0,446,0,2011,bpdb_ar,,khulna,22.85,89.55
+meghnaghat100mwiel,Meghnaghat 100MW(IEL),1,QRPP,private,recip_engine,oil,12*8.9,100.0,2019-01-11,2024-12-30,1870,0,1009.8,2,406,0,2011,bpdb_ar,Meghnaghat quick rental,meghnaghat,23.61,90.60
+cumilla25mwppsummit,"Cumilla 25MW PP (Summit) SIPP,",3,PDB,private,recip_engine,gas,3*3.67+2*6.97,25.0,2019-01-11,2026-11-18,2552,0,994.1,0,0,0,,unknown,,cumilla,23.46,91.18
+jangalia52mwpplakdanavi,Jangalia 52MW PP (Lakdanavi),1,IPP,private,recip_engine,oil,6*8.92,52.2,2019-01-11,2026-11-18,2551,0,951.0,0,486,0,2014,bpdb_ar,Cumilla (Jangalia) 50 MW,jangalia,23.46,91.18
+gazipur52mwpp,Gazipur 52MW PP,1,RPCL,public,recip_engine,oil,6*8.9,52.194,2019-01-11,2026-11-18,2551,0,936.5,0,856,0,2012,bpdb_ar,,gazipur,24.00,90.42
+barishal110mwppsummit,Barisal 110MW PP (Summit ),2,IPP,private,recip_engine,oil,7*17.076,110.0,2019-01-11,2026-11-18,2551,0,922.8,0,422,0,2016,bpdb_ar,,barishal,22.70,90.37
+juldah100mwunit1acorn,Juldah 100MW Unit-1 (Acorn),1,QRPP,private,recip_engine,oil,8*13.45,100.0,2019-01-11,2024-12-30,1870,0,872.0,0,594,0,2012,bpdb_ar,Julda Chattogram PP,juldah,22.28,91.84
+bhola33mwppventure,Bhola 33MW PP (Venture),2,NENP,private,unknown,unknown,1*34.50,40.0,2019-01-11,2026-11-18,2551,0,868.8,0,0,0,,unknown,,bhola,22.65,90.65
+monglaorion100mwsolarpp,Mongla Orion 100MW Solar PP,1,IPP,private,solar,solar,100,100.0,2021-12-13,2026-11-18,1775,1,867.1,0,0,0,2021,first_appearance,,,,
+shahjahanulla25mwpp,"Shahjahanulla 25MW PP SIPP,",3,REB,private,recip_engine,gas,3*9.34,25.0,2019-01-11,2026-11-18,2552,0,862.4,311,0,0,2013,bpdb_ar,,shahjahanulla,24.75,90.41
+keraniganj300mwppapr,Keranigonj 300MW PP (APR),1,IPP,private,recip_engine,oil,256*1.4,300.0,2019-01-11,2023-09-25,1421,0,861.4,0,122,0,2018,bpdb_ar,Pangaon Keraniganj 300 MW,keraniganj,23.70,90.35
+bhola95mwppaggreko,Bhola 95MW PP (Aggreko),2,QRPP,private,recip_engine,gas,96*1.10,95.0,2019-01-11,2024-12-30,1870,0,854.3,311,0,0,,unknown,,bhola,22.65,90.65
+hathazari100mwpeakingpp,Hathazari 100MW peaking PP,1,PDB,public,gas_turbine,oil,11*8.9,98.0,2019-01-11,2026-11-18,2551,0,830.7,2,520,0,2011,bpdb_ar,,hathazari,22.50,91.81
+ashuganjtppunit3,Ashuganj TPP Unit- 3,1,APSCL,public,steam,gas,1*150,135.0,2019-01-11,2024-12-30,1870,0,802.9,714,0,0,1986,web_verified,COD 17 Dec 1986 (APSCL via energytransitionbd),ashuganj,24.04,91.02
+kanchanpurbachalpowergeneration,Kanchan Purbachal Power Generation Ltd.,3,IPP,private,recip_engine,oil,18.4*3,55.0,2021-12-01,2026-11-18,1787,1,800.1,0,1028,0,2021,bpdb_ar,,kanchan,23.83,90.56
+bhairob545mw,Bhairob 54.5MW,4,IPP,private,recip_engine,oil,3*18.2,54.5,2021-02-06,2026-11-18,2083,1,790.7,0,624,0,2021,bpdb_ar,,bhairob,24.05,90.98
+confidencepowerboguraunit1113,Confidence Power Bogura Unit-1 113,1,MWIPP,private,recip_engine,unknown,6*18.55,113.0,2019-11-04,2022-07-09,509,0,772.2,0,0,0,2019,bpdb_ar,,bogura,24.85,89.37
+titas50mwpeakingpp,Titas 50MW Peaking PP,1,PDB,public,gas_turbine,oil,6*8.92,52.0,2019-01-11,2026-11-18,2551,0,746.5,0,82,0,2011,bpdb_ar,,titas,23.53,90.72
+mirsharai150mw,Mirsharai 150MW,2,BPDB-RPCL,public,recip_engine,oil,18.5*9,163.0,2022-08-10,2026-11-18,1535,1,698.7,1,320,0,2023,bpdb_ar,,mirsharai,22.77,91.57
+unitedpayrapower,United Payra Power Ltd.,1,IPP,private,recip_engine,oil,8*18.5+1*9.5,150.0,2020-11-20,2026-11-18,2163,1,698.5,0,393,0,2021,bpdb_ar,Potuakhali 150 MW (United),payra,21.99,90.29
+feni22mwppdoreen,"Feni 22MW PP (Doreen) SIPP,",1,PDB,private,recip_engine,unknown,8*2.90,22.0,2019-01-11,2024-03-13,1590,0,648.8,0,0,0,,unknown,,feni,23.01,91.40
+madhumati100mwpp,Madhumati 100MW PP,2,NWPGCL,public,recip_engine,oil,6*18,105.0,2019-01-11,2026-11-18,2551,0,602.8,0,1066,0,2019,bpdb_ar,,madhumati,22.66,89.75
+ashuganjtppunit5,Ashuganj TPP Unit- 5,1,APSCL,public,steam,gas,1*150,134.0,2019-01-11,2024-12-30,1870,0,589.0,1117,0,0,1988,web_verified,GEM unit table ST5 1988,ashuganj,24.04,91.02
+sikalbaha105mwppbaraka,Sikalbaha 105MW PP (Baraka,1,Sikalbaha)IPP,private,unknown,unknown,105MW,105.0,2019-02-11,2022-07-09,520,0,578.7,0,1,0,2019,bpdb_ar,,sikalbaha,22.33,91.85
+natore52mwpprajlanka,Natore 52MW PP (Rajlanka),2,IPP,private,recip_engine,oil,6*8.92,52.2,2019-01-11,2026-11-18,2551,0,578.0,0,748,0,2014,bpdb_ar,,natore,24.41,88.98
+tangail22mwppdoreen,"Tangail 22MW PP (Doreen) SIPP,",1,PDB,private,recip_engine,gas,8*2.90,22.0,2019-01-11,2024-03-13,1590,0,565.5,100,0,0,,unknown,suggest: Tangail 22 MW PP (Duel Fuel) 2020,tangail,24.25,89.92
+barapukuriatppunit12,Barapukuria TPP Unit-1&2,1,PDB,public,steam,coal,1*125+1*125,170.0,2024-12-31,2026-11-18,681,1,564.9,0,0,0,2006,web_verified,Wikipedia; energytransitionbd,barapukuria,25.55,88.95
+bogra22mwppgbb,Bogra 22MW PP (GBB),2,RPP,private,recip_engine,gas,6*4,22.0,2019-01-11,2024-12-30,1870,0,557.8,18,0,0,2009,wri_gppd,,bogura,24.85,89.37
+barabkunda22mwppregent,"Barabkunda 22MW PP (Regent) SIPP,",1,PDB,private,recip_engine,gas,8*2.90,22.0,2019-01-11,2024-12-30,1870,0,557.1,90,20,0,2016,wri_gppd,,barabkunda,22.57,91.68
+sylhet20mwgtpp,Sylhet 20MW GTPP,1,PDB,public,gas_turbine,gas,1*20,20.0,2019-01-11,2026-11-18,2551,0,541.3,551,0,0,,unknown,,sylhet,24.89,91.87
+sutiakhali50mwsolarpp,Sutiakhali 50MW Solar PP,1,IPP,private,solar,solar,50,50.0,2020-12-06,2026-11-18,2146,1,537.7,0,0,0,2020,first_appearance,"suggest: Sutiakhali, mymensing 50 MW Solar PP 2020",,,
+narshingdi22mwppdoreen,"Narshingdi 22MW PP (Doreen) SIPP,",2,REB,private,recip_engine,gas,8*2.90,22.0,2019-01-11,2025-06-05,2019,0,525.2,0,0,0,,unknown,,narshingdi,23.92,90.72
+tangailpallipowergen22mw,Tangail Palli Power Gen 22MW,3,IPP,private,recip_engine,oil,4*6.7,22.0,2020-12-09,2026-11-18,2144,1,523.0,0,819,0,2020,bpdb_ar,,tangail,24.25,89.92
+baghabari50mwpeakingpp,Baghabari 50MW Peaking PP,2,PDB,public,gas_turbine,oil,6*8.9,52.0,2019-01-11,2026-11-18,2551,0,514.9,0,110,0,2011,bpdb_ar,,baghabari,24.12,89.59
+ashuganjtppunit4,Ashuganj TPP Unit- 4,1,APSCL,public,steam,gas,1*150,129.0,2019-01-11,2024-12-30,1870,0,474.3,822,0,0,1987,web_partial,"units 3-5 built 1986-89 (OPEC Fund, GEM); exact year for unit 4 not found",ashuganj,24.04,91.02
+jamalpur95mwpppowerpac,Jamalpur 95MW PP(Powerpac),1,IPP,private,recip_engine,unknown,12*8.924,95.0,2019-01-11,2025-02-28,1916,0,458.1,0,1,0,2016,bpdb_ar,,jamalpur,24.92,89.94
+pabnasolar100mw,Pabna Solar 100MW,1,IPP,private,solar,solar,0,100.0,2024-09-16,2026-11-18,785,1,445.0,0,0,0,2024,first_appearance,,,,
+raozan25mwpp,Raozan 25MW PP,1,IPP,public,recip_engine,oil,3*8.9,25.5,2019-01-11,2026-11-18,2551,0,441.4,0,396,0,2013,bpdb_ar,,raozan,22.48,91.99
+keraniganj100mwpppowerpac,Keraniganj 100MW PP (Powerpac),1,QRPP,private,recip_engine,oil,8*13.45,100.0,2019-01-11,2025-06-05,2026,0,427.6,0,305,0,2012,bpdb_ar,,keraniganj,23.70,90.35
+daudkandi200mwppbtrac,Daudkandi 200MW PP (B.Trac),1,IPP,private,recip_engine,oil,154*1.4,200.0,2019-01-11,2024-12-30,1870,0,422.3,0,128,0,2018,bpdb_ar,,daudkandi,23.53,90.72
+katakhali50mwpeakingpp,Katakhali 50MW Peaking PP,2,PDB,public,gas_turbine,oil,6*8.7,50.0,2019-01-11,2026-11-18,2551,0,405.7,0,59,0,2012,bpdb_ar,,katakhali,24.43,88.75
+khulna330mwccppoil,Khulna 330MW CCPP (OIL),1,BPDB,public,ccgt,oil,1*220+1*110,336.0,2022-06-27,2024-12-30,898,1,405.7,0,55,0,2023,bpdb_ar,,khulna,22.85,89.55
+santahar50mwpeakingpp,Santahar 50MW Peaking PP,2,PDB,public,gas_turbine,oil,6*8.7,50.0,2019-01-11,2026-11-18,2551,0,386.9,0,49,0,2012,bpdb_ar,,santahar,24.80,89.03
+chattogramtpp2,Chattogram TPP-2,1,PDB,public,steam,gas,1*210,180.0,2019-01-11,2024-12-30,1870,0,382.4,1786,0,0,1997,web_verified,unit 2 in operation Sep 1997,chattogram,22.43,91.98
+ullapara11mwppsummit,"Ullapara 11MW PP (Summit) SIPP,",3,REB,private,recip_engine,gas,4*2.90,11.0,2019-01-11,2025-06-01,2022,0,361.6,8,0,0,2009,wri_gppd,,ullapara,24.32,89.57
+noapara100mwppbanglatrac,Noapara 100MW PP (Bangla Trac),2,IPP,private,recip_engine,oil,70*1.4,100.0,2019-01-11,2024-12-30,1870,0,348.4,0,63,0,2018,bpdb_ar,,noapara,23.02,89.40
+aurahati100mwppaggreko,Aurahati 100MW PP (Aggreko),1,IPP,private,recip_engine,oil,0.85*23+0.95*91,100.0,2019-01-11,2024-12-30,1870,0,347.0,0,128,0,2018,bpdb_ar,,aurahati,23.73,90.33
+spectrasolarplant,Spectra Solar Plant Ltd.,1,IPP,private,solar,solar,35,35.0,2021-02-10,2026-11-18,2081,1,342.1,0,0,0,2021,first_appearance,,,,
+sylhet150mwccpp,Sylhet 150MW CCPP,1,PDB,public,ccgt,gas,1*142,142.0,2019-01-11,2020-06-01,219,0,328.2,0,0,0,2012,bpdb_ar,,sylhet,24.89,91.87
+gopalganj100mwpeakingpp,Gopalganj 100MW Peaking PP,2,PDB,public,gas_turbine,oil,16*6.98,109.0,2019-01-11,2026-11-18,2551,0,327.1,0,199,0,2011,bpdb_ar,,gopalganj,23.00,89.82
+feni11mwppdoreen,"Feni 11MW PP (Doreen) SIPP,",2,REB,private,recip_engine,gas,4*2.90,11.0,2019-01-11,2025-06-05,2019,0,318.1,1,0,0,,unknown,,feni,23.01,91.40
+sylhet10mwppdesh,Sylhet 10MW PP (Desh),1,RPP,private,recip_engine,gas,6*1.95,10.0,2019-01-11,2024-12-30,1870,0,314.3,37,0,0,,unknown,,sylhet,24.89,91.87
+baghabari200mwppparamount,Baghabari 200MW PP (Paramount),2,IPP,private,recip_engine,oil,135*1.6,200.0,2019-01-11,2024-12-30,1870,0,303.5,0,406,0,2019,bpdb_ar,,baghabari,24.12,89.59
+summitpowermadhabdi,Summit Power Madhabdi,1,IPP,private,recip_engine,unknown,3*3.67+4*8.73,23.0,2024-12-31,2026-11-18,681,1,300.1,1,0,0,2024,first_appearance,,summit,23.92,90.72
+brahmangaon100mwppaggreko,Bramhangoan 100MW PP (Aggreko),2,IPP,private,recip_engine,oil,114*0.959,100.0,2019-01-11,2024-12-30,1870,0,298.4,0,123,0,2018,bpdb_ar,,brahmangaon,23.69,90.33
+katakhali50mwppnorthern,Katakhali 50MW PP (Northern),2,QRPP,private,recip_engine,oil,6*8.9,50.0,2019-01-11,2024-12-30,1870,0,297.6,0,371,0,,unknown,suggest: Katakhali 50 MW Peaking Power Plant 2012,katakhali,24.43,88.75
+hobiganj11mwppcofidencee,"Hobiganj 11MW PP Cofidence-E SIPP,",2,REB,private,recip_engine,gas,4*2.90,11.0,2019-01-11,2025-06-01,2022,0,292.2,152,0,0,,unknown,,hobiganj,24.37,91.42
+coxsbazarwind,Cox's Bazar Wind,1,PDB,private,wind,wind,22*3,66.0,2023-05-30,2026-11-18,1247,1,280.8,0,0,0,2023,first_appearance,,,,
+baghabari71mwgtpp,Baghabari 71MW GTPP,2,PDB,public,gas_turbine,gas,1*71,71.0,2019-01-11,2026-11-18,2551,0,278.5,2382,0,0,1991,web_verified,COD 4 Jun 1991 (energytransitionbd; GEM),baghabari,24.12,89.59
+summitpowerashulia,Summit Power Ashulia,1,IPP,private,gas_turbine_or_engine,gas,0,33.75,2024-12-31,2026-11-18,681,1,269.2,504,0,0,2024,first_appearance,,summit,23.92,90.72
+sonagazi75mwacsolarpp,Sonagazi 75MW (AC) Solar Power Plant,1,EGCB,public,solar,solar,0,75.0,2024-12-31,2026-11-18,681,1,259.9,0,0,0,2024,first_appearance,,,,
+sirajganj68mwsolarpark,Sirajganj 68MW Solar Park,1,IPP,public,solar,solar,0,68.0,2024-06-29,2026-11-18,856,1,257.1,0,0,0,2024,first_appearance,,sirajganj,24.43,89.70
+intracosolar30mw,Intraco Solar 30MW,1,IPP,private,solar,solar,1*30,30.0,2022-08-23,2026-11-18,1522,1,254.7,0,0,0,2022,first_appearance,,,,
+noapara40mwppkhanjahanali,Noapara 40MW PP (Khanjahan Ali),2,QRPP,private,recip_engine,oil,5*8.5,40.0,2019-01-11,2024-12-30,1870,0,250.1,0,442,0,2011,bpdb_ar,,noapara,23.02,89.40
+faridpur50mwpeakingpp,Faridpur 50MW Peaking PP,2,PDB,public,gas_turbine,oil,8*6.89,54.0,2019-01-11,2026-11-18,2551,0,246.8,0,113,0,2011,bpdb_ar,,faridpur,23.61,89.84
+ghorasaltppunit12,Ghorasal TPP (Unit-1&2),1,PDB,public,steam,gas,2*55,85.0,2019-01-11,2021-02-09,466,0,236.6,0,0,0,1967,web_verified,units 1 and 2: 1967 and 1976 (Dhaka Tribune); older unit used for the combined row,ghorasal,23.98,90.63
+hvdcnepal,HVDC(Nepal),1,Import,import,import,import,1*40,40.0,2024-12-31,2026-11-18,681,1,223.8,0,0,0,,na_import,,,,
+ghorasalrepoweredccppunit3,Ghorasal Repowered CCPP Unit-3,1,PDB,public,ccgt,gas,1*260,260.0,2019-01-11,2026-11-18,1247,0,221.2,115,0,0,2021,bpdb_ar,Ghorasal 416 MW CCPP (repowered unit 3),ghorasal,23.98,90.63
+bogura113mwppconfidence1,Bagura 113MW PP (Confidence)-1,1,IPP,private,recip_engine,oil,6*18.55,113.0,2025-07-23,2026-11-18,480,1,218.8,0,187,0,2019,bpdb_ar,,bogura,24.85,89.37
+amnura50mwppsinha,Amnura 50MW PP(Sinha),2,QRPP,private,recip_engine,oil,7*7.79,50.0,2019-01-11,2025-06-05,2026,0,218.1,0,407,0,2011,wri_gppd,,amnura,24.63,88.40
+ghorasal785mwppmax,Ghorashal 78.5MW PP(MAX),1,QRPP,private,recip_engine,gas,2*40,78.0,2019-01-11,2024-12-30,1870,0,189.6,322,0,0,2011,bpdb_ar,Ghorashal quick rental 78 MW,ghorasal,23.98,90.63
+bera70mwpeakingpp,Bera 70MW Peaking PP,2,PDB,public,gas_turbine,oil,9*8.29,71.0,2019-01-11,2026-11-18,2551,0,185.0,0,48,0,2011,bpdb_ar,,bera,24.08,89.62
+shahjibazar100mwgtpp,Shahjibazar 100MW GTPP,1,PDB,public,gas_turbine,gas,1*100,100.0,2020-12-13,2026-11-18,2140,1,161.5,36,0,0,2021,bpdb_ar,,shajibazar,24.24,91.49
+teknaf20mwppsolartech,Teknaf 20MW PP (Solartech),1,IPP,private,solar,solar,20,20.0,2022-06-18,2026-11-18,1588,1,160.5,0,0,0,2022,first_appearance,"suggest: Teknaf, Coxsbazar 20 MW Solar Park 2018",teknaf,20.86,92.30
+baghabari100mwgtpp,Baghabari 100MW GTPP,1,PDB,public,gas_turbine,gas,1*100,100.0,2019-01-11,2026-11-18,2551,0,160.4,1821,0,0,2001,web_verified,COD 25 Nov 2001 (energytransitionbd; GEM),baghabari,24.12,89.59
+pabna64mwsolarplant,Pabna 64MW Solar Plant,1,PDB,public,solar,solar,11*6.6,64.55,2025-07-30,2026-11-18,473,1,137.1,0,0,0,2025,first_appearance,,,,
+sylhet50mwppepl,Sylhet 50MW PP (EPL),1,RPP,private,recip_engine,gas,27*2,50.0,2019-01-11,2024-12-30,1870,0,134.1,309,0,0,,unknown,,sylhet,24.89,91.87
+sonagazi75mwsolarplant,Sonagazi 75MW Solar Plant,1,EGCB,public,solar,solar,75,75.0,2024-02-24,2024-12-30,299,1,111.0,0,0,0,2024,first_appearance,,,,
+sympasolarpower8mw,Sympa Solar Power 8MW,2,IPP,private,solar,solar,8MW,8.0,2019-01-11,2026-11-18,2551,0,100.8,0,0,0,,unknown,,,,
+ccppphase2,CCPP Phase-2,2,PDB,public,ccgt,gas,2*35+1*35,90.0,2025-06-19,2026-11-18,166,1,97.6,42,0,0,2011,bpdb_ar,Fenchuganj phase-2 under new name,,,
+teknaf20mwppsolartechteknafsolartechenergy,Teknaf 20MW PP (Solartech)Teknaf Solartech Energy,2,Ltd.,unknown,solar,solar,20,20.0,2019-01-11,2022-06-17,963,0,95.7,0,0,0,,unknown,"suggest: Teknaf, Coxsbazar 20 MW Solar Park 2018",teknaf,20.86,92.30
+chattogramtpp,Chattogram TPP,1,PDB,public,steam,gas,1*210+1*210,360.0,2024-12-31,2026-11-18,681,1,92.8,377,0,0,2024,first_appearance,,chattogram,22.43,91.98
+katpotti52mwppsinha,Katpotti 52MW PP (Sinha),1,IPP,private,recip_engine,oil,7*7.9,51.0,2019-01-11,2025-02-28,1929,0,85.8,0,1311,0,2015,bpdb_ar,,katpotti,23.52,90.50
+saidpur150mwsimplecyclepp,Saidpur 150MW Simple Cycle Power Plant,2,PDB,public,gas_turbine,gas,1*150,162.443,2025-08-13,2026-11-18,457,1,82.1,0,0,0,2025,first_appearance,,saidpur,25.78,88.90
+bogura20mwppenergyprima,Bogura 20MW PP (Energyprima),2,RPP,private,recip_engine,unknown,5*3.3+5*2,10.0,2019-01-11,2024-12-30,1870,0,73.4,0,0,0,2011,bpdb_ar,,bogura,24.85,89.37
+khulna330mwccpp,Khulna 330MW CCPP,1,PDB,public,ccgt,gas,1*220+1*110,336.0,2022-06-26,2026-11-18,682,1,63.4,0,3,0,2023,bpdb_ar,,khulna,22.85,89.55
+kaptai7mwsolarpp,Kaptai 7MW Solar PP,1,PDB,public,solar,solar,7.4MW,7.0,2019-01-11,2026-11-18,2551,0,61.1,0,0,0,,unknown,suggest: Kaptai Solar Power Plant 2019,kaptai,22.50,92.22
+sirajganj655mwsolar,Sirajgonj 6.55MW Solar,1,NWPGCL,public,solar,solar,1*6,6.12,2021-05-17,2026-11-18,1985,1,51.9,0,0,0,2021,first_appearance,,sirajganj,24.43,89.70
+barapukuriatppunit2,Barapukuria TPP Unit-2,1,PDB,public,steam,coal,1*125,85.0,2019-01-11,2024-12-30,1870,0,40.0,0,0,226,2006,web_verified,Wikipedia; energytransitionbd,barapukuria,25.55,88.95
+bosila108mwppclc,Bosila 108MW PP(CLC),1,IPP,private,recip_engine,oil,12*8.775+1*3.5,108.0,2019-01-11,2025-02-28,1916,0,30.3,0,515,0,2017,bpdb_ar,,bosila,23.75,90.34
+sarishabari3mwsolarplant,Sarishabari 3MW Solar Plant,1,IPP,private,solar,solar,1*3,3.0,2019-01-11,2026-11-18,2551,0,27.8,0,0,0,,unknown,,,,
+moulvibazar10mwsolarpp,Moulvibazar 10MW Solar Power Plant,4,IPP,private,solar,solar,1*10,0.0,2025-11-28,2026-11-18,353,1,19.9,0,0,0,2025,first_appearance,,,,
+muktagachasolartechenergy,Muktagacha Solartech Energy Ltd,1,IPP,private,solar,solar,1*20,20.0,2026-06-01,2026-11-18,169,1,18.1,0,0,0,2026,first_appearance,,,,
+shahjibazar50mwppepl,Shahjibazar 50MW PP (EPL),1,RPP,private,recip_engine,unknown,27*2.0,50.0,2019-01-11,2020-06-08,226,0,16.3,0,0,0,,unknown,,shajibazar,24.24,91.49
+sonargaon104mworion,Sonargoan 104MW (Orion),2,IPP,private,recip_engine,unknown,18.5*6,0.0,2020-06-23,2020-07-01,9,1,10.4,0,0,0,2020,first_appearance,,,,
+mymensinghpv50mwsolarpp,Mymensingh PV 50MW Solar PP,2,IPP,private,solar,solar,50,0.0,2020-10-26,2020-12-05,41,1,10.4,0,0,0,2020,first_appearance,,mymensingh,24.75,90.41
+tongi80mwgtpp,Tongi 80MW GTPP,1,PDB,public,gas_turbine,gas,1*105,105.0,2019-01-11,2026-11-18,2551,0,8.9,659,0,0,2005,web_verified,inaugurated 3 Sep 2005 (Daily Star),tongi,23.89,90.40
+meghnaghatreliance718mwccpp,Meghnaghat (Reliance) 718MW CCPP,1,IPP,private,ccgt,gas,718,0.0,2024-08-23,2024-11-19,86,1,8.4,0,0,0,2024,first_appearance,,meghnaghat,23.61,90.60
+ghorasalrepoweredccppunit3gt,Ghorasal Repowered CCPP:Unit-3 (GT,1,PDB,public,ccgt,gas,1*260,260.0,2021-05-17,2024-12-30,1304,1,7.9,16,0,0,2021,bpdb_ar,,ghorasal,23.98,90.63
+rangpur20mwgtpp,Rangpur 20MW GTPP,2,PDB,public,gas_turbine,gas,1*20,20.0,2019-01-11,2026-11-18,2551,0,7.5,28,0,0,,unknown,,rangpur,25.74,89.25
+saidpur20mwgtpp,Saidpur 20MW GTPP,2,PDB,public,gas_turbine,oil,1*20,20.0,2019-01-11,2026-11-18,2551,0,6.6,0,14,0,,unknown,,saidpur,25.78,88.90
+kulna225mwccppgas,Kulna 225MW CCPP (GAS),1,NWPGCL,public,ccgt,gas,0,0.0,2023-03-13,2024-12-30,642,1,5.2,0,0,0,2023,first_appearance,,khulna,22.85,89.55
+barishal1mwsolarplant,Barisal 1MW Solar Plant,1,IPP,private,solar,solar,0,1.0,2024-06-12,2026-11-18,871,1,3.1,0,0,0,2024,first_appearance,,barishal,22.70,90.37
+rupsha800mwccpp,Rupsha 800MW CCPP,1,NWPGCL,public,ccgt,gas,1*800,440.0,2025-12-13,2026-11-18,21,1,3.1,0,0,0,2025,first_appearance,,rupsha,22.80,89.58
+rooppurnuclearpp,Rooppur Nuclear Power Plant,1,NPCBL,public,nuclear,nuclear,0,1200.0,2026-11-17,2026-11-18,2,1,2.0,0,0,0,2026,first_appearance,,,,
+nepalimported,Nepal Imported,1,power,import,import,import,40,0.0,2024-11-15,2024-12-30,45,1,0.5,0,0,0,,na_import,,,,
+solarppunit3,Solar PP Unit-3,1,IPP,private,solar,solar,0,50.0,2025-02-21,2025-02-21,1,1,0.3,0,0,0,2025,first_appearance,,,,
+barishalgtppunit12,Barisal GT PP Unit-1&2,1,PDB,public,gas_turbine,gas,2*20,30.0,2019-01-11,2020-06-22,227,0,0.2,0,0,0,1987,wri_gppd,,barishal,22.70,90.37
+haripurgtpp,"Haripur GTPP SBU,",3,PDB,public,gas_turbine,gas,2*32,40.0,2019-01-11,2026-11-18,2552,0,0.0,21,0,0,,unknown,1987 recall not supported by any source found,haripur,23.66,90.53
+210mwsiddhirganjtpp,210MW Siddhirgonj TPP,2,PDB,public,steam,gas,1*210,115.0,2019-01-11,2026-11-18,2551,0,0.0,42,0,0,,unknown,2004 recall not supported; sources give 2012 or 2015,siddhirganj,23.68,90.51
+ashuganj53mwppunited,Ashuganj 53MW PP (United),1,QRPP,private,recip_engine,unknown,14*4,53.0,2019-01-11,2020-01-05,77,0,0.0,0,0,0,2011,bpdb_ar,Ashuganj quick rental 53 MW,ashuganj,24.04,91.02
+bbariaaggreko85mw,B.Baria (Aggreko) 85MW,1,QRPP,private,recip_engine,unknown,86*1.10,85.0,2019-01-11,2019-11-29,43,0,0.0,0,0,0,2011,bpdb_ar,B Baria quick rental,bbaria,23.96,91.11
+bheramaragtppunit123,"Bheramara GTPP Unit-1,2&3",1,PDB,public,gas_turbine,gas,3*20,46.0,2019-01-11,2020-06-01,219,0,0.0,0,0,0,1976,wri_gppd,,bheramara,24.06,88.99
+bheramaragtppunit3,Bheramara GTPP Unit-3,1,PDB,public,gas_turbine,oil,1*20,16.0,2020-06-02,2026-11-18,2332,1,0.0,0,319,0,1976,wri_gppd,,bheramara,24.06,88.99
+unknown,"SIPP,",1,PDB,public,recip_engine,unknown,4*8.73,33.0,2023-02-18,2023-02-18,1,1,0.0,0,0,0,2023,first_appearance,,,,
+imported,Imported,1,power,import,import,import,0,160.0,2023-02-18,2023-02-18,1,1,0.0,0,0,0,,na_import,,,,
+mwccpp,MW CCPP,1,PDB,public,ccgt,gas,3*110,330.0,2025-06-06,2025-11-26,84,1,0.0,0,0,0,2025,first_appearance,,,,
+330mwccpp,330MW CCPP,1,PDB,public,ccgt,gas,3*110,330.0,2025-06-08,2025-11-24,59,1,0.0,0,0,0,2025,first_appearance,,,,
+sirajganj2mwwindpp,Sirajganj 2MW Wind Power Plant,1,PDB,public,wind,wind,0.25*8,2.0,2025-08-25,2026-11-18,447,1,0.0,0,0,0,2025,first_appearance,,sirajganj,24.43,89.70
+ashuganjtppunit34,"Ashuganj TPP Unit- 3, 4",1,APSCL,public,steam,gas,1*150+1*150,0.0,2025-10-29,2025-10-29,1,1,0.0,0,0,0,2025,first_appearance,,ashuganj,24.04,91.02

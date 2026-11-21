@@ -1,0 +1,26 @@
+# Raw BPDB daily-report PDFs (~1.8 GB); re-download with code/01_index.py + code/02_download.py
+data/raw/
+
+# Third-party PDFs and raw downloads; keep only the three hand-made/derived tables
+data/ext/*
+!data/ext/cod_manual.csv
+!data/ext/town_coords.csv
+!data/ext/commissioning_bpdb.csv
+
+# Large CSVs are committed gzipped (*.csv.gz); decompress with: gunzip -k data/*.csv.gz
+data/panel_full.csv
+data/panel.csv
+data/units_classified.csv
+data/units.csv
+
+# LaTeX build files
+paper/*.log
+paper/*.aux
+paper/*.blg
+paper/*.bbl
+paper/*.out
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store

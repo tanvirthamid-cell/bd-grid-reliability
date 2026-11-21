@@ -1,0 +1,1588 @@
+op_date,unit_id,link_sim,n_cands,plant,trip_time,sync_time,cause_cat,cause
+2019-01-11,,0.0,0,Shahzibazar 330 MW GT-2,23:59,,fuel_supply,gas line problem
+2019-11-13,,0.36,1,Raozan unit-2 was synchronized at 23:32,01:25,23:32,unstated,
+2019-11-26,,0.5,4,Siddhirganj 330 MW GT-1,15:33,,other,problem with hazard gas
+2019-12-12,,0.54,3,Bheramara 360 MW CCPP GT,15:16,17:21,unstated,
+2019-12-17,,0.34,1,Raozan unit-2 was synchronized at 23:56 and,00:44,23:56,electrical,protection relay problem and again synchronized at 01:27(17/12/2019)
+2019-12-20,,0.0,0,After maint Chandpur 150 MW GT was synchronized at 19:37 and,20:50,19:37,fuel_supply,GBC problem
+2020-01-13,,0.55,3,Bhola GT-2,05:16,07:28,unstated,
+2020-01-15,,0.15,1,Payra 620 MW Coal Power Plant unit-1,08:48,12:53,boiler,boiler tripped
+2020-01-16,,0.15,1,Payra 620 MW Coal Power Plant unit-1,09:26,08:21,other,major hunting
+2020-01-21,,0.46,1,Payra-660 MW,16:44,01:15,boiler,boiler trip
+2020-01-22,,0.46,1,Payra-660 MW,15:13,,boiler,boiler protection trip
+2020-01-23,,0.49,3,Sikalbaha CCPP ST was synchronized at 15:09 and,16:44,15:09,other,steam temperature drop
+2020-02-29,,0.4,1,Payra 660 MW #01,15:33,,grid,O/F due to PBS people were stringing 33 kV line under Faridpur-Gopalganj 132 kV Ckt-1 and severe flashing occurred causing tripping of line
+2020-03-13,,0.19,4,Sylhet 225 MW CCPP ST synchronized at 18:14 and,19:27,18:14,unstated,
+2020-03-24,,0.0,0,Sirajganj unit-3,05:19,,control,problem of GT sensor
+2020-05-06,,0.0,0,"& 09:43 respectively. and Sikalbaha-150 MW, Sikalbaha-225 MW, Kapta-1 & Julda-2 also",09:41,,unstated,
+2020-05-14,,0.52,3,Bheramara 360 MW CCPP STG,23:29,06:37,unstated,
+2020-05-31,,0.0,0,AES Megnaghat-450 MW GT-2,14:30,19:35,unstated,
+2020-06-04,,0.0,1,Payra 660 MW was synchronized at 00:14(05/06/2020) and again,01:40,00:14,unstated,
+2020-06-04,,0.02,1,Payra 660 MW was synchronized at 20:27 and again,22:49,20:27,unstated,
+2020-06-10,,0.0,0,AES Haripur-360 MW,04:09,06:49,unstated,
+2020-06-21,,0.0,0,Bhola CCPP,10:35,17:10,grid,low voltage
+2020-06-21,,0.0,0,Payra Unit-1,10:45,23:32,boiler,MFT
+2020-06-21,,0.0,0,Baghabari 100 MW,19:17,,fuel_supply,low gas pressure
+2020-06-23,,0.47,4,Sylhet-150 MW,13:04,13:54,other,GT encloser ventilation fault
+2020-07-04,,0.32,1,Payra 660 MW unit-1,14:07,01:38,unstated,
+2020-07-13,,0.04,1,Payra 660 MW PP was synchronized at 19:45 and,20:13,19:45,cooling,Vacuumed fail
+2020-07-20,,0.0,0,Khulna 225 MW CCPP GT,20:59,00:21,fuel_supply,tripping of fuel pump
+2020-07-20,,0.0,0,Shajibazar 330 MW CCPP GT-1,22:20,00:56,fuel_supply,tripping of gas buster
+2020-08-07,,0.0,0,Midland 50 MW,12:19,,electrical,O/C
+2020-08-07,,0.0,0,ACE Kodda 149 MW,12:24,,grid,voltage fluctuation
+2020-08-21,,0.2,1,"Ashuganj North, Ashuganj South, Ashuganj Unit-4, Midland 51, Ashuganj Modular, Ashuganj TSK",,,unstated,
+2020-08-30,,0.4,1,Payra 660 MW #02,17:45,20:40,unstated,
+2020-09-10,,0.0,0,ACE Kodda Summit 149 MW,11:12,12:39,grid,low voltage
+2020-09-15,,0.52,1,Raozan Unit 1,14:18,14:59,unstated,
+2020-10-10,,0.0,0,Shahzibazar 330 MW GT-2,14:43,16:08,unstated,
+2020-10-18,,0.36,1,Summit Megnaghat-305 MW CCPP ST,17:12,,electrical,auxiliary failure
+2020-10-23,,0.0,0,Chndpur-163 MW CCPP GT,23:29,,electrical,E/F relay
+2020-11-25,,0.52,1,Raozan Unit-1,08:30,,fuel_supply,gas shortage
+2021-01-11,,0.0,0,Anwwara-300 MW,18:55,19:15,grid,high voltage
+2021-01-29,,0.55,2,Payra Unit #02,16:17,21:31,grid,over frequency
+2021-02-15,,0.0,0,After maintenance Chandpur 150 MW ST were synchronized at 17:23 and,,17:23,unstated,
+2021-05-08,,0.52,1,Raozan Unit-1,14:15,14:53,boiler,Boiler trip
+2021-05-11,,0.36,1,Summit Megnaghat-305 MW CCPP ST,16:05,,control,problem with control system of main steam control valve
+2021-05-25,,0.49,1,Ashuganj unit-4 was synchronized at 18:04 and,21:07,18:04,unstated,
+2021-06-07,,0.0,0,EGCB 412 MW,04:03,,other,fire at 6.6 kV incoming
+2021-06-17,,0.44,2,Payra-1360 MW unit-1,12:18,15:51,boiler,MFT operated
+2021-06-21,,0.52,1,Raozan unit-1,07:01,07:38,boiler,tripping of boiler
+2021-06-21,,0.44,1,Ghorashal unit-7 GT synchronized at 20:50 and,21:02,20:50,control,gas detection system failed
+2021-07-31,,0.51,4,Sylhet 150 MW GT,07:19,,electrical,general protection tripped
+2021-08-11,,0.54,1,Mymensingh RPCL ST & GT-3,07:36,08:52,unstated,
+2021-09-11,,0.29,1,Raozan #01 was synchronized at 17:00 the unit,,17:00,unstated,
+2021-09-24,,0.51,4,Shahjibazar GT-9 was synchronized at 04:05(25-09-2021) and,05:54,04:05,unstated,
+2021-12-03,,0.0,0,After maintenance Nutun Bidduit-220 MW GT-2 was synchronized at 19:40 and GT-1,08:00,19:40,turbine,problem with lube oil supply system
+2022-01-31,,0.0,0,Anwera-300 MW,13:30,14:01,electrical,E/F relay
+2022-02-06,,0.0,0,AES Haripur 360 MW CCPP ST,17:24,,other,IGB problem
+2022-02-23,,0.41,1,"Baraka Sikalbaha,Karnophuli 110 MW & Ashuganj precision are",15:20,,unstated,
+2022-05-02,,0.3,1,Raozan Unit-1 was synchronized at 22:41 and,05:37,22:41,boiler,Burner problem and again synchronized at 06:45(03/05/2022)
+2022-05-03,,0.27,1,Raozan Unit-1 was synchronized at 16:24 and again,05:30,16:24,unstated,
+2022-05-06,,0.47,4,Siddirganj GT-1 was synchronized at 09:03 and,12:27,09:03,unstated,
+2022-06-10,,0.0,0,& ST at 16:24 & again,16:48,19:46,unstated,
+2022-06-13,,0.29,4,Bhola GT-1 was synchronized at 01:24(14/06/2022) and again,06:46,01:24,electrical,tripping of unit transformer
+2022-06-13,,0.55,4,Bhola GT-2,23:00,00:48,unstated,
+2022-06-27,,0.52,1,Raozan Unit-1,02:41,04:08,cooling,vacuum fault
+2022-06-27,,0.52,1,Raozan Unit-1,04:25,04:50,unstated,
+2022-07-01,,0.38,1,Summits Bibiyana-2 CCPP ST,09:44,11:53,other,HRSG damper power loss
+2022-07-09,,0.47,4,Siddirganj GT-2 was synchronized at 14:23 and,19:26,14:23,electrical,E/F relay
+2022-07-11,,0.41,3,Bibiyana #3 CCPP GT was synchronized at 14:23 and,23:46,14:23,control,problem with DCS system
+2022-07-14,,0.0,0,UMPL and Jamalpur united 115 MW both,01:50,,unstated,
+2022-08-11,,0.52,1,Raozan Unit-1,13:29,,control,problem at control system
+2022-08-15,,0.29,1,Rampal unit-1 synchronized on test at 17:58 and,18:02,,unstated,
+2022-08-17,,0.0,0,Above reason low voltage occurred under CTG Zone & all generation of CTG zone (1164 MW) got,,,other,this reason Feni-Hathazari 132 kV Ckt both Ckt running O/L
+2022-08-30,,0.0,0,After maintenance Sirajganj Unit-4 ST was synchronized at 17:27 and,18:24,17:27,other,high temperature & was again synchronized at 19:21
+2022-09-03,,0.0,0,Chandpur-150 MW CCPP GT,15:14,18:45,fuel_supply,tripping of GBC
+2022-09-07,,0.48,1,Rampal Unit-1,15:22,,unstated,
+2022-10-17,,0.48,1,Rampal unit-1,16:40,20:30,unstated,
+2022-10-25,,0.38,4,"Bhola Nutun Biddut GT-2 & STG were synchronized at 13:11,16:06 respectively and STG",16:22,13:11,unstated,
+2022-10-28,,0.44,4,Sylhet 255 MW ST,04:27,,unstated,
+2022-11-02,,0.34,4,Bhola CCPP GT-1 was synchronized at 16:19 and GT-1 & GT-2 both,18:00,16:19,fuel_supply,problem with GBC and GT-1 was synchronized at 18:51
+2022-11-05,,0.0,0,Nutun Biddut ST,08:27,13:25,unstated,
+2022-11-13,,0.0,0,After maintenance of gas line Haripur 412 MW CCPP GT was synchronized at 12:12 and,13:03,12:12,fuel_supply,dirty fuel
+2022-11-21,,0.44,3,Chandpur CCPP ST was synchronized at 08:57 and,10:13,08:57,other,winding temperature high
+2022-12-29,,0.54,1,- Rampal PP,20:37,,boiler,Boiler trip
+2023-01-01,,0.52,4,"- Bhola CCPP, Bhola Natun Biddut & Ghorasal GT-4",15:07,,unstated,
+2023-01-02,,0.0,0,testing Adani power Unit-1,15:18,,unstated,
+2023-01-08,,0.54,1,- Rampal PP,3:06,,unstated,
+2023-02-03,,0.53,1,Bibiana South ST,13:51,,unstated,
+2023-02-17,,0.3,1,- Sirajgonj Gas 210 MW Unit-1 ST,23:10,,unstated,
+2023-02-18,,0.32,1,Haripur 412MW CCPP ST,07:11,,unstated,
+2023-03-14,,0.0,0,- Bhola CCPP GT1 & GT2,3:52,,fuel_supply,GBC problem
+2023-03-18,,0.33,1,Sirajgonj Gas 210MW Unit-1,13:39,,cooling,cooling water temperature high
+2023-05-24,,0.33,1,- Sirajgonj Gas 210MW Unit-1,11:17,,unstated,
+2023-05-24,,0.0,0,- S S power unit-1,17:31,,boiler,boiler feed pump problem
+2023-05-25,,0.52,1,Raozan unit-1,17:20,,unstated,
+2023-06-02,,0.0,0,"- About 472 MW load interruption occurred under Tangail, Netrokona, Jamalpur, and Sherpur grid SS and 185 MW generation interruption 185MW generation interrupt. occurred under Mymensingh zone from 14:32 hrs to 14:45 hrs due to",14:45,,unstated,
+2023-06-08,,0.0,0,Ashugonj North 360MW ST and Ashuganj South 360MW ST,14:59,,unstated,
+2023-06-11,,0.0,0,Coxbazar 50 MW wind power plant,14:41,,unstated,
+2023-06-12,,0.0,0,Shahajibazar gt-9,01:42,,electrical,generator CB trip
+2023-06-19,,0.0,0,From NLDC: Siddhirganj GT 2x120 MW Unit-1,05:19,,unstated,
+2023-06-23,,0.39,1,Sirajgonj GAS 410MW Unit-4 GT & ST,14:09,,unstated,
+2023-06-27,,0.0,0,Bashkhali (SS Power) unit-2,07:08,,unstated,
+2023-06-28,,0.33,1,Sirajgonj Gas 210MW Unit-1,03:26,,fuel_supply,GBC trip
+2023-07-01,,0.33,1,- Sirajgonj Gas 210MW Unit-1,10:14,,turbine,GT hydraulic oil leakage
+2023-07-06,,0.0,0,Bhola GT-1,17:44,,unstated,
+2023-07-10,,0.0,0,Purbasadipur -Thakurgaon PP line- 1&2,21:38,,other,Dist
+2023-08-05,,0.5,1,Matarbari coal power Unit-1,15:29,,unstated,
+2023-08-07,,0.5,1,Matarbari coal power Unit-1,15:55,,unstated,
+2023-08-08,,0.0,0,Banshkhali SS Power unit-2,06:26,,turbine,bearing temperature high
+2023-09-01,,0.42,1,Adani Unit-2,23:53,,unstated,
+2023-09-05,,0.0,0,- Bashkhali SS Power 600 MW (Unit-2),15:03,,unstated,
+2023-09-09,,0.0,0,Bashkhali SS Power Unit-2,08:14,,unstated,
+2023-09-09,,0.0,0,Bashkhali SS Power Unit-2,16:11,,unstated,
+2023-10-31,,0.42,1,Adani: Unit-1,16:58,,unstated,
+2023-11-16,,0.48,1,Rampal Unit-1,11:47,,unstated,
+2023-11-27,,0.0,0,Bashkhali SS Power Unit-2,09:54,,grid,tripping of Bashkhali- Madunaghat 400 kV ckt showing 320MW generation interruption
+2023-11-29,,0.42,1,- Adani Unit-1,10:40,,turbine,turbine protection being operated
+2023-12-13,,0.44,1,"Karnaphuli Hydro PP Unit 1,2,3 Control Room",09:22,,electrical,"unit-1,2 (Distance relay protection)"
+2023-12-13,,0.44,1,"Karnaphuli Hydro PP Unit 1,2,3 Control Room",14:04,,unstated,
+2023-12-18,,0.0,0,Bashkhali SS Power Unit-1,10:18,,unstated,
+2024-02-11,,0.0,0,Ashugonj 225 MW CCPP GT,09:40,,unstated,
+2024-04-07,,0.52,2,Payra P/S unit-1,21:18,,fuel_supply,EH (Electro-Hydro) oil pressure low
+2024-04-13,,0.0,0,- Bashkhali SS Power Unit-1,18:10,,unstated,
+2024-07-01,,0.0,0,Kamrangirchar GT-1,18:01,,unstated,
+2024-07-10,,0.33,1,- SS Power Synchronized with remarks:- Unit-2,13:42,,unstated,
+2025-01-04,,0.0,0,From NLDC: From NLDC: Ashuganj North CCPP,16:04,,turbine,the tripping of the gas booster compressor
+2025-01-05,,0.0,0,Full load interruption (about 65 MW) occurred from 19:34 to approximately 19:55 hours at the Kalyanpur Substation due to the,19:34,,unstated,
+2025-01-06,,0.0,0,A full interruption occurred at the Narshingdi and Bhulta substations (approximately 205 MW) from 07:30 hours due to the,07:30,,unstated,
+2025-04-14,,0.0,0,Time Summit Bibiyana-2 CCPP GT,08:10,,unstated,
+2025-05-02,,0.0,0,Raojan unit-2,11:18,,other,fire
+2025-06-08,,0.0,0,From NLDC: JERA Meghnaghat Power Limited 718 MW CCPP GT-12,11:58,,fuel_supply,control valve malfunction which resulted in high temperature at fuel gas
+2025-07-12,,0.0,0,Bashkhali SS Power Unit-2,09:42,,electrical,generator temp
+2025-07-19,,0.0,0,Bhola 225 MW CCPP,23:26,,fuel_supply,gas booster trip
+2025-07-20,,0.0,0,Baropukuria unit-3,05:20,,unstated,
+2025-08-22,,0.54,1,Rampal U-1,11:20,,unstated,
+2025-11-21,,0.0,0,Bashkhali SS Power Unit-2,10:38,,unstated,
+2025-12-22,,0.5,1,SS Power Bashkhali Unit-1,15:58,,unstated,
+2026-01-29,,0.5,1,SS Power Bashkhali Unit-2,09:40,,unstated,
+2026-02-22,,0.5,1,SS Power Bashkhali Unit-2,04:21,,unstated,
+2026-02-26,,0.0,0,Natun Biddut GT-1,15:16,,unstated,
+2026-03-17,,0.0,0,Nutan Biddut CCPP ST,19:51,,unstated,
+2026-04-30,,0.0,0,From NLDC: Bhola 225MW CCPP GT-2,22:10,,unstated,
+2026-05-17,,0.0,0,Around 15 MW interruption occurred under Jamalpur and Sherpur grid due to,03:17,,electrical,distance relay caused by bad weather
+2026-06-09,,0.36,1,SS Power Synchronized with remarks:- u-2,22:31,,unstated,
+2026-06-09,,0.5,1,SS Power Bashkhali Unit-2,22:31,,unstated,
+2026-07-10,,0.0,0,Time Bhola Nutan Biddut BD LTD ST,08:10,,turbine,STG tripped on turbine protection logic activation at 08:10hrs
+2020-01-09,210mwccpp,1.22,1,Mymenshing RPCL 210 MW GT-2,12:40,,grid,voltage fluctuation
+2020-05-15,210mwccpp,1.27,1,Mymensing RPCL 210 MW,15:20,15:40,grid,low voltage
+2020-07-25,210mwccpp,0.56,1,Mymensing RPCL GT-1,00:33,,other,General Diff
+2022-04-03,210mwccpp,0.55,1,Mymensingh RPCL STG,09:54,,fuel_supply,low gas pressure
+2022-05-01,210mwccpp,0.57,1,Mymensing RPCL ST,19:50,,other,internal fault
+2022-06-13,210mwccpp,0.55,1,Mymensingh RPCL GT-3,12:16,,other,some internal problem
+2022-07-11,210mwccpp,0.76,1,Mymensing RPCL CCPP ST,06:10,,other,seal stream external fault
+2023-07-25,210mwccpp,0.73,1,Mymensingh RPCL CCPP GT-3,12:33,,unstated,
+2023-09-23,210mwccpp,0.77,1,- Mymensingh RPCL CCPP,12:40,,other,problem in Auxiliary Bus Coupler
+2024-05-12,210mwccpp,1.72,1,RPCL 210MW CCPP,09:06,,unstated,
+2021-05-24,210mwsiddhirganjtpp,0.74,4,Siddhirganj PP GT-1,21:45,,electrical,O/C
+2023-03-10,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-1,10:44,,boiler,boiler trip
+2023-03-10,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-1,20:30,,turbine,high pressure turbine trip
+2023-03-13,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. unit-1,14:11,,boiler,bottom mill coal choking
+2023-03-19,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. Unit-1,13:39,,unstated,
+2023-04-08,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. Unit-1,15:55,,unstated,
+2023-04-26,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-1,14:36,,grid,tripping of Rohonpur-Chapainawabganj 132kV line and 500.0MW generation interrup
+2023-05-10,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-2,01:47,,unstated,
+2023-05-11,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-2,10:33,,unstated,
+2023-05-12,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-2,22:55,,turbine,turbine protection
+2023-05-17,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-1,1:03,,grid,the tripping of Bogura-Adani 400kV ckt-1 showing 400 MW generation interrup
+2023-05-28,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. unit-2,3:02,,turbine,turbine protection
+2023-07-09,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. unit-1,02:14,,unstated,
+2023-08-01,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. unit-1,15:27,,unstated,
+2025-01-25,adanipowerjharkhanda,0.81,1,Adani Power Jharkhand Ltd. Unit-2,13:11,,unstated,
+2023-10-02,adanipowerjharkhandaimported,0.76,1,Adani Power Jharkhand Ltd. unit-2,12:50,,turbine,turbine protection trip
+2023-10-02,adanipowerjharkhandaimported,0.76,1,Adani Power Jharkhand Ltd. unit-2,18:57,,unstated,
+2023-10-05,adanipowerjharkhandaimported,0.76,1,- Adani Power Jharkhand Ltd. unit-2,0:48,,unstated,
+2024-04-29,adanipowerjharkhandaimported,0.67,1,Adani Power Jharkhand Ltd. Unit-1 and Unit-2,08:49,,unstated,
+2024-05-02,adanipowerjharkhandaimported,0.76,1,- Adani Power Jharkhand Ltd. Unit-2,11:27,,unstated,
+2024-05-16,adanipowerjharkhandaimported,0.76,1,Adani Power Jharkhand Ltd. Unit-2,17:28,,unstated,
+2021-12-14,anwara300mwppunited,1.23,1,Anwara 300 MW,18:43,19:22,grid,high voltage
+2022-03-15,anwara300mwppunited,1.23,1,Anwara 300 MW,09:50,10:03,unstated,
+2022-02-04,ashuganj150mwppmidland,1.41,2,"Ashuganj(S) 450 MW STG, Ashuganj Modular, Ashuganj Midland 150 MW",21:18,,unstated,
+2022-10-30,ashuganj150mwppmidland,1.32,2,"Ashuganj Midland 150 MW, Modular 195 MW, & Ashuganj TSK 50 MW all",12:38,,other,flashing at Ashuganj compound
+2019-11-06,ashuganj225mwccpp,1.31,12,Ashuganj 225 MW ST,12:32,,unstated,
+2019-11-17,ashuganj225mwccpp,1.5,12,Ashuganj 225 MW CCPP,00:11,,boiler,problem in flame monitoring system
+2020-01-23,ashuganj225mwccpp,1.31,11,Ashuganj 225 MW ST,07:03,,unstated,
+2020-05-17,ashuganj225mwccpp,1.44,11,Ashuganj 225 MW CCPP ST,12:02,19:30,cooling,CW pump problem
+2020-06-10,ashuganj225mwccpp,1.37,11,Ashuganj-225 MW,04:46,05:42,fuel_supply,gas pressure low and GT was synchronized at 05:42(11/6/20)
+2020-07-08,ashuganj225mwccpp,1.31,11,Ashuganj 225 MW ST,01:54,,turbine,turbine control system fault
+2020-07-12,ashuganj225mwccpp,0.56,11,Ashuganj 255 MW CCPP STG,00:12,,turbine,turbine control pressure low
+2020-07-15,ashuganj225mwccpp,1.44,11,Ashuganj 225 MW CCPP ST,16:01,02:27,turbine,over speed protection channel -2 fault
+2020-09-02,ashuganj225mwccpp,1.31,11,Ashuganj 225 MW ST,18:18,,unstated,
+2020-09-17,ashuganj225mwccpp,1.31,11,Ashuganj 225 MW ST,16:01,01:15,unstated,
+2020-10-06,ashuganj225mwccpp,1.29,11,Ashuganj 225 MW STG,14:44,07:55,control,solenoid valve problem
+2020-10-08,ashuganj225mwccpp,0.96,11,"Ashuganj-225 MW, Ashuganj-55 MW & Shahjibazar-86 MW",09:51,12:49,electrical,E/F relay
+2020-10-12,ashuganj225mwccpp,1.42,11,Ashuganj 225 MW CCPP STG,07:45,,control,main solenoid valve problem
+2020-11-29,ashuganj225mwccpp,1.26,11,Ashuganj 225 MW ST & GT,12:18,18:38,boiler,flame problem
+2021-04-21,ashuganj225mwccpp,0.81,11,Ashuganj-225 MW CCPP GT was shut down at 17:04 due to problem with air compressor and was synchronized at 20:42 & ST,16:57,20:42,electrical,droop protection trip
+2021-06-10,ashuganj225mwccpp,1.37,11,Ashuganj 225 MW,08:11,11:56,fuel_supply,"sudden gas pressure fall and GT & ST were synchronized at 11:56, 15:11 respectively"
+2021-08-17,ashuganj225mwccpp,1.5,11,Ashuganj 225 MW CCPP,04:31,05:10,unstated,
+2021-10-03,ashuganj225mwccpp,1.39,11,Ashuganj-225 MW CCPP ST & GT,19:15,,other,problem with damper
+2021-12-11,ashuganj225mwccpp,1.37,11,Ashuganj-225 MW,15:47,15:47,unstated,
+2021-12-16,ashuganj225mwccpp,1.5,11,Ashuganj 225 MW CCPP,18:30,22:39,fuel_supply,gas pressure low and GT was synchronized at 22:39
+2021-12-22,ashuganj225mwccpp,1.37,11,Ashuganj-225 MW,20:40,,boiler,flame monitoring system failure and GT & ST were synchronized at
+2021-12-30,ashuganj225mwccpp,1.5,11,Ashuganj 225 MW CCPP,17:16,23:05,control,problem with fire detection system
+2022-01-05,ashuganj225mwccpp,1.5,11,Ashuganj 225 MW CCPP,08:36,,boiler,flame monitoring trip
+2022-01-21,ashuganj225mwccpp,1.5,11,Ashuganj-225 MW CCPP,19:21,23:14,fuel_supply,fuel supply system problem and GT & ST were synchronized at 23:14 & 02:51(22/1/22) respectively
+2022-03-02,ashuganj225mwccpp,1.08,11,Ashuganj-225 MW & Ashuganj-50 MW TSK,09:15,11:27,electrical,E/F relay
+2022-04-21,ashuganj225mwccpp,1.37,11,Ashuganj-225 MW,03:08,04:46,unstated,
+2022-05-04,ashuganj225mwccpp,1.37,11,Ashuganj 225 MW,07:39,,fuel_supply,low gas pressure
+2022-10-22,ashuganj225mwccpp,1.37,12,Ashuganj-225 MW,16:33,19:03,fuel_supply,gas pressure fall and GT was synchronized at 19:03
+2023-01-24,ashuganj225mwccpp,1.22,12,Ashuganj CCPP 225MW ST,16:00,,control,trip solenoid valve failure
+2023-01-30,ashuganj225mwccpp,1.22,12,Ashuganj CCPP 225MW ST,16:01,,unstated,
+2023-05-02,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225MW,08:57,,unstated,
+2023-06-11,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225MW,16:17,,fuel_supply,low gas pressure
+2023-09-06,ashuganj225mwccpp,1.5,12,- Ashuganj 225 MW CCPP,18:58,,unstated,
+2023-09-10,ashuganj225mwccpp,1.38,12,Ashuganj 225 MW PP ST,10:12,,unstated,
+2023-09-10,ashuganj225mwccpp,1.44,12,Ashuganj 225 MW CCPP GT,11:15,,unstated,
+2023-10-23,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,18:55,,unstated,
+2023-11-12,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,06:10,,unstated,
+2024-01-23,ashuganj225mwccpp,1.22,12,- Ashuganj CCPP 225MW GT,11:04,,turbine,high temperature in turbine outlet
+2024-02-26,ashuganj225mwccpp,1.22,12,Ashuganj CCPP 225MW GT,04:08,,unstated,
+2024-03-23,ashuganj225mwccpp,0.98,12,- Ashuganj CCPP 225 MW Syncronized with remarks:- ST,07:22,,other,General cleaning Rajshahi 132/33kV S/S Transformer T-1(405T) HT Scheduled S/D Feni 132/33kV S/S T-2(415T) LT Scheduled S/D Due to 33 kv Bus Coupler DS open from PDB (33 kv side) interrup
+2024-03-23,ashuganj225mwccpp,1.26,12,- Ashuganj CCPP 225 MW,7:22,,unstated,
+2024-05-01,ashuganj225mwccpp,0.98,12,Ashuganj CCPP 225 MW Syncronized with remarks:- ST,18:01,,unstated,
+2024-05-05,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,20:51,,unstated,
+2024-05-12,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,09:06,,unstated,
+2024-06-18,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,15:01,,unstated,
+2024-06-20,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,09:12,,unstated,
+2025-04-03,ashuganj225mwccpp,1.22,9,Ashuganj CCPP 225 MW ST,04:44,,cooling,CW pump trip
+2025-04-11,ashuganj225mwccpp,1.22,9,Ashuganj CCPP 225 MW ST,00:42,,unstated,
+2025-07-20,ashuganj225mwccpp,1.26,9,Ashuganj CCPP 225 MW,09:38,,unstated,
+2025-10-09,ashuganj225mwccpp,1.37,9,Ashuganj 225 MW,15:54,,electrical,the activation of generator protection
+2025-11-14,ashuganj225mwccpp,1.31,9,Ashuganj 225 MW ST,18:50,,unstated,
+2025-11-21,ashuganj225mwccpp,1.44,9,Ashuganj 225 MW CCPP ST,10:42,,unstated,
+2025-12-27,ashuganj225mwccpp,1.44,9,Ashuganj 225 MW CCPP ST,05:49,,other,flash tank level high
+2026-01-30,ashuganj225mwccpp,1.26,9,Ashuganj CCPP 225 MW,04:04,,unstated,
+2026-02-02,ashuganj225mwccpp,1.26,9,Ashuganj CCPP 225 MW,15:02,,unstated,
+2026-04-02,ashuganj225mwccpp,1.26,9,Ashuganj CCPP 225 MW,11:01,,unstated,
+2026-06-09,ashuganj225mwccpp,0.97,9,Ashuganj CCPP 225 MW Synchronized with remarks:- ST,22:16,,unstated,
+2026-06-09,ashuganj225mwccpp,1.44,9,Ashuganj 225 MW CCPP ST,22:17,,unstated,
+2026-09-17,ashuganj225mwccpp,1.26,9,Ashuganj CCPP 225 MW,09:20,,unstated,
+2022-09-28,ashuganj420mwccppeast,1.18,12,Ashuganj(E) CCPP ST,13:11,,unstated,
+2022-10-28,ashuganj420mwccppeast,1.5,12,Ashuganj(East) 400 MW GT,13:56,,fuel_supply,low gas pressure
+2023-01-02,ashuganj420mwccppeast,1.9,12,Ashuganj 420 MW CCPP(East),10:47,,unstated,
+2023-01-03,ashuganj420mwccppeast,1.9,12,- Ashuganj 420 MW CCPP(East),9:17,,control,Control voltage problem
+2023-03-13,ashuganj420mwccppeast,1.9,12,- Ashuganj 420 MW CCPP(East),10:20,,unstated,
+2023-03-24,ashuganj420mwccppeast,1.85,12,- Ashuganj 420 MW CCPP(East) ST,14:28,,unstated,
+2023-04-06,ashuganj420mwccppeast,1.9,12,Ashuganj 420 MW CCPP(East),14:03,,turbine,compressor temperature inlet sense deviation
+2023-04-08,ashuganj420mwccppeast,1.9,12,- Ashuganj 420 MW CCPP(East),14:54,,unstated,
+2023-04-25,ashuganj420mwccppeast,1.9,12,Ashuganj 420 MW CCPP(East),13:06,,other,combustion chamber problem
+2023-10-05,ashuganj420mwccppeast,1.58,12,- Ashuganj East CCPP 420 MW ST,0:48,,grid,over-frequency
+2024-02-17,ashuganj420mwccppeast,1.9,12,Ashuganj 420 MW CCPP (East),08:38,,turbine,operating of turbine main lube oil tank level protection
+2024-03-07,ashuganj420mwccppeast,1.9,12,Ashuganj 420 MW CCPP(East),11:51,,other,Plant
+2024-05-03,ashuganj420mwccppeast,1.85,12,Ashuganj 420 MW CCPP(East) ST,01:22,,cooling,CW pump trip
+2025-12-10,ashuganj420mwccppeast,1.9,9,Ashuganj 420 MW CCPP (East),07:06,,unstated,
+2019-12-17,ashuganj450mwccppnorth,1.8,12,Ashuganj 450 MW (North),02:28,,fuel_supply,GBC problem
+2020-03-28,ashuganj450mwccppnorth,1.49,11,Ashuganj(North) 450 MW GT & ST,20:39,00:28,fuel_supply,gas buster trip
+2020-03-29,ashuganj450mwccppnorth,1.55,11,Ashuganj(North) 450 MW,15:31,19:37,fuel_supply,gas buster trip and GT was synchronized at 19:37
+2020-08-07,ashuganj450mwccppnorth,1.62,11,Ashuganj(N) 450 MW,12:22,15:10,grid,voltage fluctuation
+2021-02-21,ashuganj450mwccppnorth,1.09,11,Ashuganj (N) CCPP,02:29,,cooling,CW pump problem
+2021-03-13,ashuganj450mwccppnorth,1.01,11,Ashuganj(N) ST,16:54,00:52,other,bad weather
+2021-04-02,ashuganj450mwccppnorth,1.76,11,Ashuganj(N) 450 MW CCPP ST,04:36,,grid,voltage fluctuation
+2021-07-15,ashuganj450mwccppnorth,1.65,11,Ashuganj(N) 360 MW CCPP,08:27,,unstated,
+2021-07-16,ashuganj450mwccppnorth,1.09,11,Ashuganj(N) CCPP,12:07,22:44,fuel_supply,problem of gas valve and GT was synchronized at 22:44 and STG was synchronized at 02:54(17/7/2021)
+2021-07-19,ashuganj450mwccppnorth,1.75,11,Ashuganj(N) 450 MW CCPP,05:53,,fuel_supply,RMS gas system fault
+2021-07-19,ashuganj450mwccppnorth,1.62,11,Ashuganj(N) 450 MW,17:13,,fuel_supply,gas problem
+2021-08-16,ashuganj450mwccppnorth,1.65,11,Ashuganj(N)-360 MW CCPP,15:31,,fuel_supply,RMS problem and GT & ST were synchronized at
+2021-08-20,ashuganj450mwccppnorth,0.99,11,Ashuganj(N) STG,10:43,19:10,cooling,CW pump problem
+2021-11-21,ashuganj450mwccppnorth,1.01,11,Ashuganj(N) ST,21:37,,unstated,
+2021-12-26,ashuganj450mwccppnorth,1.74,11,Ashuganj (N) 450 MW CCPP STG,10:18,,cooling,CW pump problem
+2022-01-04,ashuganj450mwccppnorth,1.1,11,Ashuganj (N) CCPP GT,04:13,,fuel_supply,gas booster problem
+2022-02-04,ashuganj450mwccppnorth,1.64,11,Ashuganj(N) 450 MW GT,17:46,,other,400 kV Bus dead due to Bhulta Ckt tripping
+2022-02-04,ashuganj450mwccppnorth,1.64,11,Ashuganj(N) 450 MW GT,21:58,,unstated,
+2022-02-10,ashuganj450mwccppnorth,1.51,11,Ashuganj(N)-360 MW,02:25,,grid,high voltage
+2022-05-08,ashuganj450mwccppnorth,0.81,11,Ashuganj North ST synchronized at 13:54 and again,16:35,13:54,unstated,
+2022-05-09,ashuganj450mwccppnorth,1.1,11,Ashuganj North ST,10:20,22:24,unstated,
+2022-07-12,ashuganj450mwccppnorth,0.99,12,Ashuganj(N) STG,06:40,,unstated,
+2022-07-30,ashuganj450mwccppnorth,1.51,12,Ashuganj(N)-360 MW,00:09,02:18,other,cooling fan trip and GT was synchronized at 02:18(31/7/22) and again tripped at 03:35(31/7/22) and synchronized at 04:53(31/7/22)
+2023-10-06,ashuganj450mwccppnorth,1.6,12,Ashuganj North 360 MW CCPP GT,21:55,,unstated,
+2023-10-08,ashuganj450mwccppnorth,1.58,12,Ashuganj North 360 MW CCPP,10:06,,fuel_supply,gas booster problem
+2024-01-01,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),17:23,,unstated,
+2024-02-08,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),09:07,,unstated,
+2024-02-08,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),09:13,,unstated,
+2024-03-01,ashuganj450mwccppnorth,1.9,12,- Ashuganj 450 MW CCPP(North),4:24,,unstated,
+2024-04-04,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),16:46,,unstated,
+2024-04-27,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),20:00,,unstated,
+2024-05-01,ashuganj450mwccppnorth,1.9,12,Ashuganj 450 MW CCPP(North),17:54,,unstated,
+2025-12-16,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),15:14,,unstated,
+2025-12-22,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),03:48,,unstated,
+2026-03-13,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),14:23,,unstated,
+2026-05-04,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),17:31,,unstated,
+2026-05-14,ashuganj450mwccppnorth,1.58,9,Ashuganj North 360 MW CCPP,14:39,,fuel_supply,gas booster trip
+2026-05-14,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),14:40,,unstated,
+2026-08-08,ashuganj450mwccppnorth,1.1,9,Ashuganj North ST,21:20,,unstated,
+2026-08-09,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),16:11,,unstated,
+2020-01-13,ashuganj450mwccppsouth,1.1,11,Ashuganj South GT,11:12,19:44,control,outlet temperature sensor problem
+2020-01-13,ashuganj450mwccppsouth,1.1,11,Ashuganj South GT,22:47,23:23,control,outlet temperature sensor problem
+2020-01-15,ashuganj450mwccppsouth,1.37,11,Ashuganj 450 MW CCPP,20:43,21:45,fuel_supply,problem at GBC
+2020-03-05,ashuganj450mwccppsouth,1.75,11,Ashuganj(S) 450 MW CCPP,21:38,,boiler,flame failure
+2020-03-07,ashuganj450mwccppsouth,1.51,11,Ashuganj (S)-360 MW,10:17,,electrical,E/F relay and GT & ST were synchronized at
+2020-04-27,ashuganj450mwccppsouth,1.09,11,Ashuganj(s) CCPP,18:08,,other,problem of OCW pump and GT was switched on at 19:59
+2020-04-27,ashuganj450mwccppsouth,1.02,11,Ashuganj(s) CCPP GT again,22:29,23:08,turbine,variation of exhaust temperature
+2020-05-05,ashuganj450mwccppsouth,1.75,11,Ashuganj(S) 450 MW CCPP,01:00,,turbine,exhaust temperature abnormal
+2020-05-10,ashuganj450mwccppsouth,1.62,11,Ashuganj (S) 450 MW,22:38,,boiler,flame failure
+2020-08-21,ashuganj450mwccppsouth,1.1,11,Ashuganj South GT,00:56,,unstated,
+2020-08-28,ashuganj450mwccppsouth,1.01,11,Ashuganj(S) ST,14:48,,unstated,
+2020-10-06,ashuganj450mwccppsouth,1.76,11,Ashuganj (S) 450 MW CCPP GT,17:30,20:29,turbine,turbine bearing temperature high
+2020-12-11,ashuganj450mwccppsouth,1.1,11,Ashuganj (S) CCPP GT,12:56,,unstated,
+2020-12-14,ashuganj450mwccppsouth,1.64,11,Ashuganj(S) 450 MW GT,07:40,,unstated,
+2020-12-15,ashuganj450mwccppsouth,1.62,11,Ashuganj(S)-450 MW,22:31,,other,acceleration monitor trip
+2020-12-21,ashuganj450mwccppsouth,1.51,11,Ashuganj(S)-360 MW,14:40,,other,acceleration monitor
+2021-01-01,ashuganj450mwccppsouth,1.62,11,Ashuganj(S)-450 MW,13:19,20:06,turbine,compressor problem and GT was synchronized at 20:06
+2021-01-10,ashuganj450mwccppsouth,1.69,11,Ashuganj(S) 450 MW ST,14:27,,unstated,
+2021-01-10,ashuganj450mwccppsouth,1.64,11,Ashuganj(S) 450 MW GT,14:53,,unstated,
+2021-07-21,ashuganj450mwccppsouth,1.09,11,Ashuganj(S) CCPP,02:29,,fuel_supply,gas shortage
+2021-11-12,ashuganj450mwccppsouth,1.65,11,Ashuganj (S)-360 MW CCPP,21:33,,electrical,trip of auxiliary transformer breaker
+2021-12-26,ashuganj450mwccppsouth,1.75,11,Ashuganj (S) 450 MW CCPP,19:41,20:20,fuel_supply,low gas pressure and GT was synchronized at 20:20
+2022-04-16,ashuganj450mwccppsouth,1.51,11,Ashuganj(S)-360 MW,15:17,17:08,electrical,230 kV unit breaker open and GT & ST were synchronized at 17:08 & 19:19 respectively
+2022-07-13,ashuganj450mwccppsouth,1.62,12,Ashuganj(S) 450 MW,20:42,22:45,fuel_supply,problem with GBC and GT was synchronized at 22:45 and STG was synchronized at 04:23(14/7/2022)
+2022-10-04,ashuganj450mwccppsouth,1.03,12,Ashuganj south Capp GT,23:30,03:30,fuel_supply,gas shortage
+2022-10-18,ashuganj450mwccppsouth,1.71,12,Ashuganj(S)-360 MW CCPP ST,14:09,18:39,cooling,problem with condensate pump and synchronized at 18:39
+2023-03-26,ashuganj450mwccppsouth,1.52,12,Ashuganj South 360MW ST,20:01,,unstated,
+2023-04-12,ashuganj450mwccppsouth,1.52,12,Ashuganj South 360MW ST,14:03,,unstated,
+2023-07-01,ashuganj450mwccppsouth,1.58,12,- Ashuganj South 360MW CCPP,10:59,,boiler,flame monitoring sys
+2023-07-26,ashuganj450mwccppsouth,1.16,12,Ashuganj (S) CCPP ST,06:53,,other,high temp
+2023-10-06,ashuganj450mwccppsouth,1.58,12,Ashuganj South 360 MW CCPP,01:08,,unstated,
+2023-12-14,ashuganj450mwccppsouth,1.58,12,- Ashuganj South 360 MW CCPP,12:00,,unstated,
+2023-12-22,ashuganj450mwccppsouth,1.9,12,Ashuganj 450 MW CCPP(South),22:26,,unstated,
+2024-05-03,ashuganj450mwccppsouth,1.52,12,Ashuganj South 360MW ST,01:03,,cooling,CW pump trip
+2024-06-19,ashuganj450mwccppsouth,1.9,12,Ashuganj 450 MW CCPP(South),05:56,,unstated,
+2025-02-01,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),18:22,,unstated,
+2025-02-11,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),08:35,,unstated,
+2025-02-13,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),11:43,,unstated,
+2025-03-07,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),06:18,,unstated,
+2025-03-31,ashuganj450mwccppsouth,1.55,9,Ashuganj South 360 MW,01:51,,unstated,
+2025-04-25,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),16:38,,unstated,
+2025-05-03,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),21:55,,unstated,
+2025-07-30,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),10:05,,other,Plant
+2025-08-27,ashuganj450mwccppsouth,1.58,9,Ashuganj South 360 MW CCPP,20:52,,control,the tripping of the Natural Gas controller system
+2025-09-30,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),02:14,,unstated,
+2025-11-18,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),08:52,,other,Plant
+2025-12-03,ashuganj450mwccppsouth,1.64,9,Ashuganj South 360 MW CCPP ST,13:03,,unstated,
+2025-12-07,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),09:14,,other,Plant
+2025-12-14,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),12:58,,unstated,
+2025-12-16,ashuganj450mwccppsouth,1.58,9,Ashuganj (South) 360 MW CCPP,02:35,,grid,tripping of a low-voltage transformer
+2026-02-16,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),14:11,,other,Plant
+2026-03-25,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),11:45,,other,Plant
+2026-05-28,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),01:38,,unstated,
+2026-06-07,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),08:49,,unstated,
+2026-06-07,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),09:18,,unstated,
+2026-06-07,ashuganj450mwccppsouth,1.58,9,Ashuganj South 360 MW CCPP,09:19,,unstated,
+2026-06-09,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),13:18,,unstated,
+2026-06-09,ashuganj450mwccppsouth,1.46,9,Ashuganj 450 MW CCPP(South) Synchronized with remarks:- False SMS ( STG,13:30,,unstated,
+2023-09-06,ashuganj50mwpp,1.4,12,- Ashuganj 50 MW (TSK) PP,19:32,,unstated,
+2020-06-19,ashuganj51mwppmidland,1.65,2,Ashuganj Midland-51 MW,03:26,,other,CT burst
+2020-11-30,ashuganj51mwppmidland,0.81,2,Ashuganj Midland 50 Mw P/P,08:12,08:50,unstated,
+2021-02-07,ashuganj51mwppmidland,1.42,2,"Ashuganj Modular, Midland 150 MW and Midland 51 MW",09:12,,other,flashing at Bushing between AIS and GIS interconnection and Grounding Box of Modular machine
+2022-02-08,ashuganj51mwppmidland,1.52,2,"Ashuganj Midland 150 MW,51 MW are",12:55,,unstated,
+2024-05-12,ashuganj51mwppmidland,1.9,2,Ashuganj 51 MW PP (Midland),09:02,,other,APSCL 132 KV line fault
+2025-11-21,ashuganj51mwppmidland,0.62,9,Ashuganj TSK power plant,10:38,11:40,unstated,
+2021-06-05,ashuganj55mwppprecision,0.88,1,"Ashuganj 225 MW, Precision and TSK",03:38,,other,Ashuganj-Ghorashal line fault
+2025-11-21,ashuganj55mwppprecision,1.08,1,Ashuganj Precision power plant,11:39,,unstated,
+2025-11-21,ashuganj55mwppprecision,1.08,1,Ashuganj Precision power plant,11:45,11:45,unstated,
+2020-05-05,ashuganjtppunit3,0.9,1,Ashuganj unit-3,15:52,18:00,fuel_supply,gas problem
+2020-06-01,ashuganjtppunit3,0.9,1,Ashuganj unit-3,16:37,21:51,boiler,HPSG drum level trip
+2020-06-16,ashuganjtppunit3,0.9,1,Ashuganj unit-3,09:03,12:01,cooling,Vacuum
+2019-11-07,ashuganjtppunit4,0.9,1,Ashuganj unit-4,00:18,,turbine,hydraulic control oil problem
+2019-11-27,ashuganjtppunit4,0.9,1,Ashuganj Unit-4,22:10,,cooling,condensate pump trip
+2019-12-10,ashuganjtppunit4,0.9,1,Ashuganj unit-4,11:50,,boiler,problem at BFP
+2020-05-05,ashuganjtppunit4,0.9,1,Ashuganj unit-4,02:47,,boiler,drum level high
+2020-12-28,ashuganjtppunit4,0.9,1,Ashuganj unit-4,12:01,18:36,boiler,FD fan tripped
+2019-01-11,ashuganjtppunit5,0.9,1,Ashuganj unit-5,00:29,,other,A/M
+2019-01-11,ashuganjtppunit5,0.9,1,Ashuganj unit-5,10:42,15:58,boiler,burner trip
+2019-12-04,ashuganjtppunit5,0.9,1,Ashuganj unit-5,01:31,,boiler,burner problem
+2019-12-06,ashuganjtppunit5,0.9,1,Ashuganj Unit-5,23:13,,boiler,tripping of boiler
+2019-12-18,ashuganjtppunit5,0.9,1,Ashuganj unit-5,10:10,,unstated,
+2020-01-23,ashuganjtppunit5,0.9,1,Ashuganj unit-5,17:57,21:45,cooling,vacuum low
+2020-02-07,ashuganjtppunit5,0.9,1,Ashuganj unit-5,08:58,12:44,cooling,CW problem
+2021-12-14,ashuganjtppunit5,0.9,1,Ashuganj Unit-5,04:28,05:36,turbine,shaft vibration
+2019-10-26,baghabari100mwgtpp,1.44,4,Baghabari 100 MW GT,12:43,,fuel_supply,low gas pressure
+2019-12-13,baghabari100mwgtpp,1.04,4,Baghabari-100 MW was synchronized at 12:40 and,13:05,12:40,electrical,E/F relay
+2020-01-25,baghabari100mwgtpp,1.07,4,Baghabari 100 MW synchronized at 14:13 and,15:50,14:13,fuel_supply,low gas pressure
+2020-05-02,baghabari100mwgtpp,1.38,4,Baghabari 100 MW,18:12,20:42,electrical,loss of excitation without under voltage relay
+2020-07-02,baghabari100mwgtpp,1.44,4,Baghabari 100 MW GT,08:54,,fuel_supply,low gas pressure
+2022-07-12,baghabari100mwgtpp,1.44,4,Baghabari 100 MW GT,12:07,,control,gas control valve problem
+2023-04-22,baghabari100mwgtpp,1.38,4,- Baghabari 100 MW,5:48,,turbine,high Exhaust Temp
+2020-04-09,baghabari71mwgtpp,1.37,4,Baghabari 71 MW,03:22,,fuel_supply,low gas pressure
+2020-05-16,baghabari71mwgtpp,1.02,4,Baghabari-71 MW was synchronized at 11:48 and,18:08,11:48,control,problem with bleed valve
+2020-06-08,baghabari71mwgtpp,1.02,4,Baghabari 71 MW was synchronized at 11:53 and,12:06,11:53,fuel_supply,GBC problem
+2021-04-04,baghabari71mwgtpp,1.37,4,Baghabari 71 MW,12:20,,electrical,tripping of 132 kV CB
+2023-04-22,baghabari71mwgtpp,1.29,4,- Baghabari GT-1 - 71MW,20:58,,unstated,
+2024-05-03,baghabari71mwgtpp,1.5,4,Baghabari 71 MW GTPP,22:48,,unstated,
+2023-11-28,barabkunda22mwppregent,1.9,1,Barabkunda 22 MW PP (Regent),12:38,,grid,grid failure
+2022-03-04,barapukuria275mwtppunit3,0.8,1,Barapukuria unit-3,11:24,,turbine,turbine temperature high
+2025-10-16,barapukuria275mwtppunit3,0.8,1,Barapukuria Unit-3,08:42,,unstated,
+2026-05-25,barapukuria275mwtppunit3,0.8,1,Barapukuria unit-3,22:03,,unstated,
+2026-07-31,barapukuria275mwtppunit3,1.5,1,Barapukuria 275 MW TPP Unit-3,10:22,,unstated,
+2026-07-31,barapukuria275mwtppunit3,1.5,1,Barapukuria 275 MW TPP Unit-3,17:23,,unstated,
+2026-10-05,barapukuria275mwtppunit3,1.5,1,Barapukuria 275 MW TPP Unit-3,05:05,,unstated,
+2020-03-28,barapukuriatppunit1,0.91,1,Barapukuria unit-1,13:23,,boiler,boiler tube leakage
+2021-04-28,barapukuriatppunit1,0.91,1,Barapukuria Unit-1,19:03,00:04,other,bad weather
+2021-07-16,barapukuriatppunit1,0.91,1,Barapukuria Unit-1,18:55,00:17,other,tripping of air heater
+2021-10-18,barapukuriatppunit1,0.91,1,Barapukuria unit-1,06:51,,unstated,
+2024-04-20,barapukuriatppunit1,1.0,1,Barapukuria TPP Unit-1,13:30,,unstated,
+2024-04-29,barapukuriatppunit1,0.91,1,Barapukuria Unit-1,08:50,,unstated,
+2024-05-16,barapukuriatppunit1,0.91,1,Barapukuria Unit-1,13:40,,unstated,
+2024-05-28,barapukuriatppunit1,1.0,1,Barapukuria TPP Unit-1,01:58,,unstated,
+2024-06-03,barapukuriatppunit1,1.0,1,Barapukuria TPP Unit-1,09:00,,unstated,
+2025-07-29,barapukuriatppunit12,0.89,1,Barapukuria PS Unit-1,18:06,,boiler,reheater leakage
+2025-09-12,barapukuriatppunit12,0.89,1,Barapukuria PS Unit-1,14:39,,unstated,
+2025-10-09,barapukuriatppunit12,0.89,1,Barapukuria PS Unit-1,17:19,,unstated,
+2026-03-06,barapukuriatppunit12,0.89,1,Barapukuria Unit-1,11:36,,other,feed pump problem
+2026-05-29,barapukuriatppunit12,0.89,1,Barapukuria PS unit-1,09:32,,unstated,
+2026-08-06,barapukuriatppunit12,0.97,1,Barapukuria TPP Unit-1,11:12,,unstated,
+2026-09-07,barapukuriatppunit12,0.97,1,Barapukuria TPP Unit-1,16:59,,unstated,
+2026-09-19,barapukuriatppunit12,0.97,1,Barapukuria TPP Unit-1,16:32,,unstated,
+2026-09-19,barapukuriatppunit12,0.97,1,Barapukuria TPP Unit-1,18:32,,unstated,
+2026-10-04,barapukuriatppunit12,0.97,1,Barapukuria TPP Unit-1,06:20,,other,Monitor abnormal issues
+2020-03-29,barapukuriatppunit2,0.91,1,Barapukuria unit-2,15:05,21:23,boiler,boiler tube leakage
+2022-10-29,barishal307mw,0.95,2,Barishal Electric 307 MW was synchronized at 11:20 and,17:24,11:20,electrical,unit transformer fault
+2022-12-24,barishal307mw,1.23,2,- Barisal Electric 307 MW,11:28,,unstated,
+2023-03-01,barishal307mw,1.23,2,Barisal Electric 307 MW,19:33,,other,air fan problem
+2023-10-05,barishal307mw,1.23,2,- Barisal Electric 307 MW,0:46,,unstated,
+2023-12-18,barishal307mw,1.46,2,Barisal 307 MW,09:25,,unstated,
+2024-02-15,barishal307mw,1.46,2,Barisal 307 MW,06:39,,unstated,
+2024-02-25,barishal307mw,1.46,2,Barisal 307 MW,15:09,,unstated,
+2024-02-29,barishal307mw,1.46,2,Barisal 307 MW,00:41,,unstated,
+2024-03-30,barishal307mw,1.46,2,Barisal 307 MW,06:54,,unstated,
+2024-05-27,barishal307mw,1.22,2,- Barishal Electric 307 MW PS,12:09,,unstated,
+2025-03-21,barishal307mw,1.22,3,Barishal Electric 307 MW PP,19:30,,unstated,
+2025-04-26,barishal307mw,1.46,3,Barisal 307 MW,17:45,,unstated,
+2026-03-16,barishal307mw,1.46,3,Barisal 307 MW,05:42,,unstated,
+2026-10-27,barishal307mw,1.46,3,Barisal 307 MW,12:41,,unstated,
+2019-12-11,bheramara410mwccpp,0.59,3,Bheramara 360 MW CCPP,04:53,,unstated,
+2019-12-23,bheramara410mwccpp,0.79,3,Bheramara CCPP(NW),16:32,,electrical,auxiliary failure
+2020-05-23,bheramara410mwccpp,0.61,3,Bheramara NWPGCL STG,15:45,16:57,unstated,
+2020-06-20,bheramara410mwccpp,1.38,3,Bheramara 410 MW,03:04,,unstated,
+2020-07-04,bheramara410mwccpp,1.32,3,Bheramara 410 MW ST,16:28,17:44,boiler,feed water pump problem
+2020-10-01,bheramara410mwccpp,1.38,3,Bheramara 410 MW,14:34,,other,negative phase sequence and GT was synchronized at
+2021-01-26,bheramara410mwccpp,1.24,3,Bheramara NWPGCL 410 MW,10:56,,unstated,
+2021-07-11,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,13:07,15:33,fuel_supply,"tripping of GBC, GT was synchronized at 15:33 and STG was synchronized at 17:16"
+2021-10-14,bheramara410mwccpp,1.45,3,Bheramara 410 MW CCPP ST,12:48,17:07,unstated,
+2021-10-27,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,23:51,,grid,voltage fluctuation
+2021-11-07,bheramara410mwccpp,1.45,3,Bheramara-410 MW CCPP ST,01:36,,electrical,E/F relay
+2021-12-20,bheramara410mwccpp,0.59,3,Bheramara 360 MW CCPP,11:19,,fuel_supply,GBC
+2022-02-22,bheramara410mwccpp,0.59,3,Bheramara 360 MW CCPP,07:55,,fuel_supply,RMS outlet pressure low
+2022-02-23,bheramara410mwccpp,1.38,3,Bheramara 410 MW,15:04,,fuel_supply,low gas pressure
+2022-03-13,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,11:05,,fuel_supply,Low gas pressure
+2022-05-31,bheramara410mwccpp,1.32,3,Bheramara 410 MW ST,11:55,12:44,cooling,vacuum pressure fail
+2023-02-25,bheramara410mwccpp,1.32,3,Bheramara 410MW ST,05:26,,other,internal fault
+2023-07-20,bheramara410mwccpp,1.32,3,- Bheramara 410 MW ST,12:16,,unstated,
+2024-04-15,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,12:23,,unstated,
+2025-01-19,bheramara410mwccpp,1.32,3,Bheramara 410MW ST,11:51,,boiler,Drum level high
+2025-03-18,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,05:32,,other,a fire at GT and ST underground cable
+2025-12-07,bheramara410mwccpp,1.5,3,Bheramara 410 MW CCPP,10:01,,unstated,
+2026-01-29,bheramara410mwccpp,1.45,3,Bheramara 410 MW CCPP ST,12:41,,unstated,
+2019-12-04,bhola225mwccpp,1.33,3,Bhola 225 MW,14:27,,other,Barishal(N)-Bhola PP Ckt trip
+2019-12-17,bhola225mwccpp,1.24,3,Bhola 225 MW GT-1,00:20,,unstated,
+2019-12-23,bhola225mwccpp,0.69,3,Bhola CCPP GT-2,09:15,17:30,fuel_supply,Gas problem
+2019-12-24,bhola225mwccpp,1.4,3,Bhola-225 MW CCPP GT-1,10:48,14:12,fuel_supply,problem at GBC
+2019-12-26,bhola225mwccpp,1.5,3,Bhola 225 MW CCPP,01:43,04:40,unstated,
+2020-01-03,bhola225mwccpp,0.72,3,Bhola CCPP ST,00:02,,boiler,boiler drum level high
+2020-01-22,bhola225mwccpp,1.33,3,Bhola-225 MW,15:13,19:10,unstated,
+2020-02-09,bhola225mwccpp,1.33,3,Bhola 225 MW,12:53,,electrical,over voltage
+2020-02-24,bhola225mwccpp,1.5,3,Bhola 225 MW CCPP,10:38,,grid,high voltage
+2020-03-03,bhola225mwccpp,1.38,3,Bhola 225 MW CCPP GT-1 & 2,12:30,20:00,fuel_supply,gas pressure low
+2020-03-08,bhola225mwccpp,0.64,3,Bhola CCPP GT-1&ST,01:01,,other,tripping of compartment cooling fan
+2020-04-23,bhola225mwccpp,1.15,3,Bhola 225 MW GT-1 & coupled STG,12:45,,fuel_supply,GBC problem
+2020-05-05,bhola225mwccpp,1.27,3,Bhola 225 MW GT,18:45,00:06,fuel_supply,gas problem
+2020-05-06,bhola225mwccpp,1.4,3,Bhola-225 MW CCPP GT-1,16:08,18:51,electrical,no relay
+2020-05-11,bhola225mwccpp,1.4,3,Bhola-225 MW CCPP GT-1,14:05,18:00,grid,voltage fluctuation
+2020-05-20,bhola225mwccpp,1.43,3,Bhola 225 MW CCPP GT,00:28,,grid,"voltage fluctuation during the tripping Barisal(N), Barisal(S) & Patuakhali isolated from the grid"
+2020-06-10,bhola225mwccpp,1.35,3,Bhola-225 MW CCPP GT-1 & ST,14:58,,fuel_supply,tripping of GBC and GT-1 was sync.at 17:31
+2020-07-04,bhola225mwccpp,1.33,3,Bhola 225 MW,13:50,21:49,grid,under voltage and GT-1 was synchronized at 21:49
+2020-09-05,bhola225mwccpp,1.33,3,Bhola 225 MW,09:17,11:06,unstated,
+2020-09-06,bhola225mwccpp,1.33,3,Bhola 225 MW,09:19,11:39,electrical,U/F relay
+2020-09-12,bhola225mwccpp,1.33,3,Bhola 225 MW,14:26,16:52,unstated,
+2020-09-18,bhola225mwccpp,1.27,3,Bhola-225 MW GT,10:44,,electrical,E/F relay
+2020-09-22,bhola225mwccpp,1.4,3,Bhola 225 MW CCPP GT-1,23:38,01:41,other,LVAC problem
+2020-09-28,bhola225mwccpp,1.19,3,Bhola-225 MW GT-1 & ST,18:02,20:13,unstated,
+2020-10-01,bhola225mwccpp,1.24,3,Bhola 225 MW GT-1,14:35,,grid,rapid frequency variation
+2021-04-16,bhola225mwccpp,1.5,4,Bhola-225 MW CCPP,06:45,,electrical,E/F relay
+2021-04-18,bhola225mwccpp,1.4,4,Bhola 225 MW CCPP GT-1,09:46,12:20,fuel_supply,GBC problem
+2021-05-11,bhola225mwccpp,1.33,4,Bhola-225 MW,06:33,,fuel_supply,gas problem
+2021-07-16,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,12:08,,electrical,tripping of surge protection
+2021-07-29,bhola225mwccpp,1.0,4,Bhola Nutan Bidyut & Bhola 225 MW,21:35,,unstated,
+2021-10-27,bhola225mwccpp,1.24,4,Bhola 225MW GT1,23:51,03:27,grid,voltage fluctuation
+2021-11-23,bhola225mwccpp,0.64,4,Bhola CCPP GT-2 & ST,01:20,,electrical,master trip relay
+2021-12-11,bhola225mwccpp,1.4,4,Bhola-225 MW CCPP GT-1,10:24,13:09,unstated,
+2021-12-21,bhola225mwccpp,1.35,4,Bhola-225 MW CCPP GT-2 & ST,11:58,,other,problem with air flow system and GT-2 was sync.at 18:27
+2021-12-28,bhola225mwccpp,0.72,4,Bhola CCPP ST,06:20,,turbine,electro hydraulic oil leakage
+2022-01-18,bhola225mwccpp,1.4,4,Bhola 225 MW CCPP GT-2,15:50,17:29,unstated,
+2022-05-10,bhola225mwccpp,1.33,4,Bhola 225 MW,10:33,13:48,unstated,
+2022-05-23,bhola225mwccpp,0.91,4,Bhola 225 MW was shut down at 07:54 due to air compressor,,,unstated,
+2022-06-10,bhola225mwccpp,1.24,4,Bhola 225 MW GT-2,03:03,06:24,unstated,
+2022-06-12,bhola225mwccpp,1.24,4,Bhola 225 MW GT-2,00:18,00:57,unstated,
+2022-07-03,bhola225mwccpp,1.33,4,Bhola 225 MW,11:14,,unstated,
+2022-07-04,bhola225mwccpp,1.24,4,Bhola-225 MW GT-2,,,unstated,
+2022-07-11,bhola225mwccpp,1.4,4,Bhola-225 MW CCPP GT-1,19:26,01:15,electrical,E/F relay
+2022-07-16,bhola225mwccpp,1.33,4,Bhola 225 MW,17:58,,unstated,
+2022-07-24,bhola225mwccpp,1.33,4,Bhola 225 MW,17:59,02:06,fuel_supply,gas booster problem
+2022-09-24,bhola225mwccpp,0.72,4,Bhola CCPP ST,00:58,04:22,unstated,
+2022-10-02,bhola225mwccpp,1.33,4,Bhola 225 MW,07:50,,unstated,
+2022-10-22,bhola225mwccpp,1.21,4,Bhola-225 MW GT & ST,07:44,11:05,fuel_supply,gas shortage and GT was synchronized at 11:05
+2022-10-24,bhola225mwccpp,0.69,4,Bhola CCPP GT-2,08:58,,fuel_supply,GBC trip
+2022-10-27,bhola225mwccpp,1.33,4,Bhola 225 MW,22:04,00:18,turbine,"compressor gas pressure low and GT2 & ST were synchronized at 00:18,02:04(28-10-2022) respectively"
+2022-10-29,bhola225mwccpp,0.64,4,Bhola CCPP(GT-2 & ST),,,fuel_supply,GBC trip
+2022-11-06,bhola225mwccpp,1.4,4,Bhola 225 MW CCPP STG,05:31,,other,oil pump trip
+2022-12-13,bhola225mwccpp,0.72,4,Bhola CCPP ST,06:20,,control,DCS monitor hang
+2023-01-08,bhola225mwccpp,0.72,4,Bhola CCPP ST,13:33,,unstated,
+2023-01-09,bhola225mwccpp,0.72,4,- Bhola CCPP ST,17:05,,unstated,
+2023-02-07,bhola225mwccpp,0.78,4,Bhola CCPP,02:11,,unstated,
+2023-02-07,bhola225mwccpp,0.69,4,Bhola CCPP GT1,08:03,,unstated,
+2023-02-09,bhola225mwccpp,0.78,4,Bhola CCPP,19:20,,unstated,
+2023-02-14,bhola225mwccpp,0.69,4,Bhola CCPP GT1,10:05,,unstated,
+2023-05-11,bhola225mwccpp,0.69,4,Bhola CCPP GT1,13:01,,unstated,
+2023-05-18,bhola225mwccpp,0.72,4,- Bhola CCPP ST,9:02,,unstated,
+2023-06-08,bhola225mwccpp,0.69,4,Bhola CCPP GT2,09:12,,unstated,
+2023-07-03,bhola225mwccpp,0.69,4,- Bhola CCPP GT2,13:16,,other,gas temperature high
+2023-07-04,bhola225mwccpp,1.15,4,Bhola CCPP 225 MW GT-1,01:50,,control,a control system problem
+2023-07-21,bhola225mwccpp,0.62,4,Bhola CCPP GT1 & GT2,12:34,,unstated,
+2023-07-31,bhola225mwccpp,0.69,4,Bhola CCPP GT2,16:20,,unstated,
+2023-09-25,bhola225mwccpp,1.4,4,- Bhola 225 MW CCPP GT-2,11:40,,unstated,
+2023-10-11,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,20:05,,fuel_supply,GBC trip 225MW generation interruption
+2023-11-26,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,14:14,,unstated,
+2023-11-29,bhola225mwccpp,1.5,4,- Bhola 225 MW CCPP,14:38,,unstated,
+2023-11-29,bhola225mwccpp,1.5,4,- Bhola 225 MW CCPP,14:41,,turbine,air compressor trip
+2023-12-01,bhola225mwccpp,0.69,4,Bhola CCPP GT1,23:15,,turbine,lube oil fan problem
+2023-12-03,bhola225mwccpp,1.5,4,- Bhola 225 MW CCPP,17:04,,other,(GT-1)
+2024-01-15,bhola225mwccpp,1.24,4,Bhola 225 MW GT-2,10:23,,unstated,
+2024-01-19,bhola225mwccpp,0.69,4,Bhola CCPP GT1,14:45,,control,GCB valve problem
+2024-02-21,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,16:37,,unstated,
+2024-04-17,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,17:52,,other,D.Sync
+2024-05-13,bhola225mwccpp,1.5,4,Bhola 225 MW CCPP,09:08,,unstated,
+2024-05-25,bhola225mwccpp,0.78,4,- Bhola CCPP,20:05,,grid,voltage fluctuation
+2025-03-28,bhola225mwccpp,1.4,3,Bhola 225 MW CCPP GT-1,22:34,,unstated,
+2025-07-15,bhola225mwccpp,1.5,3,Bhola 225 MW CCPP,23:26,,fuel_supply,gas booster trip
+2025-12-17,bhola225mwccpp,1.5,3,Bhola 225MW CCPP,15:28,,unstated,
+2020-02-09,bhola95mwppaggreko,1.17,3,Bhola 95 MW,12:58,,grid,under voltage
+2020-02-23,bhola95mwppaggreko,1.2,3,Bhola 95 MW(Agreeko) partially,14:01,,unstated,
+2020-10-04,bhola95mwppaggreko,1.03,3,Bhola Agreeko 95 MW,03:35,04:28,fuel_supply,gas shortage
+2021-01-29,bhola95mwppaggreko,1.61,1,Bhola Aggreko 95 MW,16:20,,grid,over frequency
+2021-05-10,bhola95mwppaggreko,1.17,4,Bhola 95 MW,02:08,02:36,unstated,
+2021-07-30,bholanutanbiddutbd,1.06,4,Bhola new Biddut-220 MW CCPP ST,11:59,14:15,electrical,E/F relay
+2021-08-31,bholanutanbiddutbd,0.76,4,Bhola Natun Biddut STG,20:00,,unstated,
+2021-10-27,bholanutanbiddutbd,1.0,4,Bhola NBBL 220 MW,23:51,03:14,grid,voltage fluctuation
+2021-12-30,bholanutanbiddutbd,0.75,4,Bhola Nutun Biddut CCPP ST,13:55,15:47,boiler,problem with feed water control valve
+2022-02-01,bholanutanbiddutbd,0.81,4,Bhola Nutan Bidyut GT-1,04:25,,fuel_supply,DP high and GT-2 & ST tripped at 07:09(02-02-2022)
+2022-02-22,bholanutanbiddutbd,0.7,4,Bhola Natun Bidyut GT-2,11:51,,unstated,
+2022-04-11,bholanutanbiddutbd,1.12,4,Bhola Natun Biddut-220 MW CCPP ST,10:56,16:26,electrical,E/F relay
+2022-05-01,bholanutanbiddutbd,0.83,4,Bhola Nutun Biddut ST,03:57,05:31,other,bad weather
+2022-05-09,bholanutanbiddutbd,0.79,4,Bhola Nutun Biddyut GT-2,07:19,,unstated,
+2022-08-09,bholanutanbiddutbd,1.17,4,Bhola Nutun Biddut-220 MW CCPP ST,08:58,14:43,electrical,E/F relay
+2022-08-14,bholanutanbiddutbd,1.17,4,Bhola Nutun Biddut-220 MW CCPP ST,17:00,,electrical,problem with AVR
+2022-10-24,bholanutanbiddutbd,0.76,4,Bhola Notun Biddut STG,09:40,14:29,unstated,
+2022-12-27,bholanutanbiddutbd,0.78,4,Bhola Natun Biddut BD LTD ST,10:18,,unstated,
+2023-01-01,bholanutanbiddutbd,0.57,4,- Bhola GT and Bhola Notun Bidyut PP,15:07,,unstated,
+2023-01-07,bholanutanbiddutbd,0.67,4,Bhola Natunbidyut PP STG,14:57,,unstated,
+2023-02-08,bholanutanbiddutbd,0.71,4,Bhola Natun Biddut BD LTD (GAS) GT1,14:35,,unstated,
+2023-03-07,bholanutanbiddutbd,0.71,4,Bhola Natun Biddut BD LTD (GAS) GT2,04:58,,unstated,
+2023-06-09,bholanutanbiddutbd,0.78,4,Bhola Natun Biddut BD LTD ST,10:10,,turbine,turbine bearing temperature high
+2023-06-15,bholanutanbiddutbd,0.78,4,Bhola Natun Biddut BD LTD ST,08:10,,turbine,bearing temperature high
+2023-09-15,bholanutanbiddutbd,0.75,4,- Bhola Nutan Bidyut CCPP ST,15:43,,unstated,
+2023-09-15,bholanutanbiddutbd,0.71,4,- Bhola Nutan Bidyut CCPP GT12,15:56,,unstated,
+2023-09-15,bholanutanbiddutbd,0.71,4,- Bhola Nutan Bidyut CCPP GT11,16:18,,unstated,
+2023-09-19,bholanutanbiddutbd,0.89,4,Bhola Nutan Biddut ST,18:28,,other,HRG hot oil level high
+2023-09-19,bholanutanbiddutbd,0.86,4,Bhola Nutan Biddut GT-1,18:36,,other,diverter damper fault
+2023-10-09,bholanutanbiddutbd,1.17,4,Bhola Natun Biddyut 220 MW ST,05:40,,unstated,
+2023-10-09,bholanutanbiddutbd,0.8,4,Bhola CCPP 225 MW and Bhola Natun Biddyut 220 MW were forced shutdown due to BAPEX gas process plant,19:18,,unstated,
+2023-10-11,bholanutanbiddutbd,1.12,4,Bhola Naton Biddyut 220 MW GT-2 and ST,20:10,,grid,voltage fluctuation 157MW generation interruption
+2024-05-16,bholanutanbiddutbd,0.86,4,Bhola Nutan Biddyut ST,14:17,,unstated,
+2024-05-25,bholanutanbiddutbd,0.68,4,- Bhola Nutan Bidyut CCPP GT-12 & ST,20:06,,grid,voltage fluctuation
+2025-02-03,bholanutanbiddutbd,0.86,3,Bhola Nutan Biddut BD LTD GT-2,12:27,,other,High exhust Temperature
+2025-02-03,bholanutanbiddutbd,0.76,3,Bhola Nutan Biddyut CCPP GT-2,12:41,,unstated,
+2025-03-08,bholanutanbiddutbd,0.74,3,Bhola Natun Biddut BD LTD GT-12,10:22,,unstated,
+2025-06-14,bholanutanbiddutbd,0.86,3,Bhola Nutan Biddut BD LTD GT-2,16:44,,other,None
+2025-12-11,bholanutanbiddutbd,0.88,3,Bhola Nutan Biddut BD LTD ST,18:04,,other,"STG Triped, Investigation In Progress, GT-1 and GT-2 Operating in open cycle, 40MW each"
+2026-02-26,bholanutanbiddutbd,0.86,3,Bhola Nutan Biddut BD LTD GT-1,15:16,,other,None
+2026-04-06,bholanutanbiddutbd,0.86,3,Bhola Nutan Biddut BD LTD GT-1,19:33,,turbine,GT-11 Tripped on Turbine Protection at 19:33 hrs
+2026-06-10,bholanutanbiddutbd,0.88,3,Bhola Nutan Biddut BD LTD ST,10:47,,other,STG tripped at 10:47hrs
+2019-11-23,bibianaii341mwccppsummit,0.72,2,Bibiyana #3 CCPP ST,11:36,14:14,unstated,
+2020-01-21,bibianaii341mwccppsummit,0.72,2,Bibiyana #3 CCPP ST,04:50,,cooling,drain line problem at cooling water line
+2020-10-24,bibianaii341mwccppsummit,0.67,1,Summit Bibiyana-2 CCPP ST,13:55,17:29,boiler,drum level abnormal
+2020-12-05,bibianaii341mwccppsummit,1.16,1,Summit Bibiyana-2 341 MW P/P,07:07,,electrical,unit transformer of South Bibiyana-2 GT got tripped showing line overload
+2021-06-10,bibianaii341mwccppsummit,1.17,1,Summit Bibiyana-2 341 MW,11:40,13:28,other,"Gt exhausts temperature high and GT & ST were synchronized at 13:28, 16:18 respectively"
+2021-07-31,bibianaii341mwccppsummit,0.67,1,Summit Bibiyana CCPP ST,00:52,,turbine,turbine vibration high
+2021-07-31,bibianaii341mwccppsummit,0.67,1,Summit Bibiyana CCPP GT,01:17,03:56,turbine,turbine vibration high
+2022-06-10,bibianaii341mwccppsummit,0.69,1,Summit Bibiyana CCPP,08:22,,control,gas control valve problem and GT was synchronized at
+2022-07-24,bibianaii341mwccppsummit,1.0,1,Bibiyana Summit unit-2,20:01,22:31,unstated,
+2023-01-03,bibianaii341mwccppsummit,0.85,1,- Summit Bibiana-2 ST,23:25,,unstated,
+2024-02-15,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),06:44,,unstated,
+2024-03-31,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),00:52,,unstated,
+2024-04-27,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),12:37,,unstated,
+2024-06-12,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),06:13,,unstated,
+2024-06-12,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),06:20,,unstated,
+2024-07-07,bibianaii341mwccppsummit,1.9,1,Bibiana-II 341 MW CCPP (Summit),14:36,,unstated,
+2024-07-10,bibianaii341mwccppsummit,1.9,1,- Bibiana-II 341 MW CCPP (Summit),11:54,,unstated,
+2025-01-24,bibianaii341mwccppsummit,0.69,1,Summit Bibiyana-2 ST,10:00,,unstated,
+2025-07-31,bibianaii341mwccppsummit,0.92,1,Summit Bibiana-2 CCPP,02:22,,unstated,
+2025-08-25,bibianaii341mwccppsummit,1.58,1,Summit Bibiana-2 341MW CCPP,02:56,,unstated,
+2025-10-17,bibianaii341mwccppsummit,1.52,1,Summit Bibiana-2 341MW ST,10:43,,unstated,
+2025-11-21,bibianaii341mwccppsummit,0.68,1,Summit Bibiyana-2 CCPP,10:40,,unstated,
+2020-10-09,bibiyanaiii400mwccpp,1.39,1,Bibiyana-III 400 MW,14:35,17:46,fuel_supply,gas booster problem and GT was synchronized at 17:46
+2022-07-03,bibiyanaiii400mwccpp,0.65,1,Bibiyana-III STG,15:39,23:39,fuel_supply,low gas pressure
+2023-02-14,bibiyanaiii400mwccpp,1.34,1,Bibiyana-III 400MW ST,03:51,,boiler,Boiler tripping
+2023-06-25,bibiyanaiii400mwccpp,1.34,1,Bibiyana-III 400MW ST,23:40,,unstated,
+2023-08-31,bibiyanaiii400mwccpp,1.34,1,- Bibiyana-III 400MW ST,11:35,,unstated,
+2023-10-05,bibiyanaiii400mwccpp,1.34,1,- Bibiyana-III 400MW GT,0:46,,unstated,
+2023-10-05,bibiyanaiii400mwccpp,1.34,1,- Bibiyana-III 400MW ST,1:05,,unstated,
+2023-12-15,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,11:25,,unstated,
+2023-12-18,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,09:25,,other,GT Desync
+2024-02-24,bibiyanaiii400mwccpp,1.39,1,Bibiyana-III 400 MW,02:04,,turbine,tripping of gas booster compressor
+2024-03-30,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,06:54,,unstated,
+2024-03-30,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,07:08,,unstated,
+2024-05-27,bibiyanaiii400mwccpp,1.34,1,- Bibiyana-III 400 MW GT,10:50,,unstated,
+2024-06-01,bibiyanaiii400mwccpp,1.5,1,- Bibiyana-III 400 MW CCPP,14:39,,unstated,
+2024-06-13,bibiyanaiii400mwccpp,1.34,1,Bibiyana-III 400 MW ST,11:25,,unstated,
+2024-07-10,bibiyanaiii400mwccpp,1.5,1,- Bibiyana-III 400 MW CCPP,11:25,,unstated,
+2024-07-10,bibiyanaiii400mwccpp,1.5,1,- Bibiyana-III 400 MW CCPP,11:26,,unstated,
+2025-03-16,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,10:50,,unstated,
+2025-03-16,bibiyanaiii400mwccpp,1.39,1,Bibiyana-III 400 MW,10:58,,cooling,high vibration at the auxiliary cooling water pump
+2025-10-14,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,03:25,,unstated,
+2025-10-14,bibiyanaiii400mwccpp,1.45,1,Bibiyana-III 400 MW CCPP ST,03:26,,unstated,
+2025-11-21,bibiyanaiii400mwccpp,0.92,1,"Bibiyana-III 400 MW CCPP GT was out of sync, at 10:38 hrs and resynchronized at 10:48 hrs. Also, ST",10:38,10:48,unstated,
+2025-12-01,bibiyanaiii400mwccpp,1.28,1,Bibiyana-III 400 MW CCPP GT and ST both,00:12,,fuel_supply,GBC-1 trip
+2025-12-01,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,00:13,,unstated,
+2026-04-08,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,17:23,,unstated,
+2026-04-17,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,14:34,,unstated,
+2026-04-24,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,06:18,,unstated,
+2026-07-02,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,15:31,,unstated,
+2026-09-23,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,12:05,,unstated,
+2026-09-26,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,12:38,,unstated,
+2026-09-26,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,12:41,,unstated,
+2026-10-27,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,12:42,,unstated,
+2026-10-27,bibiyanaiii400mwccpp,1.5,1,Bibiyana-III 400 MW CCPP,17:16,,unstated,
+2020-09-23,bibiyanasouth400mw,1.9,3,Bibiyana(South)-400 MW,15:29,,fuel_supply,problem with GBC
+2020-11-23,bibiyanasouth400mw,0.65,3,Bibiyana unit-3,06:55,,electrical,under frequency relay
+2020-12-21,bibiyanasouth400mw,1.9,3,Bibiyana south-400 MW,14:28,,other,gen
+2020-12-27,bibiyanasouth400mw,1.02,3,Bibiyana(S) PP,16:01,,electrical,generator CB protection trip
+2021-01-10,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,02:15,,fuel_supply,filter separator choke
+2021-01-22,bibiyanasouth400mw,1.14,3,Bibiyana(South) CCPP,18:35,22:42,fuel_supply,GBC problem and GT was synchronized at 22:42
+2021-02-25,bibiyanasouth400mw,0.65,3,Bibiyana unit-3,05:05,07:49,unstated,
+2021-03-27,bibiyanasouth400mw,1.9,3,Bibiyana south 400 MW,07:45,,fuel_supply,GBC problem
+2021-05-20,bibiyanasouth400mw,0.98,3,Bibiyana(s) CCPP,11:38,13:30,turbine,tripping of gas booster compressor
+2021-05-22,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,21:27,22:16,fuel_supply,"fuel pressure low and GT & ST were synchronized at 22:16,23:56 respectively"
+2021-06-26,bibiyanasouth400mw,1.62,3,Bibiyana(S) 400 MW CCPP STG,10:27,14:34,other,diverter damper tripping
+2021-08-10,bibiyanasouth400mw,1.19,3,Bibiyana south GT,15:47,16:34,control,control system fault
+2021-08-16,bibiyanasouth400mw,1.68,3,Bibiyana(S)-400 MW CCPP,17:16,17:58,fuel_supply,GBC trip and GT & ST were synchronized at 17:58 & 20:22 respectively
+2021-09-04,bibiyanasouth400mw,0.6,3,Bibiyana #03 ST,17:03,07:43,unstated,
+2021-10-21,bibiyanasouth400mw,0.6,3,Bibiyana #03 ST,10:31,12:00,unstated,
+2022-04-03,bibiyanasouth400mw,1.14,3,Bibiyana South CCPP,10:16,11:54,other,cooling system problem and GT was synchronized at 11:54 & ST at 14:04
+2022-05-10,bibiyanasouth400mw,1.14,3,Bibiyana(south) unit,02:27,03:35,fuel_supply,GBC problem
+2022-06-17,bibiyanasouth400mw,1.19,3,Bibiyana South ST,02:54,07:07,unstated,
+2022-07-11,bibiyanasouth400mw,1.35,3,Bibiyana(S)-400 MW CCPP GT was synchronized at 16:07 and,16:17,16:07,electrical,E/F relay and again synchronized at 20:22
+2022-08-27,bibiyanasouth400mw,0.56,3,Bibiyana #03 GT & ST,20:22,22:48,fuel_supply,GBC problem
+2022-11-24,bibiyanasouth400mw,1.19,3,Bibiyana South ST,06:00,,unstated,
+2023-04-28,bibiyanasouth400mw,1.85,3,- Bibiyana South 400 MW ST,8:22,,turbine,high vibration in ST bearing
+2023-05-14,bibiyanasouth400mw,1.19,3,Bibiyana South ST,13:00,,unstated,
+2023-05-14,bibiyanasouth400mw,1.19,3,Bibiyana South GT,13:43,,unstated,
+2023-05-24,bibiyanasouth400mw,1.85,3,- Bibiyana South 400 MW GT,10:30,,unstated,
+2023-06-14,bibiyanasouth400mw,1.85,3,Bibiyana South 400 MW ST,20:57,,unstated,
+2023-07-01,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,14:00,,unstated,
+2023-09-04,bibiyanasouth400mw,1.85,3,Bibiyana South 400 MW GT,05:46,,fuel_supply,GBC trip 250MW generation interrup
+2023-09-10,bibiyanasouth400mw,1.1,3,Bibiyana South CCPP ST,21:19,,unstated,
+2023-09-27,bibiyanasouth400mw,1.67,3,Bibiyana South 400 MW CCPP GT and ST,18:37,,fuel_supply,GBC inlet pressure high
+2023-10-01,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,5:20,,other,6.6kv switchgear fail
+2023-10-05,bibiyanasouth400mw,1.9,3,- Bibiyana south 400 MW,0:47,,grid,over-frequency
+2023-10-19,bibiyanasouth400mw,1.85,3,Bibiyana South 400 MW GT,10:42,,electrical,generator protection trip
+2023-11-01,bibiyanasouth400mw,1.19,3,Bibiyana South GT,11:43,,unstated,
+2023-11-09,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,01:42,,unstated,
+2023-11-09,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,07:15,,unstated,
+2023-11-10,bibiyanasouth400mw,1.85,3,Bibiyana South 400 MW GT,11:48,,unstated,
+2024-03-07,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,12:25,,unstated,
+2024-03-13,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,21:37,,unstated,
+2024-03-13,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,21:38,,unstated,
+2024-03-14,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,02:57,,unstated,
+2024-03-15,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,07:49,,unstated,
+2024-03-18,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,16:46,,unstated,
+2024-04-01,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,12:53,,unstated,
+2024-06-13,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,14:30,,unstated,
+2025-01-30,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,23:08,,unstated,
+2025-01-30,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,23:18,,unstated,
+2025-02-05,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,19:03,,other,"GT,ST"
+2025-02-05,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,19:05,,other,plant
+2025-04-04,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,23:05,,unstated,
+2025-04-26,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,13:23,,unstated,
+2025-04-26,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,13:25,,unstated,
+2025-05-09,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,15:24,,unstated,
+2025-05-18,bibiyanasouth400mw,1.8,3,Bibiyana South 400MW CCPP,11:45,,unstated,
+2025-05-18,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,11:46,,unstated,
+2025-05-18,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,19:43,,unstated,
+2025-05-27,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,16:54,,unstated,
+2026-08-13,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,00:05,,unstated,
+2026-08-13,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,15:28,,unstated,
+2026-08-14,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,11:58,,unstated,
+2026-08-17,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,15:19,,unstated,
+2026-08-19,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,06:03,,unstated,
+2026-08-20,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,02:51,,unstated,
+2026-10-19,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,00:35,,unstated,
+2026-10-27,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,07:30,,unstated,
+2026-10-27,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,23:29,,unstated,
+2019-11-01,chandpur150mwccpp,0.94,2,Chandpur 150 CCPP,09:22,11:22,fuel_supply,GBC problem
+2019-11-02,chandpur150mwccpp,1.37,2,Chandpur 150 MW,04:09,,unstated,
+2019-11-06,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,06:25,,fuel_supply,problem eith GBC
+2019-11-23,chandpur150mwccpp,1.44,2,Chandpur-150 MW CCPP ST,09:16,,electrical,E/F relay
+2020-01-10,chandpur150mwccpp,0.59,2,Chandpur GT,23:15,,fuel_supply,GBC problem
+2020-01-11,chandpur150mwccpp,1.44,2,Chandpur 150 MW CCPP GT,04:18,,fuel_supply,GBC problem
+2020-01-14,chandpur150mwccpp,0.77,2,Chandpur CCPP GT,17:07,19:06,fuel_supply,GBC trip and synchronized at 19:06
+2020-01-25,chandpur150mwccpp,1.37,2,Chandpur 150 MW,08:32,11:43,fuel_supply,gas booster tripping
+2020-01-26,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,04:25,,fuel_supply,GBC problem
+2020-01-27,chandpur150mwccpp,1.0,2,Chandpur-163 MW CCPP GT was synchronized at 13:26 and,19:40,13:26,fuel_supply,problem with GBC
+2020-03-29,chandpur150mwccpp,1.0,2,Chandpur 150 MW GT was synchronized at 20:50 and,23:31,20:50,fuel_supply,GBC trip
+2020-04-22,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,11:30,14:50,control,communication fail at the mean time of 0.4 kV section change over
+2020-04-25,chandpur150mwccpp,1.17,2,Chandpur CCPP GT 163 MW,09:32,,electrical,relay problem
+2020-05-27,chandpur150mwccpp,0.77,2,Chandpur CCPP GT,22:39,11:26,turbine,GBC vibration high
+2020-08-01,chandpur150mwccpp,1.5,2,Chandpur-150 MW CCPP,11:32,15:46,electrical,E/F relay and GT was synchronized at 15:46
+2020-08-04,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,09:17,11:05,electrical,Chandpur S/S-Chandpur 150 MW PP breaker trip
+2020-09-02,chandpur150mwccpp,1.37,2,Chandpur 150 MW,19:37,,fuel_supply,GBC trip
+2020-10-10,chandpur150mwccpp,1.31,2,Chandpur 150 MW GT,19:53,,unstated,
+2020-11-08,chandpur150mwccpp,1.37,2,Chandpur 150 MW,20:58,,grid,voltage fluctuation
+2020-12-10,chandpur150mwccpp,1.44,2,Chandpur 150 MW CCPP GT,15:54,,other,exhaust fan flapper trouble
+2021-01-14,chandpur150mwccpp,0.83,2,Chandpur CCPP,01:40,,electrical,air filter differential pressure high
+2021-03-03,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,01:45,,fuel_supply,problem with GBC
+2021-03-07,chandpur150mwccpp,0.77,2,Chandpur CCPP ST,18:32,,unstated,
+2021-03-08,chandpur150mwccpp,1.44,2,Chandpur 150 MW CCPP GT,07:57,10:11,unstated,
+2021-04-30,chandpur150mwccpp,1.2,2,Chandpur 150 MW GT and ST,07:27,,other,Gen
+2021-05-09,chandpur150mwccpp,0.75,2,Chandpur CCPP STG,06:48,,other,ECH LEO pump problem
+2021-05-19,chandpur150mwccpp,0.83,2,Chandpur CCPP,12:18,15:44,unstated,
+2021-06-15,chandpur150mwccpp,1.31,2,Chandpur-150 MW ST,00:44,,electrical,E/F relay
+2021-07-18,chandpur150mwccpp,1.13,2,Chandpur 150 MW CCPP and Chandpur DESH 200 MW,19:41,,grid,voltage fluctuation
+2021-08-10,chandpur150mwccpp,0.83,2,Chandpur CCPP,21:57,,fuel_supply,tripping of GBC
+2021-10-12,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,18:11,,unstated,
+2021-10-24,chandpur150mwccpp,1.38,2,Chandpur 163 MW CCPP,14:40,,control,problem with gas control valve
+2021-11-22,chandpur150mwccpp,1.44,2,Chandpur-150 MW CCPP ST,10:17,,electrical,E/F relay
+2022-02-25,chandpur150mwccpp,1.23,3,Chandpur-163 MW,18:51,,turbine,exhaust temperature spread alarm
+2022-03-10,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,16:09,,fuel_supply,GBC problem
+2022-03-15,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,17:10,20:34,fuel_supply,DP high
+2022-03-30,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,,,unstated,
+2022-04-19,chandpur150mwccpp,0.83,3,Chandpur CCPP,07:37,,other,bad weather
+2022-04-20,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,07:46,,fuel_supply,exhaust gas line problem
+2022-04-23,chandpur150mwccpp,1.37,3,Chandpur 150 MW,20:44,,unstated,
+2022-05-06,chandpur150mwccpp,1.37,3,Chandpur-150 MW,10:55,14:14,electrical,E/F relay and GT & ST were synchronized at 14:14 & 19:43 respectively
+2022-05-15,chandpur150mwccpp,0.83,3,Chandpur CCPP,11:51,17:54,control,gas control valve servo fault
+2022-06-07,chandpur150mwccpp,1.37,3,Chandpur 150 MW,01:35,,other,servo motor fault
+2022-06-27,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,18:05,22:15,unstated,
+2022-08-25,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,18:36,,turbine,turbine compartment temperature high
+2022-08-27,chandpur150mwccpp,0.73,3,Chandpur CCPP GT & ST,15:44,17:16,fuel_supply,GBC problem
+2022-08-30,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,14:51,21:18,fuel_supply,GBC tripped
+2022-09-05,chandpur150mwccpp,0.77,3,Chandpur CCPP GT,,,fuel_supply,GBC trip
+2022-10-22,chandpur150mwccpp,1.44,3,Chandpur-150 MW CCPP GT,22:56,23:58,turbine,axial diffial high
+2022-11-23,chandpur150mwccpp,1.44,3,Chandpur 150MW CCPP ST,23:23,,unstated,
+2024-03-11,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,09:51,,unstated,
+2024-03-13,chandpur150mwccpp,1.5,3,- Chandpur 150 MW CCPP,1:17,,unstated,
+2024-03-16,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,02:35,,unstated,
+2024-03-25,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,02:36,,unstated,
+2024-04-01,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,09:45,,unstated,
+2024-04-01,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,11:04,,unstated,
+2024-04-01,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,11:05,,unstated,
+2025-08-03,chandpur150mwccpp,0.77,3,Chandpur CCPP ST,19:59,,unstated,
+2021-03-25,chandpur200mwdeshenergy,1.15,2,Chandpur Desh 200 MW,21:01,21:24,electrical,O/V
+2022-07-04,chapainawabganj100mwpeakingpp,1.32,1,Chapainawabganj-100 MW,18:25,20:06,electrical,E/F relay
+2019-12-08,chattogram108mwppecpv,1.25,3,Chattogram ECPV-108 MW,18:04,,unstated,
+2024-05-06,chattogramtpp1,1.0,3,Chattogram TPP-1,15:10,,unstated,
+2024-05-06,chattogramtpp1,1.0,3,Chattogram TPP-1,15:12,,unstated,
+2023-12-22,fenchuganjccppphase1,0.95,4,Fenchugonj CCPP Phase-1,11:10,,other,manual update
+2024-05-04,fenchuganjccppphase1,0.95,4,Fenchugonj CCPP Phase-1,19:42,,unstated,
+2024-06-03,fenchuganjccppphase1,0.95,4,Fenchugonj CCPP Phase-1,11:25,,unstated,
+2025-11-13,fenchuganjccppphase1,0.61,2,Fenchuganj GT-3,06:18,,unstated,
+2020-01-28,fenchuganjccppphase2,0.63,4,Fenchuganj unit-2,01:08,,fuel_supply,booster trip
+2022-07-18,fenchuganjccppphase2,0.6,4,Fenchuganj STG with GT-2,,,unstated,
+2022-12-27,fenchuganjccppphase2,0.57,4,- Fenchugonj Unit-2,4:26,,unstated,
+2023-01-16,fenchuganjccppphase2,0.86,4,Fenchuganj CCPP-2,12:40,,unstated,
+2024-05-10,fenchuganjccppphase2,0.95,4,Fenchugonj CCPP Phase-2,10:57,,unstated,
+2024-05-10,fenchuganjccppphase2,0.95,4,Fenchugonj CCPP Phase-2,19:03,,unstated,
+2024-05-11,fenchuganjccppphase2,0.95,4,- Fenchugonj CCPP Phase-2,2:40,,unstated,
+2024-06-05,fenchuganjccppphase2,0.95,4,- Fenchugonj CCPP Phase-2,0:44,,unstated,
+2024-06-21,fenchuganjccppphase2,0.95,4,- Fenchugonj CCPP Phase-2,17:20,,unstated,
+2023-11-21,feni11mwppdoreen,1.9,2,- Feni 11 MW PP (Doreen),17:55,,unstated,
+2023-12-09,feni11mwppdoreen,1.9,2,- Feni 11 MW PP (Doreen),15:20,,unstated,
+2023-12-16,feni11mwppdoreen,1.9,2,Feni 11 MW PP (Doreen),17:36,,unstated,
+2023-12-21,feni11mwppdoreen,1.9,2,Feni 11 MW PP (Doreen),14:15,,unstated,
+2023-12-22,feni11mwppdoreen,1.9,2,Feni 11 MW PP (Doreen),07:17,,unstated,
+2023-12-24,feni11mwppdoreen,1.9,2,- Feni 11 MW PP (Doreen),15:32,,unstated,
+2023-12-24,feni11mwppdoreen,1.9,2,- Feni 11 MW PP (Doreen),17:29,,unstated,
+2023-12-25,feni11mwppdoreen,1.9,2,Feni 11 MW PP (Doreen),09:08,,unstated,
+2023-11-12,feni22mwppdoreen,1.9,2,Feni 22MW PP (Doreen),13:35,,other,33 kv failure
+2023-11-19,feni22mwppdoreen,1.9,2,- Feni 22MW PP (Doreen),13:37,,unstated,
+2023-11-21,feni22mwppdoreen,1.9,2,- Feni 22MW PP (Doreen),9:12,,unstated,
+2023-12-16,feni22mwppdoreen,1.9,2,Feni 22MW PP (Doreen),17:35,,other,33kv failure
+2023-12-21,feni22mwppdoreen,1.9,2,Feni 22MW PP (Doreen),15:15,,unstated,
+2023-11-22,gazipur52mwpp,1.5,2,Gazipur 52 MW PP,08:14,,unstated,
+2023-12-03,gazipur52mwpp,1.5,2,- Gazipur 52 MW PP,13:04,,unstated,
+2023-12-18,gazipur52mwpp,1.5,2,Gazipur 52 MW PP,09:26,,unstated,
+2023-12-19,gazipur52mwpp,1.5,2,- Gazipur 52 MW PP,15:40,,unstated,
+2023-12-28,gazipur52mwpp,1.5,2,Gazipur 52 MW PP,13:19,,unstated,
+2020-02-12,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,23:27,02:12,fuel_supply,problem with GBC and GT was synchronized at 02:12(13/02/2020) and ST was synchronized at 04:50
+2020-09-25,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,00:56,,electrical,generator protection trip
+2021-01-06,ghorasal365mwccppunit7,0.67,7,Ghorasal #4 CCPP ST & GT,22:15,,turbine,high vibration & problem with excitation
+2021-01-14,ghorasal365mwccppunit7,0.67,7,Ghorasal CCPP #04,14:47,,other,drain leakage
+2021-03-13,ghorasal365mwccppunit7,0.68,1,Ghorashal unit-7 ST,16:53,18:56,other,bad weather
+2021-04-15,ghorasal365mwccppunit7,0.7,1,Ghorasal unit-7 ST,07:48,,turbine,tripped of air compressor
+2021-04-15,ghorasal365mwccppunit7,0.7,1,Ghorasal unit-7 GT,08:07,,turbine,tripped of air compressor
+2021-08-04,ghorasal365mwccppunit7,0.62,1,Ghorashal unit-7 CCPP GT,15:11,,fuel_supply,gas shortage
+2021-09-02,ghorasal365mwccppunit7,0.7,1,Ghorasal unit-7 ST,03:07,,unstated,
+2021-10-18,ghorasal365mwccppunit7,0.74,1,Ghorasal unit-7,16:52,,turbine,problem with air compressor
+2021-12-13,ghorasal365mwccppunit7,0.65,1,Ghorashal unit-7 ST & GT,05:59,,other,Temp high
+2021-12-19,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,17:30,,other,230 kV line problem
+2022-05-09,ghorasal365mwccppunit7,0.74,1,Ghorasal unit-7,17:31,,grid,DC voltage problem
+2022-06-17,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,11:54,17:07,fuel_supply,GBC problem and GT was synchronized at 17:07 & ST at 19:02
+2022-06-18,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,04:49,,electrical,GT Generator protection trip
+2022-08-15,ghorasal365mwccppunit7,0.72,1,Ghorashal unit-7,11:48,19:43,unstated,
+2022-11-08,ghorasal365mwccppunit7,0.72,1,Ghorashal Unit-7,12:54,,turbine,air compressor trip
+2022-12-10,ghorasal365mwccppunit7,0.72,1,Ghorashal Unit-7,18:55,,unstated,
+2023-01-08,ghorasal365mwccppunit7,0.74,1,- Ghorasal Unit-7,5:04,,unstated,
+2025-03-17,ghorasal365mwccppunit7,0.81,1,Ghorasal Unit-7 365 MW was forced shutdown at 10:48 hrs due to air compressor,10:48,,unstated,
+2026-03-21,ghorasal365mwccppunit7,0.68,1,Ghorashal unit-7 ST,23:44,,unstated,
+2019-12-12,ghorasalrepoweredccppunit3,0.67,1,Ghorasal unit-3,16:38,19:33,unstated,
+2019-12-19,ghorasalrepoweredccppunit3,0.65,1,Ghorashal Unit-3,22:02,,control,problem with blow off valve
+2019-12-28,ghorasalrepoweredccppunit4,0.63,1,Ghorasal unit-4 GT,17:25,,control,problem with DCS
+2019-12-29,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,14:10,17:04,unstated,
+2020-02-01,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,11:51,,fuel_supply,gas valve problem
+2020-02-04,ghorasalrepoweredccppunit4,0.62,1,Ghorashal unit-4 GT,05:43,,fuel_supply,gas shortage
+2020-03-29,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,15:13,18:03,fuel_supply,gas buster trip
+2020-08-11,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,03:25,,unstated,
+2020-09-05,ghorasalrepoweredccppunit4,0.65,1,Ghorashal Unit-4,09:20,09:35,unstated,
+2020-11-07,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,10:35,11:20,unstated,
+2021-01-04,ghorasalrepoweredccppunit4,0.65,1,Ghorashal Unit-4,13:34,,unstated,
+2021-12-31,ghorasalrepoweredccppunit4,0.63,1,Ghorasal unit-4 GT,13:14,,fuel_supply,tripping of GBC
+2022-03-23,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,15:12,17:01,electrical,exciter tripping
+2022-12-30,ghorasalrepoweredccppunit4,0.65,1,Ghorashal unit-4,10:12,,unstated,
+2024-02-04,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,16:22,,unstated,
+2025-02-09,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,15:24,,unstated,
+2025-02-13,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,05:33,,unstated,
+2025-02-13,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,09:35,,fuel_supply,GBC Trip
+2025-03-29,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,12:58,,other,trip
+2025-03-29,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,15:28,,unstated,
+2026-05-31,ghorasalrepoweredccppunit4,1.0,1,Ghorasal Repowered CCPP Unit-4,19:27,,unstated,
+2019-11-07,ghorasaltppunit12,0.87,7,Ghorasal unit-2,09:45,,unstated,
+2019-12-02,ghorasaltppunit12,0.87,7,Ghorasal unit-2,02:50,,unstated,
+2020-03-10,ghorasaltppunit12,0.69,7,Ghorashal ST-1,17:57,,electrical,Rotor protection
+2019-12-29,ghorasaltppunit5,0.61,7,Ghorashal uit-7 ST again,01:10,01:24,turbine,over speed test purpose
+2021-07-12,ghorasaltppunit5,0.87,1,Ghorashal unit-5,23:50,,electrical,6.6 kV CB Room on fire
+2022-01-01,ghorasaltppunit5,0.67,6,Ghorasal GT-4,16:10,16:32,turbine,problem with gas booster compressor
+2022-04-19,ghorasaltppunit5,0.64,6,Ghorasal #07 ST,06:48,,unstated,
+2022-05-20,ghorasaltppunit5,0.71,6,Ghorasal #7 CCPP ST,05:52,09:45,grid,high frequency
+2022-07-23,ghorasaltppunit5,0.83,6,Ghorasal Unit-2,08:02,,unstated,
+2022-08-19,ghorasaltppunit5,0.71,6,Ghorasal-7 CCPP DT,10:58,,electrical,relay protection alarm
+2022-12-21,ghorasaltppunit5,0.9,1,Ghorasal ST:Unit-5,17:18,,unstated,
+2023-01-17,ghorasaltppunit5,0.64,6,Ghorashal # 7 GT,06:51,,turbine,generation vibration high
+2023-01-18,ghorasaltppunit5,0.67,6,- Ghorasal-4 GT,11:45,,unstated,
+2023-01-28,ghorasaltppunit5,0.9,1,Ghorasal Unit-5,11:42,,unstated,
+2023-06-24,ghorasaltppunit5,0.9,1,Ghorasal ST:Unit-5,16:23,,unstated,
+2025-02-09,ghorasaltppunit5,0.64,5,Ghorashal GT-4,15:24,,unstated,
+2025-02-13,ghorasaltppunit5,0.64,5,Ghorashal GT-4,09:32,,unstated,
+2020-05-04,haripur360mwccpphpl,1.27,3,Haripur 360 MW,00:01,10:36,fuel_supply,gas line problem
+2020-07-28,haripur360mwccpphpl,1.41,3,Haripur 360 MW CCPP,21:07,1:00,electrical,loss of excitation and GT was synchronized at 1:00(29/7/2020) and STG was synchronized at 1:39(29/7/2020)
+2020-09-16,haripur360mwccpphpl,1.21,3,Haripur AES 360 MW,08:57,12:14,fuel_supply,"gas pressure low and GT & ST were synchronized at 12:14, 13:21 respectively"
+2020-11-18,haripur360mwccpphpl,1.27,3,Haripur 360 MW,00:13,,fuel_supply,gas shortage
+2021-01-09,haripur360mwccpphpl,1.23,3,Haripur 360 MW ST,,11:33,unstated,
+2021-01-13,haripur360mwccpphpl,1.27,3,Haripur 360 MW,12:44,02:26,fuel_supply,Auxiliary supply to GBC and others component from 6.6 kV Bus fail and GT was synchronized at 02:26(14/01/2021)
+2021-02-09,haripur360mwccpphpl,1.23,3,Haripur 360 MW ST,,11:33,unstated,
+2021-03-09,haripur360mwccpphpl,1.27,3,Haripur 360 MW,06:55,,fuel_supply,low gas pressure
+2021-05-31,haripur360mwccpphpl,1.41,3,Haripur 360 MW CCPP,20:07,,fuel_supply,gas shortage
+2021-06-18,haripur360mwccpphpl,1.23,3,Haripur 360 MW ST,10:15,12:58,unstated,
+2021-06-29,haripur360mwccpphpl,1.13,3,Haripur 360 MW STG unit,04:20,,boiler,boiler problem
+2021-11-13,haripur360mwccpphpl,1.41,3,Haripur 360 MW CCPP,12:12,16:49,unstated,
+2022-04-12,haripur360mwccpphpl,1.27,3,Haripur 360 MW,07:57,11:15,electrical,auxiliary failure and GT was synchronized at 11:15
+2022-04-17,haripur360mwccpphpl,1.27,3,Haripur 360 MW,16:43,03:55,fuel_supply,fuel control valve fail and GT was synchronized at 03:55(18/4/2022)
+2022-06-25,haripur360mwccpphpl,0.97,3,Haripur-360 MW CCPP GT & ST were synchronized at 16:01 & 20:38 respectively and,22:11,16:01,fuel_supply,gas valve problem
+2022-11-13,haripur360mwccpphpl,1.41,3,Haripur 360 MW CCPP,09:15,11:09,fuel_supply,high gas pressure and GT was synchronized at 11:09 & ST at 12:39
+2023-04-06,haripur360mwccpphpl,1.1,3,Haripur Power CCPP 360MW,01:33,,unstated,
+2019-11-18,haripur412mwccpp,1.34,3,Haripur EGCB-412 MW CCPP ST,14:44,22:00,electrical,auxiliary power failure
+2019-12-10,haripur412mwccpp,1.25,3,Haripur EGCB 412 MW,15:19,,control,GT control board problem and GT & ST were synchronized at
+2020-01-22,haripur412mwccpp,1.3,3,Haripur-412 MW ST,21:54,03:04,other,damper closed
+2020-04-01,haripur412mwccpp,1.39,3,Haripur EGCB 412 MW CCPP,17:21,01:16,fuel_supply,problem with fuel supply system
+2020-04-02,haripur412mwccpp,1.39,3,Haripur EGCB 412 MW CCPP,08:25,14:27,fuel_supply,problem with fuel supply system
+2020-04-15,haripur412mwccpp,1.31,3,Haripur-412 MW EGCB,19:21,,fuel_supply,gas supply fail and GT was synchronized at
+2020-07-30,haripur412mwccpp,1.05,3,Haripur-412 MW CCPP GT was synchronized at 15:31 and,19:35,15:31,other,problem with damper of HRSG
+2021-01-23,haripur412mwccpp,1.32,3,Haripur EGCB 412 MW CCPP STG,14:28,,unstated,
+2021-04-26,haripur412mwccpp,1.05,3,Haripur-412 MW CCPP GT was synchronized at 14:51 and,16:32,14:51,turbine,problem with turbine cooling air fan
+2021-05-03,haripur412mwccpp,1.31,3,Haripur 412 MW EGCB,02:35,,unstated,
+2021-05-18,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,16:29,19:14,turbine,gas turbine problem
+2021-07-20,haripur412mwccpp,1.39,3,Haripur EGCB 412 MW CCPP,09:26,12:45,fuel_supply,problem with gas booster and GT was synchronized at 12:45 and ST was switched on at 14:14
+2021-08-11,haripur412mwccpp,1.25,3,Haripur EGCB 412 MW,00:06,02:05,unstated,
+2021-09-12,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,18:47,,fuel_supply,GBC problem
+2021-09-14,haripur412mwccpp,1.21,3,Haripur EGCB 412 MW GT,09:57,19:44,fuel_supply,GBC problem
+2021-10-12,haripur412mwccpp,1.44,3,Haripur 412 MW CCPP GT,16:21,18:30,unstated,
+2021-10-12,haripur412mwccpp,1.41,3,Haripur 412 MW CCPP STG,19:54,,unstated,
+2021-11-03,haripur412mwccpp,1.41,3,Haripur 412 MW CCPP STG,12:38,14:04,other,aux
+2021-12-04,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,10:21,16:42,other,gas system problem
+2023-03-06,haripur412mwccpp,1.44,3,Haripur 412MW CCPP ST,04:38,,unstated,
+2023-03-30,haripur412mwccpp,1.39,3,Haripur 412MW (EGCB) CCPP,01:44,,unstated,
+2023-08-28,haripur412mwccpp,1.5,3,Haripur 412MW CCPP,08:27,,fuel_supply,rms problem
+2024-02-07,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,15:53,,unstated,
+2024-02-12,haripur412mwccpp,1.5,3,- Haripur 412 MW CCPP,15:44,,unstated,
+2024-02-12,haripur412mwccpp,1.5,3,- Haripur 412 MW CCPP,15:47,,unstated,
+2024-02-14,haripur412mwccpp,1.5,3,Haripur 412MW CCPP,08:30,,fuel_supply,problem with RMS of TITAS
+2024-02-14,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,08:31,,unstated,
+2024-02-18,haripur412mwccpp,1.39,3,Haripur EGCB 412 MW CCPP,16:46,,electrical,a stator ground fault
+2024-02-20,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,12:46,,electrical,V/Hz relay trip
+2024-02-25,haripur412mwccpp,0.7,3,"Haripur EGCB 412 MW, Rampal Unit-1, Bashkhali SS Power Unit-2, Barisal Electric 307 MW, Sonargaon 104 MW (Orion), 1100MW generation interruption. Daudkandi 50 MW (Titas), Madanganj 55 MW PP",15:09,,unstated,
+2024-05-17,haripur412mwccpp,1.5,3,- Haripur 412 MW CCPP,12:43,,unstated,
+2025-03-03,haripur412mwccpp,1.44,3,Haripur 412MW CCPP ST,14:25,,unstated,
+2025-03-22,haripur412mwccpp,1.34,3,Haripur EGCB 412 MW CCPP ST,20:16,,unstated,
+2025-05-01,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,16:20,,other,GT & STG
+2025-05-01,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,17:20,,unstated,
+2025-05-01,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,17:39,,unstated,
+2025-09-21,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,13:20,,unstated,
+2025-09-21,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,13:22,,unstated,
+2025-10-16,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,14:14,,unstated,
+2026-01-14,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,14:21,,other,ST Tripped
+2026-01-16,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,08:03,,unstated,
+2026-02-15,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,08:41,,unstated,
+2026-04-05,haripur412mwccpp,1.34,3,Haripur EGCB 412 MW CCPP ST,08:37,,unstated,
+2026-06-21,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,11:21,,unstated,
+2026-10-26,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,03:29,,unstated,
+2026-10-26,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,19:29,,unstated,
+2026-10-28,haripur412mwccpp,1.5,3,Haripur 412 MW CCPP,02:47,,unstated,
+2021-03-25,jamalpur115mwppunited,1.55,1,United Jamalpur 115 MW,21:01,21:38,electrical,O/V
+2022-03-18,jamalpur115mwppunited,1.26,2,Jamalpur 115 MW,23:01,23:57,electrical,E/F relay
+2022-09-05,jamalpur115mwppunited,1.26,2,Jamalpur 115 MW,05:19,07:05,other,LT switchgear problem
+2023-09-19,jamalpur115mwppunited,1.85,1,Jamalpur 115 MW united,18:50,,unstated,
+2024-05-12,jamalpur115mwppunited,1.9,1,Jamalpur 115 MW PP (United),09:06,,unstated,
+2025-06-09,jerameghnaghatpower,0.76,1,JERA Meghnaghat Power Limited 718 MW CCPP GT-11,17:38,,turbine,the compressor trip of the respective GT
+2025-07-10,jerameghnaghatpower,0.8,1,JERA Meghnaghat Power Limited 718 MW CCPP,18:04,,unstated,
+2025-07-20,jerameghnaghatpower,0.76,1,JERA Meghnaghat Power Limited 718 MW CCPP GT-11,16:02,,unstated,
+2025-09-22,jerameghnaghatpower,0.76,1,JERA Meghnaghat Power Limited 718 MW CCPP GT12,15:22,,unstated,
+2026-03-20,jerameghnaghatpower,0.8,1,JERA Meghnaghat Power Limited 718 MW CCPP,17:14,,unstated,
+2026-05-22,jerameghnaghatpower,0.8,1,JERA Meghnaghat Power Limited 718 MW CCPP,23:55,,unstated,
+2022-06-04,juldah100mwunit1acorn,0.65,1,Julda unit-1,23:03,,grid,voltage fluctuation
+2021-03-20,kaptaihydrounit12345,0.75,2,Kaptai Unit-4 & 5,05:15,,electrical,E/F relay at both end
+2022-01-08,kaptaihydrounit12345,0.71,2,Kaptai unit-2,09:53,10:07,fuel_supply,gear oil pressure high
+2022-03-04,kaptaihydrounit12345,0.71,2,Kaptai unit-2,12:10,,electrical,AVR problem
+2022-04-20,kaptaihydrounit12345,0.75,2,Kaptai Unit 2 & 3,15:31,16:12,unstated,
+2022-06-26,kaptaihydrounit12345,0.92,2,Kaptai Hydro Unit-2&3,22:35,23:07,other,Governor System problem
+2022-07-16,kaptaihydrounit12345,0.71,2,Kaptai unit-2,12:21,15:01,unstated,
+2023-09-19,kaptaihydrounit12345,0.6,2,Kaptai U-1 & U-3,15:14,,turbine,vibration problem
+2023-10-19,kaptaihydrounit12345,0.79,1,"Kaptai unit-1,2&3",13:07,,unstated,
+2023-11-10,kaptaihydrounit12345,0.71,2,Kaptai: Unit-3,10:40,,unstated,
+2023-12-18,katakhali50mwpeakingpp,1.5,2,Katakhali 50 MW Peaking PP,13:48,,unstated,
+2023-12-19,katakhali50mwpeakingpp,1.5,2,- Katakhali 50 MW Peaking PP,18:58,,unstated,
+2020-08-05,khulna225mwccpp,1.29,2,Khulna 225 MW ST,13:15,16:58,control,governor valve problem was synchronized at 16:58
+2020-08-30,khulna225mwccpp,1.35,2,Khulna 225 MW,21:33,,fuel_supply,fuel injection pump problem
+2020-09-12,khulna225mwccpp,1.35,2,Khulna 225 MW,14:06,18:13,unstated,
+2020-10-09,khulna225mwccpp,0.9,2,Khulna 225 MW GT was synchronized at 03:05(10/10/2020) and,,03:05,other,enclosure band flow low
+2021-09-10,khulna225mwccpp,1.5,2,Khulna 225 MW CCPP,21:27,,other,tripping of Demi-water pump and GT was synchronized at
+2021-09-18,khulna225mwccpp,1.44,2,Khulna-225 MW CCPP ST,10:09,13:26,boiler,feed water pump problem
+2021-10-25,khulna225mwccpp,1.41,2,Khulna 225 MW CCPP STG,13:52,01:13,other,problem with aux
+2022-03-22,khulna225mwccpp,1.41,2,Khulna-225 MW CCPP STG,17:12,07:12,electrical,tripping of 0.4 kV supply CB
+2022-04-23,khulna225mwccpp,1.29,2,Khulna 225 MW ST,07:55,,unstated,
+2022-04-26,khulna225mwccpp,0.96,2,Khulna 225 MW ST was synchronized at 07:36 and,10:37,07:36,unstated,
+2022-09-07,khulna225mwccpp,1.26,3,Khulna 225 MW STG,03:32,,unstated,
+2022-09-18,khulna225mwccpp,1.35,3,Khulna 225 MW,12:07,12:51,other,external electrical fault and GT was synchronized at 12:51
+2022-10-03,khulna225mwccpp,1.35,3,Khulna-225 MW,18:56,21:46,fuel_supply,fuel line problem and GT & ST were synchronized at 21:46 & 07:08(4/10/22) respectively
+2022-10-09,khulna225mwccpp,1.29,3,Khulna 225 MW ST,11:38,15:17,unstated,
+2023-03-15,khulna225mwccpp,1.44,4,khulna 225 MW CCPP GT,18:23,,unstated,
+2023-03-17,khulna225mwccpp,1.5,4,Khulna 225 MW CCPP,09:50,,fuel_supply,GBC problem
+2023-06-05,khulna225mwccpp,1.29,4,Khulna 225MW ST,11:04,,boiler,the drum level high
+2023-06-18,khulna225mwccpp,1.29,4,Khulna 225MW ST,00:47,,unstated,
+2023-06-19,khulna225mwccpp,1.44,4,khulna 225 MW CCPP ST,08:24,,boiler,drum level low low
+2022-10-30,khulna330mwccppoil,1.01,3,Khulna 330 MW GT was synchronized at 09:57 and,11:31,09:57,turbine,high exhaust temperature
+2022-11-18,khulna330mwccppoil,1.41,3,Khulna 330 MW CCPP,17:09,,unstated,
+2023-01-23,khulna330mwccppoil,1.41,3,Khulna 330 MW CCPP,20:20,,unstated,
+2023-04-10,khulna330mwccppoil,1.45,4,Khulna 330 MW CCPP (OIL) GT,15:49,,unstated,
+2023-06-07,khulna330mwccppoil,1.36,4,- Khulna 330 MW CCPP ST,12:57,,electrical,differential expansion high
+2023-06-24,khulna330mwccppoil,1.36,4,Khulna 330 MW CCPP ST,20:43,,unstated,
+2023-12-21,khulna330mwccppoil,1.15,4,Khulna 330 MW CCPP Shutdown with remarks:-,09:32,,unstated,
+2021-04-25,kodda300mwppunit2summit,1.72,2,Kodda 300 MW Summit,18:30,,unstated,
+2022-03-24,kodda300mwppunit2summit,1.41,2,Summit Kodda 300 MW,08:32,,other,flushing at isolator
+2020-04-21,kushiara163mwccppkp,1.39,1,Kushiara-163 MW CCPP ST,18:40,,grid,internal voltage discrepancy
+2020-10-19,kushiara163mwccppkp,0.55,1,Kushiara GT,15:26,16:43,unstated,
+2020-11-18,kushiara163mwccppkp,0.92,1,Kushiara 163 MW ST was synchronized at 01:41(20/11/2020). ac)Barapukuria unit-2,05:58,01:41,unstated,
+2020-12-21,kushiara163mwccppkp,1.31,1,Kushiara-163 MW,14:35,,grid,high voltage
+2021-01-11,kushiara163mwccppkp,0.89,1,Kushiara-163 MW GT & ST were synchronized at 12:19 & 17:14 respectively. ST,18:57,12:19,unstated,
+2021-01-21,kushiara163mwccppkp,1.31,1,Kushiara 163 MW,04:31,,grid,high voltage
+2021-02-19,kushiara163mwccppkp,1.44,1,Kushiara 163 MW CCPP,21:07,,control,control system fault
+2021-02-21,kushiara163mwccppkp,0.55,1,Kushiara GT,02:34,,control,control system problem
+2021-06-27,kushiara163mwccppkp,1.31,1,Kushiara 163 MW,19:20,,control,ST controller problem
+2021-08-04,kushiara163mwccppkp,1.39,1,Kushiara 163 MW CCPP GT,18:44,,control,problem with control system
+2021-09-29,kushiara163mwccppkp,1.31,1,Kushiara 163 MW,11:49,12:58,other,tripping of exhaust fan and GT was synchronized at 12:58
+2023-04-17,kushiara163mwccppkp,1.26,1,Kushiara 163MW GT,16:30,,unstated,
+2023-04-17,kushiara163mwccppkp,1.26,1,Kushiara 163MW GT,9:42,,unstated,
+2023-04-20,kushiara163mwccppkp,1.26,1,- Kushiara 163MW GT,0:19,,unstated,
+2023-04-20,kushiara163mwccppkp,1.31,1,- Kushiara 163 MW,22:17,,unstated,
+2023-10-02,kushiara163mwccppkp,1.39,1,Kushiara 163 MW CCPP ST,14:57,,other,temperature gradient
+2023-10-28,kushiara163mwccppkp,1.18,1,Kushiara CCPP 163 MW ST,10:38,,unstated,
+2024-04-27,kushiara163mwccppkp,1.5,1,Kushiara 163 MW CCPP (KP),21:21,,unstated,
+2025-03-10,kushiara163mwccppkp,1.39,1,Kushiara 163MW CCPP ST,12:06,,unstated,
+2026-01-01,kushiara163mwccppkp,1.39,1,Kushiara 163MW CCPP GT,14:15,,unstated,
+2023-11-13,madanganj55mwppsummit,1.9,2,- Madanganj-55 MW PP(Summit),12:17,,electrical,Earth fault
+2023-11-21,maona33mwppsummit,1.9,1,- Maona 33 MW PP(Summit),14:39,,unstated,
+2023-11-25,maona33mwppsummit,1.9,1,Maona 33 MW PP(Summit),11:36,,unstated,
+2023-12-01,maona33mwppsummit,1.9,1,Maona 33 MW PP(Summit),16:57,,unstated,
+2023-12-18,maona33mwppsummit,1.9,1,Maona 33 MW PP(Summit),08:47,,unstated,
+2023-12-18,maona33mwppsummit,1.9,1,Maona 33 MW PP(Summit),10:21,,unstated,
+2023-12-19,maona33mwppsummit,1.9,1,- Maona 33 MW PP(Summit),10:18,,unstated,
+2023-08-27,matarbari2600mwcpgcbl,1.37,1,Matarbari 2*600 MW (CPGCL) Unit-1,20:56,,unstated,
+2023-10-07,matarbari2600mwcpgcbl,1.48,1,Matarbari 2*600 MW (CPGCL),10:20,,fuel_supply,fuel temp
+2024-01-20,matarbari2600mwcpgcbl,1.48,1,Matarbari 2*600 MW (CPGCL),11:31,,unstated,
+2024-01-22,matarbari2600mwcpgcbl,1.37,1,Matarbari 2*600 MW (CPGCL) unit-2,11:31,,unstated,
+2024-02-02,matarbari2600mwcpgcbl,1.48,1,- Matarbari 2*600 MW (CPGCL),12:59,,other,Unit 2 Load Rejection Test
+2024-03-03,matarbari2600mwcpgcbl,0.62,1,- Matarbari U-2,10:14,,other,problem with feed pump
+2024-03-07,matarbari2600mwcpgcbl,0.62,1,Matarbari U-2,08:30,,boiler,reheater inlet temp
+2024-03-20,matarbari2600mwcpgcbl,0.56,1,Matarbari U-1,00:20,,unstated,
+2024-05-28,matarbari2600mwcpgcbl,1.37,1,Matarbari 2*600 MW (CPGCL) unit-1,06:26,,boiler,feed water low low
+2025-06-19,matarbari2600mwcpgcbl,1.39,1,Matarbari 2*600 MW (CPGCBL) Unit-1,17:25,,cooling,the tripping of Main cooling water pump
+2025-08-24,matarbari2600mwcpgcbl,0.56,1,Matarbari U-1,10:58,,other,electrical fault with the auxiliary supply
+2026-08-31,matarbari2600mwcpgcbl,1.5,1,Matarbari 2*600 MW (CPGCBL),15:28,,unstated,
+2023-12-01,meghnaghat100mwiel,1.5,6,Meghnaghat 100 MW(IEL),14:03,,unstated,
+2019-11-14,meghnaghat450mwccppmpl,1.25,3,Meghnaghat 450 MW GT-2,10:56,16:20,electrical,E/F
+2019-11-20,meghnaghat450mwccppmpl,1.25,3,Meghnaghat 450 MW GT-2,01:00,,unstated,
+2020-01-28,meghnaghat450mwccppmpl,1.25,3,Meghnaghat 450 MW GT-1,10:28,12:04,boiler,flame failure
+2020-02-03,meghnaghat450mwccppmpl,1.36,3,Meghnaghat 450 MW CCPP GT-2,12:30,,electrical,stator earth fault
+2020-02-16,meghnaghat450mwccppmpl,1.22,3,Megnaghat-450 MW GT-2,09:31,,electrical,stator E/F relay
+2020-08-27,meghnaghat450mwccppmpl,1.31,4,Meghnaghat 450 MW,18:20,,fuel_supply,problem at GBC
+2020-12-14,meghnaghat450mwccppmpl,1.25,4,Meghnaghat 450 MW GT-2,06:43,,electrical,E/F relay
+2021-02-26,meghnaghat450mwccppmpl,1.36,4,Meghnaghat 450 MW CCPP GT-2,16:23,17:40,boiler,burner problem
+2021-03-30,meghnaghat450mwccppmpl,1.2,4,Meghnaghat 450 MW GT-1 & STG,19:05,,fuel_supply,GBC tripped
+2021-08-26,meghnaghat450mwccppmpl,1.25,4,Meghnaghat 450 MW GT-1,09:57,11:27,fuel_supply,Gas Valve problem
+2021-10-01,meghnaghat450mwccppmpl,1.25,4,Meghnaghat 450 MW GT-2,13:04,15:38,grid,voltage fluctuation
+2021-11-28,meghnaghat450mwccppmpl,1.25,4,Meghnaghat 450 MW GT-2,06:41,,grid,grid voltage fluctuation
+2022-04-10,meghnaghat450mwccppmpl,0.94,4,Meghnaghat 450 MW STG was synchronized at 05:56(11-04-2022) and,06:20,05:56,turbine,TBN bearing temperature high
+2023-03-07,meghnaghat450mwccppmpl,1.18,4,Meghnaghat CCPP 450MW GT1,17:09,,control,control system fault
+2023-05-03,meghnaghat450mwccppmpl,1.11,4,- Meghna 450 MW GT1,13:45,,fuel_supply,low gas pressure
+2023-08-30,meghnaghat450mwccppmpl,1.23,4,Meghnaghat CCPP 450MW,16:59,,unstated,
+2024-04-30,meghnaghat450mwccppmpl,1.18,6,- Meghnaghat CCPP 450 MW GT2,12:08,,unstated,
+2025-03-12,meghnaghat450mwccppmpl,1.2,6,Meghnaghat CCPP 450 MW ST,00:12,,unstated,
+2025-07-12,meghnaghat450mwccppmpl,1.9,1,Meghnaghat 450 MW CCPP (MPL),22:43,,other,CCPP
+2025-09-29,meghnaghat450mwccppmpl,1.9,1,Meghnaghat 450 MW CCPP (MPL),10:42,,other,both
+2026-04-05,meghnaghat450mwccppmpl,1.9,1,Meghnaghat 450 MW CCPP (MPL),09:21,,unstated,
+2026-05-30,meghnaghat450mwccppmpl,1.9,1,Meghnaghat 450 MW CCPP (MPL),15:38,,unstated,
+2019-10-28,meghnaghatccppsummit,0.77,1,Meghnaghat Summit 305 MW CCPP GT-1,10:34,11:45,fuel_supply,gas pressure fluctuation
+2020-03-16,meghnaghatccppsummit,0.66,1,Summit Meghnaghat 305 MW GT,20:42,,unstated,
+2020-04-05,meghnaghatccppsummit,0.92,1,Summit Meghnaghat GT-2 with STG,06:40,,fuel_supply,DP high
+2020-04-29,meghnaghatccppsummit,1.04,1,Summit Meghnaghat CCPP GT-2 with STG,14:33,21:18,fuel_supply,low gas pressure
+2020-05-25,meghnaghatccppsummit,0.66,1,Summit Meghnaghat 305 MW ST,13:50,16:26,other,220V Dc failure
+2020-07-11,meghnaghatccppsummit,0.96,1,Summit Meghnaghat GT-2,14:11,15:54,unstated,
+2020-09-06,meghnaghatccppsummit,0.67,4,Meghnaghat- GT-2,04:41,09:06,turbine,turbine vibration high
+2020-11-07,meghnaghatccppsummit,0.75,1,summit Meghnaghat GT-2 was synchronized at 12:14 and,13:58,12:14,unstated,
+2020-11-15,meghnaghatccppsummit,0.81,1,Meghnaghat Summit 305 MW CCPP,12:01,14:28,fuel_supply,low gas pressure and ST was synchronized at 14:28
+2021-01-24,meghnaghatccppsummit,0.57,1,Meghnaghat Summit 305 MW GT-2 was synchronized at 10:48 and,11:04,10:48,unstated,
+2021-02-25,meghnaghatccppsummit,0.73,1,Summit Meghnaghat 305 MW CCPP GT-2,06:01,,unstated,
+2021-04-07,meghnaghatccppsummit,1.57,1,Meghnaghat Summit 335 MW CCPP GT-2,16:44,18:32,fuel_supply,GBC problem
+2021-04-08,meghnaghatccppsummit,0.96,1,Summit Meghnaghat GT-2,10:33,12:43,fuel_supply,GBC trip
+2021-04-17,meghnaghatccppsummit,0.96,1,Summit Meghnaghat GT-1,15:48,15:48,fuel_supply,problem with GBC
+2022-03-25,meghnaghatccppsummit,0.96,1,Summit Meghnaghat GT-2,18:04,22:16,fuel_supply,Dirty fuel
+2022-03-30,meghnaghatccppsummit,0.94,1,Summit Meghnaghat GT-1 & ST,11:45,13:37,fuel_supply,tripping of GBC and GT-1 was synchronized at 13:37
+2022-06-12,meghnaghatccppsummit,1.57,1,Summit Meghnaghat 335 MW CCPP STG,15:42,,unstated,
+2022-11-01,meghnaghatccppsummit,1.68,1,Meghnaghat Summit 335 MW,08:22,10:08,unstated,
+2023-01-13,meghnaghatccppsummit,0.81,1,Meghnaghat Summit CCPP 305MW,11:08,,unstated,
+2023-07-29,meghnaghatccppsummit,1.14,1,Meghnaghat Summit CCPP GT1,08:34,,unstated,
+2023-07-29,meghnaghatccppsummit,1.16,1,Meghnaghat Summit CCPP ST,08:53,,unstated,
+2023-09-12,meghnaghatccppsummit,0.77,2,Meghnaghat Summit CCPP 305MW GT-1,06:36,,unstated,
+2023-09-12,meghnaghatccppsummit,0.67,2,Summit meghnaghat-2 589 MW PP GT,09:08,,unstated,
+2023-09-17,meghnaghatccppsummit,0.77,2,Meghnaghat Summit CCPP 305MW GT-1,05:50,,unstated,
+2023-09-20,meghnaghatccppsummit,0.78,2,- Meghnaghat Summit CCPP 305MW ST,10:01,,unstated,
+2023-10-18,meghnaghatccppsummit,0.77,2,Meghnaghat Summit CCPP 305MW GT1,03:41,,unstated,
+2023-10-18,meghnaghatccppsummit,0.77,2,Meghnaghat Summit CCPP 305MW GT1,07:02,,unstated,
+2024-02-14,meghnaghatccppsummit,0.71,2,Summit Meghnaghat-2 589 MW CCPP,09:14,,fuel_supply,problem with GBC
+2024-03-14,meghnaghatccppsummit,1.4,2,Meghnaghat CCPP(Summit),01:00,,unstated,
+2024-05-16,meghnaghatccppsummit,0.99,2,Summit Meghnaghat (U-1) GT-1,05:47,,unstated,
+2025-05-11,meghnaghatccppsummit,0.71,2,Summit Meghnaghat-2 589 MW CCPP,03:23,,turbine,a problem in Fuel Gas Compressor
+2025-09-27,meghnaghatccppsummit,1.58,2,Meghnaghat Summit 335 MW CCPP ST,15:50,,unstated,
+2025-10-22,meghnaghatccppsummit,0.77,2,Summit Meghnaghat-2 589 MW CCPP ST,19:47,,other,the closing of the diverter damper
+2025-10-22,meghnaghatccppsummit,0.73,2,Summit Meghnaghat-2 589 MW CCPP GT,21:43,,unstated,
+2025-12-16,meghnaghatccppsummit,1.14,2,Summit Meghnaghat CCPP-2 ST,15:53,,other,problem with the diverter damper
+2026-09-20,meghnaghatccppsummit,1.33,2,Meghnaghat CCPP(Summit) GT-1,1:40,,other,GT-1 Tripped at 1:40 AM
+2024-01-21,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,23:28,,unstated,
+2024-01-22,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,14:40,,unstated,
+2024-01-29,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,23:28,,unstated,
+2024-02-14,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,09:14,,unstated,
+2024-04-26,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,15:40,,unstated,
+2024-05-03,meghnaghatccppsummit2,0.79,2,Meghnaghat Summit CCPP 305MW GT2,23:12,,fuel_supply,GBC trip
+2024-05-14,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,15:43,,unstated,
+2024-06-21,meghnaghatccppsummit2,1.4,2,- Meghnaghat CCPP(Summit)-2,23:13,,other,"GT,ST"
+2025-04-16,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,16:46,,unstated,
+2025-05-11,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,03:23,,unstated,
+2025-05-16,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,14:42,,unstated,
+2025-05-16,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,19:14,,unstated,
+2025-10-22,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,19:47,,unstated,
+2025-10-22,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,21:43,,unstated,
+2025-12-16,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,18:02,,unstated,
+2026-02-05,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,01:02,,unstated,
+2026-10-24,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,15:44,,unstated,
+2020-05-06,mymensingh200mwppunited,1.38,1,Mymensing United-200 MW & Jamalpur United-115 MW,21:11,22:05,electrical,unit transformer breaker problem
+2020-05-15,mymensingh200mwppunited,1.6,1,Mymensing united 200 MW,15:21,15:44,grid,low voltage
+2021-03-25,mymensingh200mwppunited,1.58,1,United Mymensingh 200 MW,21:01,21:38,electrical,O/V
+2023-09-19,mymensingh200mwppunited,1.55,1,United Mymensing 200 MW,18:50,,unstated,
+2024-05-12,mymensingh200mwppunited,1.9,1,Mymensingh 200 MW PP (United),09:06,,unstated,
+2023-12-13,nababganj55mwppsouthernpower,1.9,1,Nababganj 55 MW PP (Southern power ),10:21,,unstated,
+2023-11-12,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),21:36,,unstated,
+2023-11-13,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),13:27,,unstated,
+2023-11-13,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),16:47,,unstated,
+2023-11-24,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),07:12,,unstated,
+2023-11-24,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),19:02,,unstated,
+2023-11-25,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),16:36,,unstated,
+2023-11-27,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),08:45,,unstated,
+2023-11-29,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),12:43,,unstated,
+2023-12-04,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),9:40,,unstated,
+2023-12-06,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),11:42,,unstated,
+2023-12-09,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),18:18,,unstated,
+2023-12-11,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),09:09,,unstated,
+2023-12-11,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),12:03,,unstated,
+2023-12-11,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),12:13,,unstated,
+2023-12-13,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),14:30,,unstated,
+2023-12-14,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),14:20,,unstated,
+2023-12-15,narshingdi22mwppdoreen,1.9,1,Narshingdi 22 MW PP (Doreen),15:52,,unstated,
+2023-11-30,patenga50mwppbaraka,1.9,1,Patenga 50MW PP (Baraka),14:16,,unstated,
+2023-12-12,patenga50mwppbaraka,1.9,1,- Patenga 50MW PP (Baraka),10:22,,unstated,
+2023-12-18,patenga50mwppbaraka,1.9,1,Patenga 50MW PP (Baraka),15:07,,unstated,
+2024-01-01,patenga50mwppbaraka,1.9,1,Patenga 50MW PP (Baraka),08:19,,unstated,
+2025-01-20,patuakhali1320mwrnpl,1.5,1,Patuakhali 1320 MW (RNPL),14:51,,boiler,boiler MFT trip
+2025-01-21,patuakhali1320mwrnpl,1.39,1,Patuakhali 1320 MW (RNPL) unit 2,01:58,,boiler,a decreasing in feed water flow
+2025-03-17,patuakhali1320mwrnpl,1.39,1,Patuakhali 1320 MW (RNPL) unit-1,15:05,,unstated,
+2025-04-10,patuakhali1320mwrnpl,1.39,1,Patuakhali 1320 MW (RNPL) Unit-1,21:50,,boiler,the stoppage of the feedwater pump
+2025-06-18,patuakhali1320mwrnpl,1.39,1,Patuakhali 1320 MW (RNPL) Unit-1,13:00,,unstated,
+2020-01-13,payra1320mw,0.57,1,Payra unit-1,05:45,10:02,boiler,boiler burner system problem
+2020-03-29,payra1320mw,0.57,1,Payra unit-1,15:11,20:34,other,Gopalganj 400/132/33 kV T2 transformer tripped
+2020-09-03,payra1320mw,0.57,1,Payra unit-2,09:45,13:17,unstated,
+2020-09-17,payra1320mw,0.57,1,Payra unit-1,10:59,,unstated,
+2020-12-29,payra1320mw,0.57,2,Payra unit-2,21:41,,electrical,excitation system problem
+2021-05-02,payra1320mw,0.57,2,Payra Unit-2,21:15,07:09,boiler,Feed water flow low and again synchronized at 07:09(03-05-2021)
+2021-05-05,payra1320mw,0.57,2,Payra unit-2,17:49,18:24,other,Gopalganj 400/132 kV both transformer trip
+2021-06-21,payra1320mw,0.57,2,Payra Unit-1,11:38,11:51,grid,low grid voltage
+2021-07-29,payra1320mw,0.57,2,Payra Unit-1,21:40,22:29,unstated,
+2022-02-04,payra1320mw,0.57,2,Payra unit-1,15:32,22:20,unstated,
+2022-04-17,payra1320mw,0.57,2,Payra unit-1,00:20,,other,due to Payra-Gopalganj 400 kV Ckt-1 tripping
+2022-08-11,payra1320mw,1.31,2,Payra 1320 MW unit-1,04:01,,electrical,Differential protection(87T) at unit transformer
+2022-08-11,payra1320mw,1.31,2,Payra 1320 MW unit-1,13:59,20:12,electrical,zero power protection
+2022-11-24,payra1320mw,0.57,2,Payra Unit-1,01:26,,unstated,
+2023-03-15,payra1320mw,0.57,2,Payra Unit-2,10:31,,unstated,
+2025-04-26,payra1320mw,1.5,2,Payra 1320 MW,17:46,,unstated,
+2025-04-26,payra1320mw,1.5,2,Payra 1320 MW,17:48,,unstated,
+2026-10-24,payra1320mw,1.5,2,Payra 1320 MW,09:12,,unstated,
+2022-09-05,rampal1320mwbifpcl,1.24,1,Rampal 1320 MW unit-1,,,unstated,
+2022-12-29,rampal1320mwbifpcl,1.38,1,- Rampal 1320 MW (BIFPCL) unit-1,20:37,,boiler,Boiler trip
+2023-01-08,rampal1320mwbifpcl,1.38,1,- Rampal 1320 MW (BIFPCL) unit-1,3:06,,electrical,generator rotor E/F
+2023-02-24,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,13:10,,other,tripping of air pre-heater 327MW generation interrup
+2023-03-02,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,10:58,,unstated,
+2023-03-25,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,09:01,,unstated,
+2023-03-29,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,23:06,,other,FGD(Flue Gas Desulphurization) problem
+2023-04-06,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,15:24,,unstated,
+2023-07-13,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,22:29,,unstated,
+2023-07-16,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,13:20,,unstated,
+2023-09-01,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,13:45,,unstated,
+2024-01-05,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),14:01,,unstated,
+2024-01-05,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),22:28,,unstated,
+2024-02-02,rampal1320mwbifpcl,1.5,1,- Rampal 1320 MW (BIFPCL),13:00,,unstated,
+2024-02-12,rampal1320mwbifpcl,1.5,1,- Rampal 1320 MW (BIFPCL),17:56,,unstated,
+2024-02-20,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),12:46,,unstated,
+2024-02-25,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),15:09,,unstated,
+2024-05-06,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),17:51,,unstated,
+2025-03-16,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),14:30,,unstated,
+2025-04-26,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),17:48,,unstated,
+2025-04-26,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),17:58,,unstated,
+2025-05-10,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),01:48,,unstated,
+2025-05-11,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,21:44,,unstated,
+2025-07-23,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,11:12,,unstated,
+2025-08-15,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),12:30,,unstated,
+2025-08-16,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),14:41,,unstated,
+2025-08-21,rampal1320mwbifpcl,1.06,1,Rampal 1320 MW (BIFPCL) Synchronized with remarks:- unit-1,00:00,,unstated,
+2025-08-21,rampal1320mwbifpcl,1.09,1,Rampal 1320 MW (BIFPCL) Synchronized with remarks:- U2,09:49,,unstated,
+2025-08-22,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),11:20,,unstated,
+2025-08-23,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),10:34,,unstated,
+2025-09-02,rampal1320mwbifpcl,1.09,1,Rampal 1320 MW (BIFPCL) Synchronized with remarks:- U2,04:08,,unstated,
+2025-10-17,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),20:49,,unstated,
+2025-12-05,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),08:26,,unstated,
+2025-12-21,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-1,12:24,,unstated,
+2026-01-04,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),22:58,,unstated,
+2026-01-26,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),09:40,,unstated,
+2026-01-27,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),17:22,,unstated,
+2026-02-09,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),02:34,,unstated,
+2026-02-09,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) unit-2,02:36,,unstated,
+2026-03-13,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),05:22,,other,U2 (Unit 1 Running)
+2026-04-06,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),05:26,,unstated,
+2026-04-07,rampal1320mwbifpcl,1.09,1,Rampal 1320 MW (BIFPCL) Synchronized with remarks:- U2,13:57,,unstated,
+2026-04-16,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,14:10,,unstated,
+2026-07-19,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),20:18,,unstated,
+2026-07-30,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),08:05,,unstated,
+2026-10-01,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,05:24,,unstated,
+2020-07-08,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,11:30,11:45,unstated,
+2020-08-15,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,19:21,22:34,grid,low Grid voltage
+2020-09-16,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,19:15,21:03,grid,suspected line tripping
+2021-07-29,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,21:02,,grid,high voltage
+2021-08-06,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,21:38,,electrical,"O/V, O/F relay"
+2023-12-19,rangpur113mwppconfidence,1.9,1,- Rangpur 113 MW PP (Confidence),12:47,,grid,Voltage Fluctuation
+2023-12-03,raozan25mwpp,1.5,1,- Raozan 25 MW PP,17:06,,unstated,
+2023-12-12,raozan25mwpp,1.5,1,- Raozan 25 MW PP,8:46,,unstated,
+2025-06-11,raozan25mwpp,1.5,1,Raozan 25 MW PP,03:34,,unstated,
+2025-06-14,raozan25mwpp,1.5,1,Raozan 25 MW PP,06:05,,unstated,
+2025-06-16,raozan25mwpp,1.5,1,Raozan 25 MW PP,19:09,,unstated,
+2025-07-20,raozan25mwpp,1.5,1,Raozan 25 MW PP,18:57,,unstated,
+2025-08-19,raozan25mwpp,1.5,1,Raozan 25 MW PP,23:48,,unstated,
+2022-03-25,rupsha105mwpporionrupsha,0.65,1,Orion Rupsha 100 MW,21:01,,grid,voltage fluctuation
+2023-11-30,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,09:41,,unstated,
+2023-11-30,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,14:54,,unstated,
+2023-12-01,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,09:23,,unstated,
+2023-12-07,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,08:50,,unstated,
+2023-12-07,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,11:21,,unstated,
+2023-12-23,sarishabari3mwsolarplant,1.0,1,Sarishabari 3 MW Solar Plant,08:48,,unstated,
+2023-11-21,shahjahanulla25mwpp,1.5,1,- Shahjahanulla 25 MW PP,10:47,,unstated,
+2023-11-27,shahjahanulla25mwpp,1.5,1,Shahjahanulla 25 MW PP,17:22,,unstated,
+2023-12-15,shahjahanulla25mwpp,1.5,1,Shahjahanulla 25 MW PP,19:24,,unstated,
+2023-12-19,shahjahanulla25mwpp,1.5,1,- Shahjahanulla 25 MW PP,9:41,,unstated,
+2023-12-28,shahjahanulla25mwpp,1.5,1,Shahjahanulla 25 MW PP,08:01,,unstated,
+2023-12-29,shahjahanulla25mwpp,1.5,1,- Shahjahanulla 25 MW PP,11:49,,unstated,
+2020-12-21,shahjibazar100mwgtpp,1.39,4,Shahjibazar-100 MW,08:57,,cooling,vacuum failure of mineral lube oil tank
+2021-01-05,shahjibazar100mwgtpp,1.07,4,Shahjibazar 100 MW was synchronized at 09:17 and,11:39,09:17,unstated,
+2021-01-09,shahjibazar100mwgtpp,1.39,4,Shahjibazar 100 MW,15:56,,fuel_supply,tripping of GBC
+2021-02-09,shahjibazar100mwgtpp,1.39,4,Shahjibazar 100 MW,15:56,,fuel_supply,tripping of GBC
+2021-11-10,shahjibazar100mwgtpp,1.07,4,Shahjibazar 100 MW was synchronized at 09:54 and,14:21,09:54,fuel_supply,GBC problem
+2021-12-08,shahjibazar100mwgtpp,1.39,4,Shahjibazar-100 MW,13:50,16:25,other,inter cooler pump problem
+2024-04-11,shahjibazar100mwgtpp,1.5,4,Shahjibazar 100 MW GTPP,23:56,,turbine,the tripping of gas booster compressor
+2020-10-24,shahjibazar86mwppshahjibazar,1.2,3,Shahjibazar 86 MW,14:56,15:04,grid,voltage fluctuation
+2021-01-12,shahjibazar86mwppshahjibazar,1.2,4,Shahjibazar 86 MW,06:39,07:13,electrical,E/F relay
+2021-11-07,shahjibazar86mwppshahjibazar,1.12,4,"Shahjibazar-86 MW , TSK, Precision",02:07,,electrical,E/F relay
+2022-03-04,shahjibazar86mwppshahjibazar,1.2,4,Shahjibazar 86 MW,12:29,,grid,voltage fluctuation
+2022-04-21,shahjibazar86mwppshahjibazar,1.13,4,"Shahjibazar-86 MW, Ashuganj-55 MW & Ashuganj-50 MW",03:08,,unstated,
+2022-05-03,shahjibazar86mwppshahjibazar,1.24,4,Shahjibazar 86 MW Bay,10:20,,other,Diff
+2022-10-11,shahjibazar86mwppshahjibazar,1.2,4,Shahjibazar 86 MW,19:30,,electrical,"O/C, E/F & U/F relays"
+2023-03-23,shahjibazar86mwppshahjibazar,1.2,4,"Shahjibazar 86MW, Shahjibazar GT-8,9 and Precision 55MW",14:03,,unstated,
+2019-02-11,shahjibazargtppunit89,0.8,4,Shahjibazar GT-8,09:10,10:14,fuel_supply,fuel temperature low
+2020-09-07,shahjibazargtppunit89,0.8,3,Shahjibazar GT-8,12:53,15:16,electrical,testing of 11 kV breaker of GT
+2021-05-03,shahjibazargtppunit89,0.8,4,Shahjibazar GT-8,02:23,,unstated,
+2022-07-02,shahjibazargtppunit89,0.8,4,Shahjibazar GT-8,07:28,,unstated,
+2022-08-30,shahjibazargtppunit89,0.8,4,Shahjibazar GT-9,22:30,23:40,electrical,generator protection trip
+2023-06-09,shahjibazargtppunit89,0.8,4,Shahjibazar GT9,00:23,,boiler,flame detector alarm
+2020-02-24,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT1,17:28,20:24,fuel_supply,problem with GBC
+2020-03-26,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-2,18:05,19:46,other,gas ventilation problem and synchronized at 19:46
+2020-04-13,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,19:15,23:15,unstated,
+2020-06-06,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-1,08:31,14:08,other,problem at gas chamber
+2020-07-07,shajibazar330mwccpp,1.36,3,Shahjibazar 330 MW,00:28,,fuel_supply,gas booster trip
+2020-07-19,shajibazar330mwccpp,1.29,3,Shahjibazar 330 MW GT-2,18:23,,unstated,
+2020-11-07,shajibazar330mwccpp,1.27,3,"Shahjibazar 330 MW GT-1,2",10:50,,fuel_supply,GBC problem
+2020-11-07,shajibazar330mwccpp,1.47,3,Shahjibazar 330 MW CCPP,22:28,00:47,unstated,
+2020-12-12,shajibazar330mwccpp,1.38,3,Shahjibazar-330 MW CCPP GT & ST,15:09,21:44,unstated,
+2021-02-24,shajibazar330mwccpp,1.25,4,Shahjibazar 330 MW GT-2 & ST,07:07,,fuel_supply,low gas pressure
+2021-03-12,shajibazar330mwccpp,1.47,4,Shahjibazar-330 MW CCPP,15:31,17:26,fuel_supply,"trip of RMS valve and GT-1, GT-2 & ST were synchronized at 17:26, 07:20(13/3/21) & 19:38 respectively"
+2021-03-13,shajibazar330mwccpp,1.27,4,Shahjibazar 330 MW STG-2,12:03,13:32,electrical,excitation failure
+2021-03-21,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,14:10,21:26,unstated,
+2021-03-21,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-2,14:35,19:36,unstated,
+2021-04-01,shajibazar330mwccpp,1.4,4,Shahjibazar-330 MW CCPP GT-2,13:26,,electrical,E/F relay
+2021-04-24,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-1,03:30,,control,gas regulating valve problem
+2021-04-26,shajibazar330mwccpp,1.36,4,Shahjibazar-330 MW,05:08,,electrical,E/F relay
+2021-04-27,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,03:25,,fuel_supply,fuel flow out of range
+2021-04-30,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,02:37,,other,servo fault
+2021-05-01,shajibazar330mwccpp,1.1,4,Shahjibazar-330 MW CCPP GT-1 was synchronized at 14:16 &,05:43,14:16,electrical,E/F relay
+2021-05-09,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,06:48,,turbine,high exhaust temperature
+2021-05-20,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-2,15:30,,unstated,
+2021-05-21,shajibazar330mwccpp,1.29,4,Shahjibazar-330 MW GT-2,10:25,14:45,turbine,heat vent loss of turbine compartment
+2021-05-22,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-1,09:43,12:05,turbine,heat vent loss of turbine compartment
+2021-05-24,shajibazar330mwccpp,1.31,4,Shajibazar 330 MW GT-1,05:44,06:50,unstated,
+2021-05-25,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-1,11:40,,electrical,tripping of unit breaker
+2021-07-29,shajibazar330mwccpp,1.36,4,Shahjibazar 330 MW,21:10,,fuel_supply,gas booster problem
+2021-11-02,shajibazar330mwccpp,1.4,4,Shahjibazar-330 MW CCPP GT-2,14:15,16:14,fuel_supply,gas pressure low
+2021-11-17,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-2,06:03,,unstated,
+2021-11-17,shajibazar330mwccpp,1.36,4,Shahjibazar 330 MW CCPP GT-2 & ST,17:02,20:18,fuel_supply,gas buster problem
+2021-12-02,shajibazar330mwccpp,1.29,4,Shahjibazar-330 MW GT-1,20:52,,fuel_supply,tripping of booster
+2022-01-16,shajibazar330mwccpp,1.08,4,Shahjibazar-330 MW CCPP GT-2 was synchronized at 13:40 and,20:58,13:40,other,ventilation fan problem
+2022-02-13,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-2,10:22,15:55,unstated,
+2022-03-13,shajibazar330mwccpp,1.4,4,Shahjibazar 330 MW CCPP GT-2,13:00,,other,"ventilation problem & were synchronized GT & ST at 15:45,18:11 respectively"
+2022-04-08,shajibazar330mwccpp,1.47,4,Shahjibazar 330 MW CCPP,19:12,,unstated,
+2022-04-16,shajibazar330mwccpp,1.43,4,Shahjibazar-330 MW CCPP ST,15:06,,other,DEH fault
+2022-05-09,shajibazar330mwccpp,1.31,4,Shahjibazar 330 MW ST,11:56,,unstated,
+2022-05-11,shajibazar330mwccpp,1.43,4,Shahjibazar-330 MW CCPP ST,10:42,16:24,unstated,
+2022-05-29,shajibazar330mwccpp,1.29,4,Shahjibazar 330MW GT-2,09:43,,electrical,fire at unit transformer
+2026-06-13,shajibazar330mwccpp,1.47,4,Shahjibazar 330 MW CCPP,20:05,,unstated,
+2026-08-12,shajibazar330mwccpp,1.47,4,Shahjibazar 330 MW CCPP,15:57,,unstated,
+2026-11-18,shajibazar330mwccpp,1.5,4,Shajibazar 330 MW CCPP,07:29,,unstated,
+2019-12-13,siddhirganj100ppdutchbangla,0.6,4,Siddirganj peaking GT-2,18:33,20:45,fuel_supply,tripping of GBC and GT-1 was synchronized at 20:45
+2020-06-22,siddhirganj100ppdutchbangla,0.62,4,Siddhirganj (peaking) GT-1,13:18,15:56,other,false fire alarm
+2020-06-23,siddhirganj100ppdutchbangla,0.6,4,Siddirganj peaking GT-1,07:28,,control,problem with exhaust valve
+2020-07-12,siddhirganj100ppdutchbangla,0.61,4,Siddhirganj Peaking GT 1&2,09:54,,other,auxiliary supply failure
+2021-04-03,siddhirganj100ppdutchbangla,0.61,4,Siddhirganj Peaking GT-1 & 2,07:32,,unstated,
+2021-04-06,siddhirganj100ppdutchbangla,0.56,4,Siddirganj Peaking GT-1 & GT-2,10:38,,fuel_supply,GBC problem
+2021-04-26,siddhirganj100ppdutchbangla,0.6,4,Siddirganj Peaking GT-2,14:48,16:21,other,load tunnel temperature high
+2022-04-11,siddhirganj100ppdutchbangla,0.6,4,Siddirganj peaking GT-1,16:12,20:12,other,GVC trip
+2020-04-29,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,17:01,18:27,grid,tripping of Siddhirganj-Maniknagar 230 kV Ckt-1
+2020-05-17,siddhirganj2120mwgtpp,0.72,4,Siddhirganj GT-1 & 2,19:01,22:06,fuel_supply,gas pressure low
+2021-02-14,siddhirganj2120mwgtpp,1.27,4,Siddhirganj 210 MW GT1 & GT2 both,07:23,,fuel_supply,GBC tripped
+2021-03-20,siddhirganj2120mwgtpp,1.42,4,Siddhirganj 210 MW GT,17:38,,fuel_supply,GBC problem
+2021-03-23,siddhirganj2120mwgtpp,0.68,4,Siddhirganj GT-1 & GT-2,23:38,02:14,fuel_supply,GBC problem
+2021-04-08,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,04:33,,unstated,
+2021-06-09,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-2,13:25,14:40,other,back feed failure
+2022-03-30,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,13:39,,control,problem of control system
+2022-05-05,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,05:50,,control,control system card problem
+2022-08-26,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,11:43,12:26,control,problem with control system and GT-2 was synchronized at 12:26
+2023-02-24,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-2,17:26,,unstated,
+2023-02-25,siddhirganj2120mwgtpp,0.67,4,Siddhirganj GT:Unit-1,08:49,,unstated,
+2023-05-02,siddhirganj2120mwgtpp,0.67,4,Siddhirganj GT:Unit- 2,09:47,,unstated,
+2023-05-06,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,15:16,,grid,siddhirganj-GT1 line tripped
+2023-06-21,siddhirganj2120mwgtpp,0.72,4,Siddhirganj GT-1&2,02:12,,fuel_supply,GBC trip
+2023-07-08,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,06:02,,control,control system card problem
+2023-07-16,siddhirganj2120mwgtpp,0.71,4,Siddirganj GT-1,06:00,,fuel_supply,gas pressure fluctuation
+2023-09-06,siddhirganj2120mwgtpp,1.36,4,- Siddhirgang 2x120 MW GT-1,5:29,,unstated,
+2023-10-04,siddhirganj2120mwgtpp,0.67,4,- Siddhirganj GT: Unit-1,2:34,,unstated,
+2025-10-14,siddhirganj2120mwgtpp,1.4,3,Siddhirganj 2x120 MW GT-2,04:34,,unstated,
+2020-01-13,siddhirganj335mwccpp,1.35,4,Siddhirganj 335 MW EGCB,05:47,07:25,fuel_supply,DP high and GT synchronized at 07:25(14/01/2020)
+2020-01-15,siddhirganj335mwccpp,1.34,4,Siddhirganj 335 MW ST,13:13,,cooling,vacuum pressure fall
+2020-02-02,siddhirganj335mwccpp,1.5,4,Siddhirganj 335 MW CCPP,11:59,15:52,turbine,gas turbine ventilation failure and GT & ST were synchronized at 15:52 & 18:37 respectively and again ST tripped at 03:51(03/02/2020) due to diverter damper trip
+2020-08-07,siddhirganj335mwccpp,1.39,4,Siddhirganj 335 MW,12:19,20:46,electrical,negative phase sequence & O/C
+2020-08-17,siddhirganj335mwccpp,1.34,4,Siddhirganj 335 MW ST,11:23,,turbine,hydraulic line fault
+2020-09-06,siddhirganj335mwccpp,1.35,4,Siddhirganj 335 MW EGCB,16:46,,other,steam temp high
+2020-09-28,siddhirganj335mwccpp,1.36,4,Siddirganj-335 MW,18:02,,turbine,exhaust temperature high
+2021-05-27,siddhirganj335mwccpp,1.39,4,Siddhirganj 335 MW,,17:57,electrical,CB open from Grid end
+2021-06-21,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP GT,06:27,,turbine,tripping of gas booster compressor
+2021-06-27,siddhirganj335mwccpp,1.39,4,Siddhirganj 335 MW,03:31,,control,communication card problem
+2021-06-28,siddhirganj335mwccpp,1.31,4,Siddhirganj 335 MW EGCB GT,15:24,,control,servo valve problem
+2021-06-30,siddhirganj335mwccpp,1.36,4,Siddirganj-335 MW,10:44,17:26,control,valve problem
+2021-07-28,siddhirganj335mwccpp,1.32,4,Siddhirganj 335 MW STG,19:51,,control,LP control V/V problem
+2021-07-31,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP ST,06:28,,boiler,problem with HP drum level control valve
+2021-10-22,siddhirganj335mwccpp,1.08,4,Siddirganj-335 MW CCPP GT was synchronized at 18:40 and,19:00,18:40,electrical,E/F relay
+2021-10-27,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP ST,08:35,,boiler,problem with drum level control valve
+2021-11-19,siddhirganj335mwccpp,0.97,4,"Siddhirganj 335 MW CCPP GT & ST were synchronize at 15:2,19:29 respectively and ST",21:12,,unstated,
+2022-03-24,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP GT,13:15,,electrical,grid CB problem
+2022-03-25,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP GT,13:30,,unstated,
+2022-04-12,siddhirganj335mwccpp,1.45,4,Siddhirganj 335 MW CCPP ST,04:55,,electrical,auxiliary failure
+2022-06-18,siddhirganj335mwccpp,1.34,4,Siddhirganj 335 MW ST,14:57,20:40,control,Valve problem
+2022-07-08,siddhirganj335mwccpp,1.47,4,Siddirganj-335 MW CCPP,21:46,,fuel_supply,tripping of GBC and GT & ST were synchronized at
+2022-10-08,siddhirganj335mwccpp,1.39,4,Siddhirganj 335 MW,08:39,09:40,unstated,
+2022-10-18,siddhirganj335mwccpp,1.43,4,Siddirganj-335 MW CCPP GT,16:12,17:25,other,problem with combustion
+2022-10-24,siddhirganj335mwccpp,1.34,4,Siddhirganj 335 MW GT,16:37,,electrical,line breaker trip
+2023-03-11,siddhirganj335mwccpp,1.3,4,Siddhirganj CCPP 335MW,08:58,,unstated,
+2023-04-16,siddhirganj335mwccpp,1.23,4,Siddirganj CCPP 335MW GT,10:17,,turbine,gas compressor trip
+2023-04-27,siddhirganj335mwccpp,1.27,4,- Siddirganj CCPP 335MW,2:20,,unstated,
+2023-06-09,siddhirganj335mwccpp,1.23,4,Siddirganj CCPP 335MW ST,12:09,,unstated,
+2023-06-13,siddhirganj335mwccpp,1.23,4,Siddirganj CCPP 335MW ST,15:07,,unstated,
+2023-06-13,siddhirganj335mwccpp,1.27,4,Siddirganj CCPP 335MW,21:56,,unstated,
+2023-06-28,siddhirganj335mwccpp,1.27,4,Siddirganj CCPP 335MW,13:44,,unstated,
+2023-07-01,siddhirganj335mwccpp,1.23,4,- Siddirganj CCPP 335MW ST,17:02,,unstated,
+2023-07-01,siddhirganj335mwccpp,1.23,4,- Siddirganj CCPP 335 MW ST,20:45,,unstated,
+2023-07-26,siddhirganj335mwccpp,1.27,4,Siddirganj CCPP 335MW,16:53,,unstated,
+2023-08-17,siddhirganj335mwccpp,1.27,4,Siddirganj CCPP 335MW,13:13,,unstated,
+2023-08-24,siddhirganj335mwccpp,1.27,4,- Siddirganj CCPP 335MW,9:41,,unstated,
+2023-08-26,siddhirganj335mwccpp,1.27,4,- Siddirganj CCPP 335MW,10:44,,electrical,exciter problem
+2023-08-30,siddhirganj335mwccpp,1.23,4,Siddirganj CCPP 335MW ST,06:54,,boiler,drum level low
+2023-09-20,siddhirganj335mwccpp,1.23,4,- Siddirganj CCPP 335MW ST,23:59,,cooling,high condenser pressure
+2023-10-09,siddhirganj335mwccpp,1.3,4,Siddhirganj CCPP 335MW,16:41,,control,an instrumental problem
+2023-10-25,siddhirganj335mwccpp,1.27,4,- Siddirganj CCPP 335MW,15:02,,fuel_supply,gas pressure fall
+2024-02-20,siddhirganj335mwccpp,1.5,4,Siddhirganj 335 MW CCPP,12:46,,grid,grid trip
+2024-03-13,siddhirganj335mwccpp,1.5,4,- Siddhirganj 335 MW CCPP,17:49,,other,"GT,ST"
+2024-03-21,siddhirganj335mwccpp,1.5,4,Siddhirganj 335 MW CCPP,12:37,,unstated,
+2024-03-23,siddhirganj335mwccpp,1.5,4,- Siddhirganj 335 MW CCPP,2:43,,unstated,
+2024-05-31,siddhirganj335mwccpp,1.5,4,- Siddhirganj 335 MW CCPP,2:46,,unstated,
+2024-05-31,siddhirganj335mwccpp,1.5,4,- Siddhirganj 335 MW CCPP,5:47,,unstated,
+2025-05-30,siddhirganj335mwccpp,1.3,3,Siddhirganj CCPP 335 MW,19:02,,turbine,gas turbine's exciter trip
+2025-09-12,siddhirganj335mwccpp,1.45,3,Siddhirganj 335 MW CCPP ST,22:33,,electrical,exciter alarm
+2026-02-22,siddhirganj335mwccpp,1.5,3,Siddhirganj 335 MW CCPP,02:08,,unstated,
+2026-02-26,siddhirganj335mwccpp,1.38,3,Siddhirgonj 335 MW CCPP STG,18:23,,unstated,
+2022-04-24,sikalbaha105mwppbaraka,0.62,1,"Sikalbaha 225 MW, KPL,Zodiac,Anlima, Baraka Sikalbaha also got",,,other,Above the reason
+2019-12-26,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,04:42,,fuel_supply,low gas pressure
+2020-01-19,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,20:21,22:30,fuel_supply,GBC problem and GT synchronized at 22:30
+2020-01-20,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,09:25,,electrical,HRSG protection tripping
+2020-01-23,sikalbaha225mw,0.57,3,Sikalbaha 220 MW GT,23:58,01:30,fuel_supply,low gas pressure
+2020-01-25,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,09:25,20:25,fuel_supply,gas booster tripping and GT was synchronized at 20:25
+2020-03-06,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,23:01,,fuel_supply,DP high
+2020-04-06,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,02:48,,other,Sikalbaha Ckt tripped
+2020-04-11,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,01:16,02:54,unstated,
+2020-08-23,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,14:37,,fuel_supply,gas valve problem
+2020-08-23,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,17:57,,fuel_supply,gas valve problem
+2020-09-12,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,09:38,12:03,fuel_supply,problem with GBC
+2020-09-14,sikalbaha225mw,1.5,3,Sikalbaha-225 MW,05:47,,cooling,cooling water pump trip
+2020-10-15,sikalbaha225mw,1.3,3,Sikalbaha 225 MW CCPP STG,12:50,16:42,boiler,BFP trip
+2020-12-25,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,14:12,,fuel_supply,GBC problem
+2020-12-28,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,15:00,17:12,fuel_supply,problem with GBC
+2022-03-19,sikalbaha225mw,0.94,3,Sikalbaha 225 MW CCPP STG was synchronized at 17:20 and again,18:21,17:20,unstated,
+2022-09-25,sikalbaha225mw,1.43,3,Sikalbaha 225 MW GT,11:35,14:51,fuel_supply,GBC problem
+2022-10-20,sikalbaha225mw,1.5,3,Sikalbaha 225 MW,10:31,,other,problem at thermo couple
+2022-10-23,sikalbaha225mw,1.5,3,Sikalbaha-225 MW,10:52,15:02,electrical,E/F relay
+2022-12-15,sikalbaha225mw,1.35,3,Sikalbaha Gas 225MW GT,02:05,,unstated,
+2022-12-26,sikalbaha225mw,1.43,3,Sikalbaha 225MW ST,14:05,,unstated,
+2023-01-26,sikalbaha225mw,1.43,3,Sikalbaha 225MW GT,10:07,,unstated,
+2023-02-20,sikalbaha225mw,1.43,3,Sikalbaha 225MW ST,00:41,,unstated,
+2023-02-20,sikalbaha225mw,1.43,3,Sikalbaha 225MW GT,01:47,,unstated,
+2023-06-28,sikalbaha225mw,1.35,3,Sikalbaha Gas 225MW ST,03:04,,unstated,
+2023-06-28,sikalbaha225mw,1.35,3,Sikalbaha Gas 225MW ST,08:35,,unstated,
+2023-06-28,sikalbaha225mw,1.35,3,Sikalbaha Gas 225MW GT,09:32,,unstated,
+2023-07-02,sikalbaha225mw,1.43,3,Sikalbaha 225MW ST,16:46,,unstated,
+2023-07-04,sikalbaha225mw,1.43,3,Sikalbaha 225MW ST,18:39,,unstated,
+2023-11-28,sikalbaha225mw,1.38,3,Sikalbaha 225MW CCPP,11:04,,unstated,
+2024-01-02,sikalbaha225mw,1.3,3,Sikalbaha Gas 225 MW GT & ST,01:11,,fuel_supply,GBC trip
+2024-01-06,sikalbaha225mw,1.38,3,Sikalbaha 225MW CCPP,19:53,,unstated,
+2024-01-06,sikalbaha225mw,1.35,3,Sikalbaha Gas 225 MW ST,19:55,,unstated,
+2024-05-07,sikalbaha225mw,1.35,3,- Sikalbaha Gas 225 MW GT,11:22,,control,problem in gas detection valve
+2024-05-23,sikalbaha225mw,1.38,3,Sikalbaha 225MW CCPP,08:45,,unstated,
+2024-05-27,sikalbaha225mw,1.38,3,- Sikalbaha 225MW CCPP,9:29,,unstated,
+2025-01-05,sikalbaha225mw,1.35,3,Shikalbaha 225 MW CCPP,10:04,,unstated,
+2025-10-04,sikalbaha225mw,1.43,3,Sikalbaha 225 MW ST,03:18,,unstated,
+2025-10-12,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,12:49,,unstated,
+2025-11-11,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,05:52,,fuel_supply,GBC problem
+2025-11-20,sikalbaha225mw,1.3,3,Shikalbaha 225 MW CCPP ST,15:55,,unstated,
+2026-02-26,sikalbaha225mw,1.35,3,Shikalbaha 225 MW CCPP,07:53,,turbine,air compressor problem
+2026-07-20,sikalbaha225mw,1.38,3,Sikalbaha 225 MW CCPP,17:12,,other,HRSG trip
+2026-08-14,sikalbaha225mw,1.3,3,Shikalbaha 225 MW CCPP ST,19:40,,unstated,
+2019-10-28,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,16:00,16:36,fuel_supply,gas pressure low
+2019-10-29,sikalbahapeakinggt,1.06,3,Sikalbaha-150 MW,00:38,01:58,fuel_supply,gas pressure low
+2019-11-09,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,09:28,11:30,cooling,cooling temperature high
+2019-11-23,sikalbahapeakinggt,1.15,3,Sikalbaha-150 MW GT,10:48,11:10,electrical,E/F relay
+2020-01-23,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,10:35,13:04,unstated,
+2020-03-18,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,15:50,17:05,fuel_supply,problem with fuel supply system
+2020-05-07,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,11:03,12:53,other,IGV problem
+2020-05-19,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,13:01,14:13,control,IGB control system problem
+2020-06-26,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,23:47,03:24,other,problem with inlet guide vane
+2020-07-21,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,09:18,,unstated,
+2020-08-16,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,,,electrical,generator problem
+2020-09-02,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,10:10,10:57,unstated,
+2021-06-01,sikalbahapeakinggt,0.88,3,Sikalbaha 150 MW GT was synchronized at 17:34 and,,17:34,unstated,
+2021-06-01,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,02:02,04:05,electrical,excitation problem
+2021-06-19,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,05:01,,unstated,
+2021-06-30,sikalbahapeakinggt,1.06,3,Sikalbaha-150 MW,02:56,05:58,electrical,tripping of auxiliary transformer
+2021-08-05,sikalbahapeakinggt,1.15,3,Sikalbaha 150 MW GT,11:55,,fuel_supply,booster problem
+2023-10-08,sikalbahapeakinggt,1.13,3,Shikalbaha 150 MW GT,13:31,,unstated,
+2020-06-04,sirajganj400mwccppunit4,0.76,1,Sirajganj unit-4,16:25,21:03,fuel_supply,gas booster tripping
+2020-10-14,sirajganj400mwccppunit4,0.76,1,Sirajganj unit-4,17:52,20:22,fuel_supply,problem with gas supply and GT was synchronized at 20:22 and ST was synchronized at 21:31
+2020-10-29,sirajganj400mwccppunit4,0.65,1,Sirajganj unit-4 CCPP ST,05:37,,boiler,tripping of boiler
+2021-04-05,sirajganj400mwccppunit4,0.77,4,Sirajganj #4 CCPP GT,21:31,,unstated,
+2021-07-12,sirajganj400mwccppunit4,0.76,1,Sirajganj Unit-4,05:20,,other,electrical fault at GT
+2021-11-14,sirajganj400mwccppunit4,0.72,5,Sirajganj #2 CCPP ST,10:02,17:03,unstated,
+2022-06-17,sirajganj400mwccppunit4,0.76,1,Sirajganj unit-4,11:54,16:49,fuel_supply,GBC problem and GT was synchronized at 16:49 & ST at 18:25
+2022-08-09,sirajganj400mwccppunit4,0.72,5,Sirajganj #2 CCPP ST,16:56,,boiler,problem with feed water valve
+2022-09-13,sirajganj400mwccppunit4,0.72,5,Sirajganj #2 CCPP ST,18:39,23:48,boiler,drum level high
+2022-11-07,sirajganj400mwccppunit4,0.72,5,Sirajganj #1 CCPP ST,14:06,15:35,turbine,low pressure control valve of steam turbine closed
+2022-12-14,sirajganj400mwccppunit4,0.7,1,Sirajgonj unit#4,10:36,,other,combustion chamber pressure fluctuation 400MW generation interrup
+2023-03-09,sirajganj400mwccppunit4,0.7,1,- Sirajgonj Unit-4,17:09,,unstated,
+2024-02-01,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,03:40,,unstated,
+2024-05-14,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,12:21,,fuel_supply,GBC trip
+2025-03-17,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,21:09,,unstated,
+2025-06-17,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,10:00,,unstated,
+2026-03-16,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,05:42,,unstated,
+2026-10-27,sirajganj400mwccppunit4,1.46,1,Sirajgonj 400 MW CCPP Unit-4,12:41,,unstated,
+2019-11-27,sirajganjunit1225mw,0.85,1,Sirajganj unit-1,19:59,,other,internal fault
+2020-01-14,sirajganjunit1225mw,0.85,1,Sirajganj unit-1,22:15,,other,high inter pressure
+2020-11-01,sirajganjunit1225mw,0.85,1,Sirajganj unit-1,20:00,21:03,fuel_supply,booster trip and GT was synchronized at 21:03
+2021-04-18,sirajganjunit1225mw,0.8,1,Sirajganj unit-1 GT,01:20,,turbine,GT Compressor valve malfunction
+2021-09-01,sirajganjunit1225mw,0.8,1,Sirajganj unit-1 GT,17:28,18:43,fuel_supply,GBC problem
+2022-04-20,sirajganjunit1225mw,0.85,1,Sirajganj unit-1,14:24,15:01,unstated,
+2022-04-25,sirajganjunit1225mw,0.85,1,Sirajganj unit-1,,15:03,fuel_supply,"GBC problem and GT & ST were synchronized at 15:03, 16:45 respectively"
+2022-04-30,sirajganjunit1225mw,0.85,1,Sirajganj Unit-1,06:27,08:06,fuel_supply,GBC problem and GT was synchronized at 08:06(01/05/2022)
+2022-12-13,sirajganjunit1225mw,0.74,1,Sirajgonj Unit-1 ST,17:20,,unstated,
+2022-12-28,sirajganjunit1225mw,0.85,1,- Sirajganj Unit-1,6:22,,fuel_supply,dp high
+2023-06-13,sirajganjunit1225mw,0.74,1,Sirajgonj Unit-1 ST,19:24,,unstated,
+2025-03-15,sirajganjunit1225mw,0.8,1,Sirajganj Unit-1 ST,11:43,,unstated,
+2025-05-26,sirajganjunit1225mw,0.85,1,Sirajganj Unit-1,02:11,,unstated,
+2025-06-11,sirajganjunit1225mw,1.12,1,Sirajgonj 225MW CCPP Unit-1,00:33,,unstated,
+2025-11-21,sirajganjunit1225mw,1.12,1,Sirajgonj 225MW CCPP Unit-1,10:46,,unstated,
+2026-05-16,sirajganjunit1225mw,1.12,1,Sirajgonj 225MW CCPP Unit-1,02:20,,unstated,
+2026-05-25,sirajganjunit1225mw,1.12,1,Sirajgonj 225MW CCPP Unit-1,02:45,,unstated,
+2026-07-07,sirajganjunit1225mw,1.12,1,Sirajgonj 225MW CCPP Unit-1,09:54,,unstated,
+2026-09-21,sirajganjunit1225mw,0.89,1,Sirajgonj 225MW CCPP Unit-1 Synchronized with remarks:- ST,14:40,,unstated,
+2020-05-04,sirajganjunit2225mw,0.62,4,Sirajganj #01 ST,11:46,,turbine,Shaft vibration
+2020-08-05,sirajganjunit2225mw,0.8,1,Sirajganj unit-2 ST,11:11,15:16,other,damper problem
+2020-09-17,sirajganjunit2225mw,0.85,1,Sirajganj unit-2,12:23,15:56,control,problem with temperature sensor of Gt
+2020-11-03,sirajganjunit2225mw,0.65,4,Sirajganj #1 GT,07:33,,fuel_supply,gas booster problem
+2020-12-07,sirajganjunit2225mw,0.85,1,Sirajganj unit-2,12:18,,electrical,GT protection failure
+2021-07-30,sirajganjunit2225mw,0.65,5,Sirajganj #2 GT,11:44,12:23,electrical,E/F relay
+2021-08-08,sirajganjunit2225mw,0.76,1,Sirajganj Unit-2 CCPP,00:31,,other,tripping of GBS and GT was synchronized at
+2021-12-08,sirajganjunit2225mw,0.65,5,Sirajganj #1 GT,13:33,14:07,fuel_supply,gas booster problem
+2022-02-08,sirajganjunit2225mw,0.62,5,Sirajganj #03 ST,12:55,,unstated,
+2023-05-25,sirajganjunit2225mw,1.18,1,Sirajgonj 225MW Unit-2,22:04,,unstated,
+2023-07-24,sirajganjunit2225mw,0.85,1,Sirajganj Unit-2,12:35,,fuel_supply,fuel strainer jam 115MW generation interrup
+2025-04-04,sirajganjunit2225mw,1.09,1,Sirajgonj 225MW CCPP Unit-2 GT,22:04,,other,None
+2025-04-07,sirajganjunit2225mw,1.12,1,Sirajgonj 225MW CCPP Unit-2,12:04,,unstated,
+2026-08-29,sirajganjunit2225mw,1.12,1,Sirajgonj 225MW CCPP Unit-2,15:24,,unstated,
+2026-08-29,sirajganjunit2225mw,1.12,1,Sirajgonj 225MW CCPP Unit-2,15:31,,unstated,
+2020-09-11,sirajganjunit3225mw,0.76,1,Sirajganj unit-3 CCPP,16:14,20:23,other,Auxiliary supply failure and GT was synchronized at 20:23
+2021-09-03,sirajganjunit3225mw,0.8,1,Sirajganj unit-3 ST,12:53,01:43,unstated,
+2022-04-15,sirajganjunit3225mw,0.85,1,Sirajganj unit-3,09:43,,control,gas detection signal activated
+2022-07-03,sirajganjunit3225mw,0.85,1,Sirajganj Unit-3,07:28,,unstated,
+2023-01-30,sirajganjunit3225mw,0.85,1,Sirajganj unit-3,10:55,,unstated,
+2023-09-08,sirajganjunit3225mw,1.29,5,Sirajganj-3 225 MW PP ST,04:24,,unstated,
+2025-07-03,sirajganjunit3225mw,1.09,1,Sirajgonj 225MW CCPP Unit-3 ST,01:32,,other,Due to malfunction at HRSG Diverter Damper Emergency Trip System
+2026-07-20,sirajganjunit3225mw,1.14,1,Sirajganj 225 MW CCPP unit-3 ST,14:43,,unstated,
+2023-06-06,sspower,0.74,1,SS power Unit-1,10:55,,electrical,generator protection operated
+2023-06-30,sspower,0.74,1,SS Power unit-2,14:14,,turbine,vibration high
+2023-06-30,sspower,0.81,1,SS Power unit-2 and Rampal 1320 MW (BIFPCL) unit-1,20:43,,unstated,
+2023-07-01,sspower,0.74,1,- SS Power unit-2,9:16,,other,feed pump trip
+2023-07-02,sspower,0.74,1,SS Power Unit-2,08:46,,boiler,the feed water pump flow being low
+2025-05-28,sspower,0.74,1,SS Power Unit-1,17:50,,electrical,rotor earth fault
+2026-01-29,sspower,0.74,1,SS Power Unit-2,09:40,,unstated,
+2023-11-14,sylhet10mwppdesh,1.5,4,Sylhet 10MW PP (Desh),10:29,,other,Boroikandi feeder trip
+2023-11-27,sylhet10mwppdesh,1.5,4,Sylhet 10MW PP (Desh),17:19,,electrical,Generator protection relay trip
+2023-12-15,sylhet10mwppdesh,1.5,4,Sylhet 10MW PP (Desh),19:26,,grid,Grid side feeder trip
+2023-12-19,sylhet10mwppdesh,1.5,4,- Sylhet 10MW PP (Desh),9:41,,grid,Grid side feeder trip
+2023-12-21,sylhet10mwppdesh,1.5,4,Sylhet 10MW PP (Desh),12:10,,grid,Grid side feeder trip
+2023-12-22,sylhet10mwppdesh,1.5,4,Sylhet 10MW PP (Desh),15:22,,grid,Grid side feeder trip
+2023-12-29,sylhet10mwppdesh,1.5,4,- Sylhet 10MW PP (Desh),11:50,,grid,Grid side feeder trip
+2020-01-15,sylhet150mwccpp,1.29,4,Sylhet 150 MW GT,14:35,15:40,fuel_supply,gas concentration alarm
+2020-01-24,sylhet150mwccpp,1.29,4,Sylhet 150 MW GT,21:30,22:30,fuel_supply,low gas pressure
+2020-02-07,sylhet150mwccpp,1.35,4,Sylhet 150 MW,07:27,,electrical,Generator protection trip
+2020-02-08,sylhet150mwccpp,0.99,4,Sylhet 150 MW GT synchronized at 12:53 and,07:25,12:53,unstated,
+2020-02-18,sylhet150mwccpp,1.35,4,Sylhet 150 MW,17:35,,unstated,
+2020-02-20,sylhet150mwccpp,1.29,4,Sylhet 150 MW GT,02:18,03:26,electrical,generator protection
+2020-02-21,sylhet150mwccpp,1.35,4,Sylhet 150 MW,12:19,,electrical,generator protection
+2020-02-22,sylhet150mwccpp,1.35,4,Sylhet 150 MW,20:01,,electrical,generator protection
+2020-02-23,sylhet150mwccpp,1.35,4,Sylhet 150 MW,15:18,,electrical,generator protection
+2020-03-19,sylhet150mwccpp,0.57,4,Sylhet 225 MW CCPP,10:39,14:29,boiler,Flame failure and GT was synchronized at 14:29 and ST was synchronized at 16:30
+2020-03-22,sylhet150mwccpp,0.57,4,Sylhet 225 MW CCPP,09:14,21:06,boiler,failure of Flame
+2020-04-20,sylhet150mwccpp,1.29,4,Sylhet 150 MW GT,11:48,17:55,electrical,tripping of unit transformer
+2020-04-21,sylhet150mwccpp,1.35,4,Sylhet-150 MW,05:45,,other,auto transformer trip
+2020-05-26,sylhet150mwccpp,1.44,4,Sylhet 150 MW CCPP GT,20:35,,electrical,generator protection trip
+2020-05-27,sylhet150mwccpp,1.29,4,Sylhet 150 MW GT,21:55,02:54,turbine,turbine ventilation fan problem
+2020-07-21,sylhet225mwccpp,1.35,4,Sylhet 225 MW,19:22,20:22,control,DCS problem
+2020-07-24,sylhet225mwccpp,1.29,4,Sylhet 225 MW ST,18:46,,other,steam line leakage
+2020-07-29,sylhet225mwccpp,1.35,4,Sylhet-225 MW,18:56,21:14,electrical,voltage E/F relay
+2020-09-23,sylhet225mwccpp,1.35,4,Sylhet-225 MW,07:47,,electrical,E/F relay
+2020-10-14,sylhet225mwccpp,0.74,4,Sylhet CCPP ST,15:12,,boiler,tripping of boiler
+2020-10-14,sylhet225mwccpp,0.74,4,Sylhet CCPP GT,16:20,,electrical,tripping of unit transformer
+2020-10-16,sylhet225mwccpp,1.07,4,Sylhet 225 MW CCPP GT synchronized at 18:35 and,19:28,18:35,unstated,
+2020-12-09,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,10:22,14:39,other,Gen
+2021-03-09,sylhet225mwccpp,1.35,4,Sylhet 225 MW,12:19,,electrical,voltage E/F & Gen
+2021-03-26,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,09:31,11:42,boiler,flame failure
+2021-05-07,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,16:35,19:52,unstated,
+2021-05-21,sylhet225mwccpp,1.35,4,Sylhet-225 MW,03:34,,electrical,E/F relay
+2021-05-22,sylhet225mwccpp,1.29,4,Sylhet 225 MW GT,15:20,17:48,unstated,
+2021-08-18,sylhet225mwccpp,1.44,4,Sylhet-225 MW CCPP ST,10:56,,electrical,E/F relay
+2021-10-01,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,23:17,,control,problem with control system
+2021-10-02,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP GT,07:01,,electrical,generator protection operated
+2021-10-05,sylhet225mwccpp,1.5,4,Sylhet-225 MW CCPP,23:37,,electrical,E/F relay
+2021-11-15,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,03:35,,electrical,differential pressure high
+2022-04-08,sylhet225mwccpp,1.41,4,Sylhet 225 MW CCPP STG,17:35,,unstated,
+2022-04-13,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP ST,19:54,,unstated,
+2022-04-18,sylhet225mwccpp,0.74,4,Sylhet CCPP ST,19:35,,turbine,turbine vibration high
+2022-07-04,sylhet225mwccpp,1.35,4,sylhet-225 MW,00:07,02:32,electrical,E/F relay
+2022-07-05,sylhet225mwccpp,0.99,4,Sylhet 225 MW GT synchronized at 12:26 and,12:40,12:26,unstated,
+2022-10-14,sylhet225mwccpp,1.35,4,Sylhet 225 MW,15:00,16:45,control,DCS trip and GT was synchronized at 16:45
+2022-11-02,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP GT,17:24,,fuel_supply,tripping of GBC
+2022-11-04,sylhet225mwccpp,1.29,4,Sylhet 225 MW GT,04:55,,fuel_supply,GBC trip
+2023-01-24,sylhet225mwccpp,1.23,4,Sylhet CCPP 225 MW,03:44,,unstated,
+2023-02-19,sylhet225mwccpp,1.23,4,Sylhet CCPP 225 MW,14:58,,unstated,
+2023-04-27,sylhet225mwccpp,1.23,4,- Sylhet CCPP 225 MW,12:08,,unstated,
+2023-04-27,sylhet225mwccpp,1.19,4,- Sylhet CCPP 225 MW GT,19:14,,fuel_supply,booster trip
+2023-05-18,sylhet225mwccpp,1.23,4,- Sylhet CCPP 225 MW,08:01,,unstated,
+2023-06-11,sylhet225mwccpp,1.23,4,Sylhet CCPP 225 MW,19:54,,fuel_supply,gas booster trip
+2023-06-20,sylhet225mwccpp,1.23,4,Sylhet CCPP 225 MW,18:56,,control,DCS failure
+2023-07-03,sylhet225mwccpp,1.23,4,- Sylhet CCPP 225 MW,15:22,,unstated,
+2023-07-25,sylhet225mwccpp,1.19,4,Sylhet CCPP 225 MW GT,11:45,,electrical,generator 115 MW generation interrup
+2023-07-31,sylhet225mwccpp,1.23,4,Sylhet CCPP 225 MW,13:40,,boiler,GT flame failure
+2023-08-20,sylhet225mwccpp,1.29,4,Sylhet 225 MW ST,12:45,,unstated,
+2023-10-24,sylhet225mwccpp,1.19,4,Sylhet CCPP 225 MW ST,05:58,,turbine,a generator bearing problem
+2024-01-14,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP ST,11:08,,unstated,
+2024-02-23,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,13:15,,unstated,
+2024-03-02,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,03:48,,unstated,
+2024-03-12,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,19:30,,unstated,
+2024-03-25,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP GT,01:36,,unstated,
+2024-03-30,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,07:10,,unstated,
+2024-04-02,sylhet225mwccpp,1.5,4,- Sylhet 225 MW CCPP,13:11,,unstated,
+2024-04-03,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,16:30,,unstated,
+2024-04-03,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,21:30,,unstated,
+2024-04-03,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,2:02,,unstated,
+2024-05-04,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,19:42,,unstated,
+2024-05-04,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,19:43,,other,GT 94 MW load interrup
+2024-06-20,sylhet225mwccpp,1.5,4,Sylhet 225 MW CCPP,05:48,,unstated,
+2025-01-09,sylhet225mwccpp,1.23,2,Sylhet CCPP 225 MW,12:43,,boiler,a flame failure
+2025-01-24,sylhet225mwccpp,1.23,2,Sylhet CCPP 225 MW,15:48,,control,tripping of Governing Valve
+2025-05-26,sylhet225mwccpp,1.23,2,Sylhet CCPP 225 MW,02:45,,unstated,
+2025-06-08,sylhet225mwccpp,1.23,2,Sylhet CCPP 225 MW,11:41,,unstated,
+2026-04-16,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,09:08,,electrical,generator protection relay
+2026-07-17,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,00:43,,electrical,transformer protection signal
+2026-09-13,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,12:48,,unstated,
+2026-09-18,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,13:26,,unstated,
+2026-09-22,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,04:34,,unstated,
+2026-09-24,sylhet225mwccpp,1.44,2,Sylhet 225 MW CCPP GT,15:11,,boiler,GT Trip Due To Flame Failure
+2026-10-14,sylhet225mwccpp,1.44,2,Sylhet 225 MW CCPP GT,15:44,,other,None
+2026-10-20,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,05:51,,boiler,GT due to Flame Failure
+2026-10-25,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,11:47,,unstated,
+2026-11-04,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,06:19,,boiler,GT due to Flame Failure
+2023-11-27,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,07:07,,grid,Panchagarh to Tetulia 33 KV grid line tripped
+2023-11-27,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,10:27,,grid,Panchagarh to Tetulia 33 KV grid line tripped
+2023-12-11,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,14:57,,grid,Panchagarh to Tetulia 33 KV grid line tripped
+2023-12-13,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,10:35,,grid,Panchagarh to Tetulia 33 KV grid line tripped
+2023-12-17,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,10:36,,grid,Panchagarh to Tetulia 33 KV grid line tripped
+2023-12-22,sympasolarpower8mw,1.0,1,Sympa Solar Power 8 MW,06:41,,grid,Panchagarh to Tetulia 33 KV grid line tripped due to maintenance work in Purbo Sadipur 132 KV grid line
+2023-06-04,tongi80mwgtpp,1.25,1,Tongi GT 80 MW,09:18,,turbine,high exhaust temperature
+2023-06-05,tongi80mwgtpp,1.25,1,Tongi GT 80MW,18:45,,unstated,
+2023-11-25,ullapara11mwppsummit,1.9,1,Ullapara 11 MW PP (Summit),09:05,,unstated,
+2023-12-07,ullapara11mwppsummit,1.9,1,Ullapara 11 MW PP (Summit),17:23,,unstated,
+2023-12-11,ullapara11mwppsummit,1.9,1,Ullapara 11 MW PP (Summit),08:40,,unstated,
+2023-12-11,ullapara11mwppsummit,1.9,1,Ullapara 11 MW PP (Summit),17:15,,unstated,
+2023-12-13,ullapara11mwppsummit,1.9,1,Ullapara 11 MW PP (Summit),11:05,,unstated,
+2023-10-26,uniquemeghnaghatpowerumpl,1.71,1,Unique Meghnaghat Power 584 MW CCPP GT,09:55,,unstated,
+2023-10-31,uniquemeghnaghatpowerumpl,1.04,1,Meghnaghat Unique Power CCPP,13:00,,unstated,
+2024-04-14,uniquemeghnaghatpowerumpl,0.91,1,Meghnaghat Unique CCPP ST,12:42,,control,problem with control system
+2024-05-30,uniquemeghnaghatpowerumpl,1.01,1,Unique Meghnaghat Power Limited (UMPL) Synchronized with remarks:- ST,22:19,,unstated,
+2025-01-01,uniquemeghnaghatpowerumpl,1.13,1,Unique Meghnaghat STG,09:35,,unstated,
+2025-01-02,uniquemeghnaghatpowerumpl,1.74,1,Unique Meghnaghat Power 584 MW CCPP,02:28,,unstated,
+2025-01-06,uniquemeghnaghatpowerumpl,1.71,1,Unique Meghnaghat Power 584 MW CCPP ST,15:21,,unstated,
+2025-06-06,uniquemeghnaghatpowerumpl,1.25,1,Unique Meghnaghat Power Limited (UMPL) ST,19:15,,cooling,Condenser Hotwell level High High
+2025-06-24,uniquemeghnaghatpowerumpl,1.01,1,Unique Meghnaghat Power Limited (UMPL) Synchronized with remarks:- ST,21:13,,unstated,
+2020-12-28,unitedpayrapower,0.84,1,Payra united,04:42,,grid,high voltage

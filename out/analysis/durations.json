@@ -1,0 +1,280 @@
+{
+ "n_spells": 773,
+ "medians": {
+  "class": [
+   {
+    "maint_class": "forced",
+    "count": 339,
+    "median": 2.0,
+    "mean": 39.2
+   },
+   {
+    "maint_class": "maint_unspecified",
+    "count": 434,
+    "median": 4.0,
+    "mean": 14.2
+   }
+  ],
+  "tech": [
+   {
+    "tech": "ccgt",
+    "count": 430,
+    "median": 4.0,
+    "mean": 16.9
+   },
+   {
+    "tech": "gas_turbine",
+    "count": 250,
+    "median": 2.0,
+    "mean": 40.3
+   },
+   {
+    "tech": "steam",
+    "count": 93,
+    "median": 6.0,
+    "mean": 22.4
+   }
+  ],
+  "owner": [
+   {
+    "owner": "private",
+    "count": 69,
+    "median": 3.0,
+    "mean": 10.1
+   },
+   {
+    "owner": "public",
+    "count": 695,
+    "median": 3.0,
+    "mean": 26.9
+   },
+   {
+    "owner": "public_jv",
+    "count": 9,
+    "median": 3.0,
+    "mean": 3.0
+   }
+  ],
+  "trip_initiated": [
+   {
+    "trip_initiated": 0,
+    "count": 719,
+    "median": 3.0,
+    "mean": 23.3
+   },
+   {
+    "trip_initiated": 1,
+    "count": 54,
+    "median": 3.0,
+    "mean": 48.8
+   }
+  ]
+ },
+ "cox_return_hazard": {
+  "tech_gas_turbine": {
+   "hr": 0.982,
+   "se": 0.209,
+   "p": 0.931
+  },
+  "tech_steam": {
+   "hr": 0.719,
+   "se": 0.178,
+   "p": 0.063
+  },
+  "maint_class_maint_unspecified": {
+   "hr": 0.891,
+   "se": 0.113,
+   "p": 0.305
+  },
+  "year_2020": {
+   "hr": 1.12,
+   "se": 0.114,
+   "p": 0.319
+  },
+  "year_2021": {
+   "hr": 1.49,
+   "se": 0.11,
+   "p": 0.0
+  },
+  "year_2022": {
+   "hr": 1.354,
+   "se": 0.155,
+   "p": 0.05
+  },
+  "year_2023": {
+   "hr": 1.22,
+   "se": 0.13,
+   "p": 0.125
+  },
+  "year_2024": {
+   "hr": 1.124,
+   "se": 0.134,
+   "p": 0.383
+  },
+  "private": {
+   "hr": 1.219,
+   "se": 0.113,
+   "p": 0.081
+  },
+  "old": {
+   "hr": 0.721,
+   "se": 0.145,
+   "p": 0.024
+  },
+  "new": {
+   "hr": 0.903,
+   "se": 0.118,
+   "p": 0.387
+  },
+  "age_missing": {
+   "hr": 0.396,
+   "se": 0.19,
+   "p": 0.0
+  },
+  "logcap": {
+   "hr": 0.788,
+   "se": 0.102,
+   "p": 0.019
+  }
+ },
+ "trip_resync_hours": [
+  {
+   "tech": "ccgt",
+   "count": 206,
+   "median": 2.75,
+   "mean": 3.39
+  },
+  {
+   "tech": "gas_turbine",
+   "count": 21,
+   "median": 1.43,
+   "mean": 1.66
+  },
+  {
+   "tech": "hydro",
+   "count": 4,
+   "median": 0.61,
+   "mean": 1.03
+  },
+  {
+   "tech": "import",
+   "count": 0,
+   "median": NaN,
+   "mean": NaN
+  },
+  {
+   "tech": "recip_engine",
+   "count": 22,
+   "median": 0.77,
+   "mean": 1.17
+  },
+  {
+   "tech": "solar",
+   "count": 0,
+   "median": NaN,
+   "mean": NaN
+  },
+  {
+   "tech": "steam",
+   "count": 20,
+   "median": 3.78,
+   "mean": 3.48
+  },
+  {
+   "tech": "unknown",
+   "count": 0,
+   "median": NaN,
+   "mean": NaN
+  }
+ ],
+ "trip_causes_by_tech": {
+  "ccgt": {
+   "boiler": 35,
+   "control": 41,
+   "cooling": 15,
+   "electrical": 86,
+   "fuel_supply": 163,
+   "grid": 28,
+   "other": 105,
+   "turbine": 53,
+   "unstated": 503
+  },
+  "gas_turbine": {
+   "boiler": 1,
+   "control": 7,
+   "cooling": 2,
+   "electrical": 10,
+   "fuel_supply": 19,
+   "grid": 2,
+   "other": 4,
+   "turbine": 3,
+   "unstated": 21
+  },
+  "hydro": {
+   "boiler": 0,
+   "control": 0,
+   "cooling": 0,
+   "electrical": 2,
+   "fuel_supply": 1,
+   "grid": 0,
+   "other": 1,
+   "turbine": 1,
+   "unstated": 4
+  },
+  "import": {
+   "boiler": 2,
+   "control": 0,
+   "cooling": 0,
+   "electrical": 0,
+   "fuel_supply": 0,
+   "grid": 2,
+   "other": 0,
+   "turbine": 4,
+   "unstated": 12
+  },
+  "recip_engine": {
+   "boiler": 0,
+   "control": 1,
+   "cooling": 0,
+   "electrical": 11,
+   "fuel_supply": 3,
+   "grid": 19,
+   "other": 15,
+   "turbine": 1,
+   "unstated": 88
+  },
+  "solar": {
+   "boiler": 0,
+   "control": 0,
+   "cooling": 0,
+   "electrical": 0,
+   "fuel_supply": 0,
+   "grid": 6,
+   "other": 0,
+   "turbine": 0,
+   "unstated": 6
+  },
+  "steam": {
+   "boiler": 19,
+   "control": 0,
+   "cooling": 5,
+   "electrical": 11,
+   "fuel_supply": 2,
+   "grid": 2,
+   "other": 16,
+   "turbine": 7,
+   "unstated": 102
+  },
+  "unknown": {
+   "boiler": 0,
+   "control": 0,
+   "cooling": 0,
+   "electrical": 0,
+   "fuel_supply": 0,
+   "grid": 0,
+   "other": 1,
+   "turbine": 0,
+   "unstated": 0
+  }
+ }
+}

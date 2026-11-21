@@ -1,0 +1,61 @@
+{
+ "panel_rows": 409029,
+ "thermal_rows_2019_24": 258986,
+ "share_with_weather": 0.999,
+ "share_with_age": 0.811,
+ "dhaka_tmax_report_vs_power": {
+  "n": 662,
+  "corr": 0.815,
+  "mean_report": 32.1,
+  "mean_power": 30.7
+ },
+ "by_tmax_bin_given_ran_yesterday": {
+  "0-27C": {
+   "unit_days": 41669,
+   "forced_onset_per_1000": 2.95,
+   "trips_per_1000": 5.69
+  },
+  "27-30C": {
+   "unit_days": 36649,
+   "forced_onset_per_1000": 2.65,
+   "trips_per_1000": 5.1
+  },
+  "30-33C": {
+   "unit_days": 69959,
+   "forced_onset_per_1000": 2.04,
+   "trips_per_1000": 4.59
+  },
+  "33-36C": {
+   "unit_days": 21250,
+   "forced_onset_per_1000": 2.21,
+   "trips_per_1000": 5.6
+  },
+  "36-50C": {
+   "unit_days": 13000,
+   "forced_onset_per_1000": 2.62,
+   "trips_per_1000": 5.85
+  }
+ },
+ "by_age_running_or_forced_days": {
+  "age 0-5": {
+   "unit_days": 59954,
+   "daily_FOR": 0.0263,
+   "trips_per_unit_year": 2.06
+  },
+  "age 5-10": {
+   "unit_days": 53957,
+   "daily_FOR": 0.0251,
+   "trips_per_unit_year": 2.42
+  },
+  "age 10-20": {
+   "unit_days": 34619,
+   "daily_FOR": 0.0937,
+   "trips_per_unit_year": 1.45
+  },
+  "age 20-70": {
+   "unit_days": 7867,
+   "daily_FOR": 0.082,
+   "trips_per_unit_year": 2.51
+  }
+ }
+}

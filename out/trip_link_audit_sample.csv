@@ -1,0 +1,101 @@
+op_date,unit_id,link_sim,n_cands,plant,trip_time,sync_time,cause_cat,cause,audit
+2023-03-07,bholanutanbiddutbd,0.71,4,Bhola Natun Biddut BD LTD (GAS) GT2,04:58,,unstated,,correct
+2020-01-22,bhola225mwccpp,1.33,3,Bhola-225 MW,15:13,19:10,unstated,,correct
+2020-07-08,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,11:30,11:45,unstated,,correct
+2023-05-02,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225MW,08:57,,unstated,,correct
+2026-01-27,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),17:22,,unstated,,correct
+2019-12-19,ghorasaltppunit5,0.8,7,Ghorashal Unit-3,22:02,,control,problem with blow off valve,wrong: Ghorashal Unit-3 linked to Unit-5
+2023-04-12,ashuganj450mwccppsouth,1.52,12,Ashuganj South 360MW ST,14:03,,unstated,,correct
+2020-10-19,kushiara163mwccppkp,0.55,1,Kushiara GT,15:26,16:43,unstated,,correct
+2025-03-17,ghorasal365mwccppunit7,0.81,5,Ghorasal Unit-7 365 MW was forced shutdown at 10:48 hrs due to air compressor,10:48,,unstated,,correct
+2020-02-07,ashuganjtppunit5,0.9,11,Ashuganj unit-5,08:58,12:44,cooling,CW problem,correct
+2026-02-16,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),14:11,,other,Plant,correct
+2023-11-25,maona33mwppsummit,1.9,1,Maona 33 MW PP(Summit),11:36,,unstated,,correct
+2021-11-02,shajibazar330mwccpp,1.4,4,Shahjibazar-330 MW CCPP GT-2,14:15,16:14,fuel_supply,gas pressure low,correct
+2024-01-14,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP ST,11:08,,unstated,,correct
+2022-10-24,bhola225mwccpp,0.69,4,Bhola CCPP GT-2,08:58,,fuel_supply,GBC trip,correct
+2020-11-07,shajibazar330mwccpp,1.47,3,Shahjibazar 330 MW CCPP,22:28,00:47,unstated,,correct
+2020-10-04,bhola95mwppaggreko,1.03,3,Bhola Agreeko 95 MW,03:35,04:28,fuel_supply,gas shortage,correct
+2023-03-01,barishal307mw,1.23,2,Barisal Electric 307 MW,19:33,,other,air fan problem,correct
+2026-05-22,jerameghnaghatpower,0.8,1,JERA Meghnaghat Power Limited 718 MW CCPP,23:55,,unstated,,correct
+2021-03-09,haripur360mwccpphpl,1.27,3,Haripur 360 MW,06:55,,fuel_supply,low gas pressure,correct
+2023-04-22,baghabari100mwgtpp,1.38,4,- Baghabari 100 MW,5:48,,turbine,high Exhaust Temp,correct
+2020-04-09,baghabari71mwgtpp,1.37,4,Baghabari 71 MW,03:22,,fuel_supply,low gas pressure,correct
+2023-09-19,bholanutanbiddutbd,0.86,4,Bhola Nutan Biddut GT-1,18:36,,other,diverter damper fault,correct
+2021-06-01,sikalbahapeakinggt,0.88,3,Sikalbaha 150 MW GT was synchronized at 17:34 and,,17:34,unstated,,correct
+2025-04-26,payra1320mw,1.5,2,Payra 1320 MW,17:48,,unstated,,correct
+2024-02-18,haripur412mwccpp,1.39,3,Haripur EGCB 412 MW CCPP,16:46,,electrical,a stator ground fault,correct
+2022-03-15,chandpur150mwccpp,1.44,3,Chandpur 150 MW CCPP GT,17:10,20:34,fuel_supply,DP high,correct
+2024-03-25,sylhet225mwccpp,1.44,4,Sylhet 225 MW CCPP GT,01:36,,unstated,,correct
+2021-08-17,ashuganj225mwccpp,1.5,11,Ashuganj 225 MW CCPP,04:31,05:10,unstated,,correct
+2021-08-04,ghorasaltppunit5,0.67,6,Ghorashal unit-7 CCPP GT,15:11,,fuel_supply,gas shortage,wrong: Ghorashal unit-7 linked to Unit-5
+2023-07-21,bhola225mwccpp,0.62,4,Bhola CCPP GT1 & GT2,12:34,,unstated,,correct
+2021-11-12,ashuganj450mwccppsouth,1.65,11,Ashuganj (S)-360 MW CCPP,21:33,,electrical,trip of auxiliary transformer breaker,correct
+2023-04-22,baghabari71mwgtpp,1.29,4,- Baghabari GT-1 - 71MW,20:58,,unstated,,correct
+2021-10-12,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,18:11,,unstated,,correct
+2026-07-17,sylhet225mwccpp,1.5,2,Sylhet 225 MW CCPP,00:43,,electrical,transformer protection signal,correct
+2022-06-27,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,18:05,22:15,unstated,,correct
+2021-04-21,ashuganj225mwccpp,0.81,11,Ashuganj-225 MW CCPP GT was shut down at 17:04 due to problem with air compressor and was synchronized at 20:42 & ST,16:57,20:42,electrical,droop protection trip,correct
+2024-07-10,bibiyanaiii400mwccpp,1.5,1,- Bibiyana-III 400 MW CCPP,11:26,,unstated,,correct
+2024-05-27,sikalbaha225mw,1.38,3,- Sikalbaha 225MW CCPP,9:29,,unstated,,correct
+2024-05-02,adanipowerjharkhandaimported,0.76,1,- Adani Power Jharkhand Ltd. Unit-2,11:27,,unstated,,correct
+2025-09-30,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),02:14,,unstated,,correct
+2024-01-22,meghnaghatccppsummit2,1.4,2,Meghnaghat CCPP(Summit)-2,14:40,,unstated,,correct
+2023-10-26,uniquemeghnaghatpowerumpl,1.71,1,Unique Meghnaghat Power 584 MW CCPP GT,09:55,,unstated,,correct
+2025-11-13,fenchuganjccppphase1,0.61,2,Fenchuganj GT-3,06:18,,unstated,,ambiguous: Fenchuganj GT-3: phase 1 vs phase 2 unclear
+2026-03-13,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),05:22,,other,U2 (Unit 1 Running),correct
+2020-04-15,haripur412mwccpp,1.31,3,Haripur-412 MW EGCB,19:21,,fuel_supply,gas supply fail and GT was synchronized at,correct
+2023-09-06,ashuganj225mwccpp,1.5,12,- Ashuganj 225 MW CCPP,18:58,,unstated,,correct
+2023-09-08,sirajganjunit3225mw,1.29,5,Sirajganj-3 225 MW PP ST,04:24,,unstated,,correct
+2024-03-15,bibiyanasouth400mw,1.9,3,Bibiyana South 400 MW,07:49,,unstated,,correct
+2023-06-18,khulna225mwccpp,1.29,4,Khulna 225MW ST,00:47,,unstated,,correct
+2021-06-19,sikalbahapeakinggt,1.06,3,Sikalbaha 150 MW,05:01,,unstated,,correct
+2021-10-12,haripur412mwccpp,1.41,3,Haripur 412 MW CCPP STG,19:54,,unstated,,correct
+2023-06-28,sikalbaha225mw,1.35,3,Sikalbaha Gas 225MW ST,03:04,,unstated,,correct
+2025-09-12,barapukuriatppunit12,0.89,2,Barapukuria PS Unit-1,14:39,,unstated,,correct
+2023-04-20,kushiara163mwccppkp,1.26,1,- Kushiara 163MW GT,0:19,,unstated,,correct
+2021-12-26,ashuganj450mwccppnorth,1.74,11,Ashuganj (N) 450 MW CCPP STG,10:18,,cooling,CW pump problem,correct
+2023-04-27,sylhet225mwccpp,1.23,4,- Sylhet CCPP 225 MW,12:08,,unstated,,correct
+2024-03-11,chandpur150mwccpp,1.5,3,Chandpur 150 MW CCPP,09:51,,unstated,,correct
+2020-09-17,payra1320mw,0.57,1,Payra unit-1,10:59,,unstated,,correct
+2022-04-23,chandpur150mwccpp,1.37,3,Chandpur 150 MW,20:44,,unstated,,correct
+2025-02-11,ashuganj450mwccppsouth,1.9,9,Ashuganj 450 MW CCPP(South),08:35,,unstated,,correct
+2023-11-13,narshingdi22mwppdoreen,1.9,1,- Narshingdi 22 MW PP (Doreen),16:47,,unstated,,correct
+2020-04-29,meghnaghatccppsummit,1.04,1,Summit Meghnaghat CCPP GT-2 with STG,14:33,21:18,fuel_supply,low gas pressure,correct
+2025-12-16,ashuganj450mwccppnorth,1.9,9,Ashuganj 450 MW CCPP(North),15:14,,unstated,,correct
+2024-01-01,patenga50mwppbaraka,1.9,1,Patenga 50MW PP (Baraka),08:19,,unstated,,correct
+2023-01-23,khulna330mwccppoil,1.41,3,Khulna 330 MW CCPP,20:20,,unstated,,correct
+2025-01-05,sikalbaha225mw,1.35,3,Shikalbaha 225 MW CCPP,10:04,,unstated,,correct
+2020-09-17,ashuganj225mwccpp,1.31,11,Ashuganj 225 MW ST,16:01,01:15,unstated,,correct
+2021-09-10,khulna225mwccpp,1.5,2,Khulna 225 MW CCPP,21:27,,other,tripping of Demi-water pump and GT was synchronized at,correct
+2020-04-22,chandpur150mwccpp,1.5,2,Chandpur 150 MW CCPP,11:30,14:50,control,communication fail at the mean time of 0.4 kV section change over,correct
+2023-05-06,siddhirganj2120mwgtpp,0.74,4,Siddhirganj GT-1,15:16,,grid,siddhirganj-GT1 line tripped,correct
+2022-03-22,khulna225mwccpp,1.41,2,Khulna-225 MW CCPP STG,17:12,07:12,electrical,tripping of 0.4 kV supply CB,correct
+2026-04-16,rampal1320mwbifpcl,1.38,1,Rampal 1320 MW (BIFPCL) Unit-1,14:10,,unstated,,correct
+2024-05-01,ashuganj225mwccpp,0.98,12,Ashuganj CCPP 225 MW Syncronized with remarks:- ST,18:01,,unstated,,"wrong: synchronisation note, not a trip"
+2022-11-06,bhola225mwccpp,1.4,4,Bhola 225 MW CCPP STG,05:31,,other,oil pump trip,correct
+2026-01-29,sspower,0.74,1,SS Power Unit-2,09:40,,unstated,,correct
+2026-09-19,barapukuriatppunit12,0.97,2,Barapukuria TPP Unit-1,18:32,,unstated,,correct
+2021-04-27,shajibazar330mwccpp,1.29,4,Shahjibazar 330 MW GT-1,03:25,,fuel_supply,fuel flow out of range,correct
+2024-05-31,siddhirganj335mwccpp,1.5,4,- Siddhirganj 335 MW CCPP,5:47,,unstated,,correct
+2020-09-16,rangpur113mwppconfidence,1.64,1,Rangpur Confidence 113 MW,19:15,21:03,grid,suspected line tripping,correct
+2023-12-19,rangpur113mwppconfidence,1.9,1,- Rangpur 113 MW PP (Confidence),12:47,,grid,Voltage Fluctuation,correct
+2024-05-12,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,09:06,,unstated,,correct
+2023-03-30,haripur412mwccpp,1.39,3,Haripur 412MW (EGCB) CCPP,01:44,,unstated,,correct
+2026-10-04,barapukuriatppunit12,0.97,2,Barapukuria TPP Unit-1,06:20,,other,Monitor abnormal issues,correct
+2021-01-14,chandpur150mwccpp,0.83,2,Chandpur CCPP,01:40,,electrical,air filter differential pressure high,correct
+2022-12-13,sirajganjunit1225mw,0.74,5,Sirajgonj Unit-1 ST,17:20,,unstated,,correct
+2026-01-26,rampal1320mwbifpcl,1.5,1,Rampal 1320 MW (BIFPCL),09:40,,unstated,,correct
+2025-02-09,ghorasalrepoweredccppunit4,1.0,5,Ghorasal Repowered CCPP Unit-4,15:24,,unstated,,correct
+2023-10-23,ashuganj225mwccpp,1.26,12,Ashuganj CCPP 225 MW,18:55,,unstated,,correct
+2023-04-08,adanipowerjharkhanda,0.81,1,- Adani Power Jharkhand Ltd. Unit-1,15:55,,unstated,,correct
+2025-01-01,uniquemeghnaghatpowerumpl,1.13,1,Unique Meghnaghat STG,09:35,,unstated,,correct
+2022-07-04,bhola225mwccpp,1.24,4,Bhola-225 MW GT-2,,,unstated,,correct
+2021-04-02,ashuganj450mwccppnorth,1.76,11,Ashuganj(N) 450 MW CCPP ST,04:36,,grid,voltage fluctuation,correct
+2023-02-25,bheramara410mwccpp,1.32,3,Bheramara 410MW ST,05:26,,other,internal fault,correct
+2019-02-11,shahjibazargtppunit89,0.8,4,Shahjibazar GT-8,09:10,10:14,fuel_supply,fuel temperature low,correct
+2020-08-30,khulna225mwccpp,1.35,2,Khulna 225 MW,21:33,,fuel_supply,fuel injection pump problem,correct
+2024-03-18,bibiyanasouth400mw,1.9,3,- Bibiyana South 400 MW,16:46,,unstated,,correct
+2022-06-12,meghnaghatccppsummit,1.57,1,Summit Meghnaghat 335 MW CCPP STG,15:42,,unstated,,correct
+2020-10-09,bibiyanasouth400mw,1.31,3,Bibiyana-3 400 MW,14:35,17:46,fuel_supply,gas booster problem and GT was synchronized at 17:46,wrong: Bibiyana-3 linked to Bibiyana South
+2023-07-29,meghnaghatccppsummit,1.16,1,Meghnaghat Summit CCPP ST,08:53,,unstated,,correct
